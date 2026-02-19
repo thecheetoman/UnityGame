@@ -6,16 +6,27 @@ using UnityEngine.Networking;
 
 public static class TextureUtility
 {
-	public static async Task<Texture2D> GetRemoteTexture(string url)
-	{
-		if (string.IsNullOrEmpty(url))
-		{
-			return null;
-		}
-		UnityWebRequest www = UnityWebRequestTexture.GetTexture(url);
-		await www.SendWebRequest();
-		return (www.result != UnityWebRequest.Result.Success) ? null : DownloadHandlerTexture.GetContent(www);
-	}
+	 public static async Task<Texture2D> GetRemoteTexture(string url)
+    {
+        if (string.IsNullOrEmpty(url))
+            return null;
+
+        using (UnityWebRequest www = UnityWebRequestTexture.GetTexture(url))
+        {
+            var op = www.SendWebRequest();
+
+            // Await manually using a TaskCompletionSource
+            var tcs = new TaskCompletionSource<bool>();
+            op.completed += _ => tcs.SetResult(true);
+            await tcs.Task;
+
+            if (www.result != UnityWebRequest.Result.Success)
+                return null;
+
+            return DownloadHandlerTexture.GetContent(www);
+        }
+    }
+
 
 	public static void SaveToFile(this Texture2D tex, string path)
 	{

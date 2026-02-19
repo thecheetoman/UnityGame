@@ -1,65 +1,64 @@
-using System;
-using UnityEngine;
+	using System;
+	using UnityEngine;
 
-namespace SFS.World.PlanetModules
-{
-	[Serializable]
-	public class HeightMap
+	namespace SFS.World.PlanetModules
 	{
-		public float[] points = new float[2] { 0f, 1f };
-
-		public HeightMap()
+		[Serializable]
+		public class HeightMap
 		{
-		}
+			public float[] points = new float[2] { 0f, 1f };
 
-		public HeightMap(float[] points)
-		{
-			this.points = points;
-		}
-
-		public HeightMap(Texture2D image)
-		{
-			Texture2D image2 = image;
-			base._002Ector();
-			points = new float[image2.width];
-			for (int i = 0; i < points.Length; i++)
+			public HeightMap()
 			{
-				points[points.Length - i - 1] = GetHeightAtX(i);
 			}
-			float GetHeightAtX(int x)
+
+			public HeightMap(float[] points)
 			{
-				for (int j = 0; j < image2.height; j++)
+				this.points = points;
+			}
+
+			public HeightMap(Texture2D image)
+			{
+				Texture2D image2 = image;
+				points = new float[image2.width];
+				for (int i = 0; i < points.Length; i++)
 				{
-					float a = image2.GetPixel(x, j).a;
-					if (a < 1f)
-					{
-						return ((float)j + a) / (float)image2.height;
-					}
+					points[points.Length - i - 1] = GetHeightAtX(i);
 				}
-				return 1f;
+				float GetHeightAtX(int x)
+				{
+					for (int j = 0; j < image2.height; j++)
+					{
+						float a = image2.GetPixel(x, j).a;
+						if (a < 1f)
+						{
+							return ((float)j + a) / (float)image2.height;
+						}
+					}
+					return 1f;
+				}
 			}
-		}
 
-		public double EvaluateDoubleOut(double a)
-		{
-			int num = points.Length - 1;
-			a *= (double)num;
-			int num2 = (int)a % num;
-			float num3 = (float)(a % 1.0);
-			return points[num2] * (1f - num3) + points[num2 + 1] * num3;
-		}
+			public double EvaluateDoubleOut(double a)
+			{
+				int num = points.Length - 1;
+				a *= (double)num;
+				int num2 = (int)a % num;
+				float num3 = (float)(a % 1.0);
+				return points[num2] * (1f - num3) + points[num2 + 1] * num3;
+			}
 
-		public float EvaluateClamped(float a)
-		{
-			if (a >= 1f)
+			public float EvaluateClamped(float a)
 			{
-				return points[^1];
+				if (a >= 1f)
+				{
+					return points[^1];
+				}
+				if (a <= 0f)
+				{
+					return points[0];
+				}
+				return (float)EvaluateDoubleOut(a);
 			}
-			if (a <= 0f)
-			{
-				return points[0];
-			}
-			return (float)EvaluateDoubleOut(a);
 		}
 	}
-}

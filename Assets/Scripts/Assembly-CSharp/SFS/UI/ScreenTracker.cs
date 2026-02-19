@@ -14,7 +14,7 @@ namespace SFS.UI
 		private void Update()
 		{
 			size.Value = new Vector2(Screen.width, Screen.height);
-			orientation.Value = ((Screen.width <= Screen.height) ? ScreenOrientation.Portrait : ScreenOrientation.Landscape);
+			orientation.Value = ((Screen.width <= Screen.height) ? ScreenOrientation.Portrait : ScreenOrientation.LandscapeLeft);
 		}
 	}
 }
