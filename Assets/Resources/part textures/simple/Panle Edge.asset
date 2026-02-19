@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 356ee89282d8191e7479dd96ba146ef1, type: 3}
+  m_Name: Panle Edge
+  m_EditorClassIdentifier:
+  colorTex:
+    texture: {fileID: 2800000, guid: a220c9b44e1f9064a8b1e7d3cf20b116, type: 3}
+    flipToLight_X: 0
+    flipToLight_Y: 0
+  shapeTex:
+    texture: {fileID: 2800000, guid: 7efb3513d8cd92e47ae61ce64d5c7ccf, type: 3}
+    flipToLight_X: 0
+    flipToLight_Y: 1
+  shadowTex:
+    texture: {fileID: 2800000, guid: 1f8c210f49fa3514d898056849554a7c, type: 3}
+    flipToLight_X: 0
+    flipToLight_Y: 0

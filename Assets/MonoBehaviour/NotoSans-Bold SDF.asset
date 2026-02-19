@@ -1,0 +1,3936 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -667331979, guid: 67dfb1fdfb2b407222eda8e23ac8b724, type: 3}
+  m_Name: NotoSans-Bold SDF
+  m_EditorClassIdentifier:
+  hashCode: 514071788
+  material: {fileID: 2100000, guid: f994368888c88614a9f01bcd26cad52e, type: 2}
+  materialHashCode: 625010380
+  m_Version: 1.1.0
+  m_SourceFontFileGUID: 6d07ecf389644054d84683722f6a564d
+  m_SourceFontFile: {fileID: 0}
+  m_AtlasPopulationMode: 0
+  m_FaceInfo:
+    m_FaceIndex: 0
+    m_FamilyName: Noto Sans
+    m_StyleName: Bold
+    m_PointSize: 103
+    m_Scale: 1
+    m_LineHeight: 140.26709
+    m_AscentLine: 110.09131
+    m_CapLine: 74
+    m_MeanLine: 56
+    m_Baseline: 0
+    m_DescentLine: -30.175781
+    m_SuperscriptOffset: 110.09131
+    m_SuperscriptSize: 0.5
+    m_SubscriptOffset: -30.175781
+    m_SubscriptSize: 0.5
+    m_UnderlineOffset: -10.310059
+    m_UnderlineThickness: 5.129883
+    m_StrikethroughOffset: 22.4
+    m_StrikethroughThickness: 5.129883
+    m_TabWidth: 27
+  m_GlyphTable:
+  - m_Index: 16
+    m_Metrics:
+      m_Width: 82.140625
+      m_Height: 82.1875
+      m_HorizontalBearingX: 5.125
+      m_HorizontalBearingY: 73.53125
+      m_HorizontalAdvance: 92.390625
+    m_GlyphRect:
+      m_X: 868
+      m_Y: 322
+      m_Width: 83
+      m_Height: 83
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 17
+    m_Metrics:
+      m_Width: 71.0625
+      m_Height: 73.828125
+      m_HorizontalBearingX: 0
+      m_HorizontalBearingY: 73.828125
+      m_HorizontalAdvance: 71.0625
+    m_GlyphRect:
+      m_X: 9
+      m_Y: 285
+      m_Width: 72
+      m_Height: 74
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 18
+    m_Metrics:
+      m_Width: 54.515625
+      m_Height: 73.53125
+      m_HorizontalBearingX: 9.25
+      m_HorizontalBearingY: 73.53125
+      m_HorizontalAdvance: 69.203125
+    m_GlyphRect:
+      m_X: 509
+      m_Y: 611
+      m_Width: 55
+      m_Height: 74
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 19
+    m_Metrics:
+      m_Width: 56.03125
+      m_Height: 75.578125
+      m_HorizontalBearingX: 5.984375
+      m_HorizontalBearingY: 74.578125
+      m_HorizontalAdvance: 65.625
+    m_GlyphRect:
+      m_X: 9
+      m_Y: 815
+      m_Width: 58
+      m_Height: 76
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 20
+    m_Metrics:
+      m_Width: 61.015625
+      m_Height: 73.53125
+      m_HorizontalBearingX: 9.25
+      m_HorizontalBearingY: 73.53125
+      m_HorizontalAdvance: 76.25
+    m_GlyphRect:
+      m_X: 256
+      m_Y: 554
+      m_Width: 62
+      m_Height: 74
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 21
+    m_Metrics:
+      m_Width: 42.34375
+      m_Height: 73.53125
+      m_HorizontalBearingX: 9.25
+      m_HorizontalBearingY: 73.53125
+      m_HorizontalAdvance: 57.6875
+    m_GlyphRect:
+      m_X: 653
+      m_Y: 894
+      m_Width: 43
+      m_Height: 74
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 22
+    m_Metrics:
+      m_Width: 42.15625
+      m_Height: 73.53125
+      m_HorizontalBearingX: 9.25
+      m_HorizontalBearingY: 73.53125
+      m_HorizontalAdvance: 56.53125
+    m_GlyphRect:
+      m_X: 837
+      m_Y: 928
+      m_Width: 43
+      m_Height: 74
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 23
+    m_Metrics:
+      m_Width: 60.359375
+      m_Height: 75.578125
+      m_HorizontalBearingX: 5.984375
+      m_HorizontalBearingY: 74.578125
+      m_HorizontalAdvance: 74.578125
+    m_GlyphRect:
+      m_X: 92
+      m_Y: 568
+      m_Width: 62
+      m_Height: 76
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 24
+    m_Metrics:
+      m_Width: 60.25
+      m_Height: 73.53125
+      m_HorizontalBearingX: 9.25
+      m_HorizontalBearingY: 73.53125
+      m_HorizontalAdvance: 78.8125
+    m_GlyphRect:
+      m_X: 514
+      m_Y: 520
+      m_Width: 61
+      m_Height: 74
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 25
+    m_Metrics:
+      m_Width: 33.453125
+      m_Height: 73.53125
+      m_HorizontalBearingX: 3.3125
+      m_HorizontalBearingY: 73.53125
+      m_HorizontalAdvance: 40.078125
+    m_GlyphRect:
+      m_X: 897
+      m_Y: 928
+      m_Width: 34
+      m_Height: 74
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 26
+    m_Metrics:
+      m_Width: 32.484375
+      m_Height: 95.15625
+      m_HorizontalBearingX: -7.640625
+      m_HorizontalBearingY: 73.53125
+      m_HorizontalAdvance: 34.09375
+    m_GlyphRect:
+      m_X: 196
+      m_Y: 904
+      m_Width: 33
+      m_Height: 96
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 27
+    m_Metrics:
+      m_Width: 59.15625
+      m_Height: 73.53125
+      m_HorizontalBearingX: 9.25
+      m_HorizontalBearingY: 73.53125
+      m_HorizontalAdvance: 68.40625
+    m_GlyphRect:
+      m_X: 432
+      m_Y: 587
+      m_Width: 60
+      m_Height: 74
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 28
+    m_Metrics:
+      m_Width: 45.421875
+      m_Height: 73.53125
+      m_HorizontalBearingX: 9.25
+      m_HorizontalBearingY: 73.53125
+      m_HorizontalAdvance: 58.1875
+    m_GlyphRect:
+      m_X: 601
+      m_Y: 453
+      m_Width: 46
+      m_Height: 74
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 29
+    m_Metrics:
+      m_Width: 78.609375
+      m_Height: 73.53125
+      m_HorizontalBearingX: 9.25
+      m_HorizontalBearingY: 73.53125
+      m_HorizontalAdvance: 97.109375
+    m_GlyphRect:
+      m_X: 106
+      m_Y: 119
+      m_Width: 79
+      m_Height: 74
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 30
+    m_Metrics:
+      m_Width: 65.234375
+      m_Height: 73.53125
+      m_HorizontalBearingX: 9.25
+      m_HorizontalBearingY: 73.53125
+      m_HorizontalAdvance: 83.734375
+    m_GlyphRect:
+      m_X: 186
+      m_Y: 398
+      m_Width: 66
+      m_Height: 74
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 31
+    m_Metrics:
+      m_Width: 70.015625
+      m_Height: 75.6875
+      m_HorizontalBearingX: 5.984375
+      m_HorizontalBearingY: 74.6875
+      m_HorizontalAdvance: 81.984375
+    m_GlyphRect:
+      m_X: 9
+      m_Y: 376
+      m_Width: 71
+      m_Height: 76
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 32
+    m_Metrics:
+      m_Width: 50.796875
+      m_Height: 73.53125
+      m_HorizontalBearingX: 9.25
+      m_HorizontalBearingY: 73.53125
+      m_HorizontalAdvance: 64.671875
+    m_GlyphRect:
+      m_X: 651
+      m_Y: 710
+      m_Width: 52
+      m_Height: 74
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 33
+    m_Metrics:
+      m_Width: 70.015625
+      m_Height: 92.1875
+      m_HorizontalBearingX: 5.984375
+      m_HorizontalBearingY: 74.6875
+      m_HorizontalAdvance: 81.984375
+    m_GlyphRect:
+      m_X: 98
+      m_Y: 292
+      m_Width: 71
+      m_Height: 93
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 34
+    m_Metrics:
+      m_Width: 58.75
+      m_Height: 73.53125
+      m_HorizontalBearingX: 9.25
+      m_HorizontalBearingY: 73.53125
+      m_HorizontalAdvance: 68
+    m_GlyphRect:
+      m_X: 88
+      m_Y: 661
+      m_Width: 59
+      m_Height: 74
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 35
+    m_Metrics:
+      m_Width: 47.921875
+      m_Height: 75.578125
+      m_HorizontalBearingX: 4.734375
+      m_HorizontalBearingY: 74.578125
+      m_HorizontalAdvance: 56.734375
+    m_GlyphRect:
+      m_X: 788
+      m_Y: 765
+      m_Width: 49
+      m_Height: 76
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 36
+    m_Metrics:
+      m_Width: 55.515625
+      m_Height: 73.53125
+      m_HorizontalBearingX: 2.0625
+      m_HorizontalBearingY: 73.53125
+      m_HorizontalAdvance: 59.640625
+    m_GlyphRect:
+      m_X: 743
+      m_Y: 486
+      m_Width: 56
+      m_Height: 74
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 37
+    m_Metrics:
+      m_Width: 60.359375
+      m_Height: 74.53125
+      m_HorizontalBearingX: 8.75
+      m_HorizontalBearingY: 73.53125
+      m_HorizontalAdvance: 77.859375
+    m_GlyphRect:
+      m_X: 9
+      m_Y: 633
+      m_Width: 62
+      m_Height: 75
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 38
+    m_Metrics:
+      m_Width: 66.9375
+      m_Height: 73.53125
+      m_HorizontalBearingX: 0
+      m_HorizontalBearingY: 73.53125
+      m_HorizontalAdvance: 66.9375
+    m_GlyphRect:
+      m_X: 186
+      m_Y: 307
+      m_Width: 67
+      m_Height: 74
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 39
+    m_Metrics:
+      m_Width: 99.578125
+      m_Height: 73.53125
+      m_HorizontalBearingX: 0
+      m_HorizontalBearingY: 73.53125
+      m_HorizontalAdvance: 99.578125
+    m_GlyphRect:
+      m_X: 549
+      m_Y: 9
+      m_Width: 100
+      m_Height: 74
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 40
+    m_Metrics:
+      m_Width: 68.703125
+      m_Height: 73.53125
+      m_HorizontalBearingX: 0
+      m_HorizontalBearingY: 73.53125
+      m_HorizontalAdvance: 68.703125
+    m_GlyphRect:
+      m_X: 525
+      m_Y: 265
+      m_Width: 69
+      m_Height: 74
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 41
+    m_Metrics:
+      m_Width: 64.28125
+      m_Height: 73.53125
+      m_HorizontalBearingX: 0
+      m_HorizontalBearingY: 73.53125
+      m_HorizontalAdvance: 64.28125
+    m_GlyphRect:
+      m_X: 437
+      m_Y: 392
+      m_Width: 65
+      m_Height: 74
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 42
+    m_Metrics:
+      m_Width: 54.71875
+      m_Height: 73.53125
+      m_HorizontalBearingX: 2.46875
+      m_HorizontalBearingY: 73.53125
+      m_HorizontalAdvance: 59.640625
+    m_GlyphRect:
+      m_X: 664
+      m_Y: 522
+      m_Width: 56
+      m_Height: 74
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 45
+    m_Metrics:
+      m_Width: 50.140625
+      m_Height: 58.390625
+      m_HorizontalBearingX: 4.328125
+      m_HorizontalBearingY: 57.390625
+      m_HorizontalAdvance: 62.21875
+    m_GlyphRect:
+      m_X: 334
+      m_Y: 827
+      m_Width: 51
+      m_Height: 59
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 46
+    m_Metrics:
+      m_Width: 52.5
+      m_Height: 79.25
+      m_HorizontalBearingX: 8.046875
+      m_HorizontalBearingY: 78.25
+      m_HorizontalAdvance: 65.1875
+    m_GlyphRect:
+      m_X: 506
+      m_Y: 702
+      m_Width: 53
+      m_Height: 80
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 47
+    m_Metrics:
+      m_Width: 45.109375
+      m_Height: 58.28125
+      m_HorizontalBearingX: 4.625
+      m_HorizontalBearingY: 57.28125
+      m_HorizontalAdvance: 52.953125
+    m_GlyphRect:
+      m_X: 929
+      m_Y: 817
+      m_Width: 46
+      m_Height: 59
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 48
+    m_Metrics:
+      m_Width: 52.5625
+      m_Height: 79.25
+      m_HorizontalBearingX: 4.625
+      m_HorizontalBearingY: 78.25
+      m_HorizontalAdvance: 65.1875
+    m_GlyphRect:
+      m_X: 664
+      m_Y: 613
+      m_Width: 54
+      m_Height: 80
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 49
+    m_Metrics:
+      m_Width: 51.796875
+      m_Height: 58.28125
+      m_HorizontalBearingX: 4.625
+      m_HorizontalBearingY: 57.28125
+      m_HorizontalAdvance: 60.859375
+    m_GlyphRect:
+      m_X: 264
+      m_Y: 827
+      m_Width: 53
+      m_Height: 59
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 50
+    m_Metrics:
+      m_Width: 42.453125
+      m_Height: 78.8125
+      m_HorizontalBearingX: 2.0625
+      m_HorizontalBearingY: 78.8125
+      m_HorizontalAdvance: 39.875
+    m_GlyphRect:
+      m_X: 972
+      m_Y: 285
+      m_Width: 43
+      m_Height: 79
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 51
+    m_Metrics:
+      m_Width: 52.5625
+      m_Height: 82.03125
+      m_HorizontalBearingX: 4.625
+      m_HorizontalBearingY: 57.28125
+      m_HorizontalAdvance: 65.1875
+    m_GlyphRect:
+      m_X: 865
+      m_Y: 518
+      m_Width: 54
+      m_Height: 83
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 52
+    m_Metrics:
+      m_Width: 51.90625
+      m_Height: 78.25
+      m_HorizontalBearingX: 8.046875
+      m_HorizontalBearingY: 78.25
+      m_HorizontalAdvance: 67.6875
+    m_GlyphRect:
+      m_X: 422
+      m_Y: 932
+      m_Width: 52
+      m_Height: 79
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 53
+    m_Metrics:
+      m_Width: 16.703125
+      m_Height: 78.25
+      m_HorizontalBearingX: 7.390625
+      m_HorizontalBearingY: 78.25
+      m_HorizontalAdvance: 31.4375
+    m_GlyphRect:
+      m_X: 830
+      m_Y: 484
+      m_Width: 18
+      m_Height: 79
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 54
+    m_Metrics:
+      m_Width: 30.6875
+      m_Height: 103
+      m_HorizontalBearingX: -6.59375
+      m_HorizontalBearingY: 78.25
+      m_HorizontalAdvance: 31.4375
+    m_GlyphRect:
+      m_X: 81
+      m_Y: 908
+      m_Width: 32
+      m_Height: 104
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 55
+    m_Metrics:
+      m_Width: 55.828125
+      m_Height: 78.25
+      m_HorizontalBearingX: 8.046875
+      m_HorizontalBearingY: 78.25
+      m_HorizontalAdvance: 63.875
+    m_GlyphRect:
+      m_X: 868
+      m_Y: 422
+      m_Width: 56
+      m_Height: 79
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 56
+    m_Metrics:
+      m_Width: 15.34375
+      m_Height: 78.25
+      m_HorizontalBearingX: 8.046875
+      m_HorizontalBearingY: 78.25
+      m_HorizontalAdvance: 31.4375
+    m_GlyphRect:
+      m_X: 473
+      m_Y: 678
+      m_Width: 16
+      m_Height: 79
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 57
+    m_Metrics:
+      m_Width: 85.390625
+      m_Height: 57.28125
+      m_HorizontalBearingX: 8.046875
+      m_HorizontalBearingY: 57.28125
+      m_HorizontalAdvance: 101.140625
+    m_GlyphRect:
+      m_X: 873
+      m_Y: 165
+      m_Width: 86
+      m_Height: 58
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 58
+    m_Metrics:
+      m_Width: 51.90625
+      m_Height: 57.28125
+      m_HorizontalBearingX: 8.046875
+      m_HorizontalBearingY: 57.28125
+      m_HorizontalAdvance: 67.6875
+    m_GlyphRect:
+      m_X: 500
+      m_Y: 799
+      m_Width: 52
+      m_Height: 58
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 59
+    m_Metrics:
+      m_Width: 54.515625
+      m_Height: 58.28125
+      m_HorizontalBearingX: 4.625
+      m_HorizontalBearingY: 57.28125
+      m_HorizontalAdvance: 63.765625
+    m_GlyphRect:
+      m_X: 191
+      m_Y: 828
+      m_Width: 56
+      m_Height: 59
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 60
+    m_Metrics:
+      m_Width: 52.5
+      m_Height: 82.03125
+      m_HorizontalBearingX: 8.046875
+      m_HorizontalBearingY: 57.28125
+      m_HorizontalAdvance: 65.1875
+    m_GlyphRect:
+      m_X: 581
+      m_Y: 640
+      m_Width: 53
+      m_Height: 83
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 61
+    m_Metrics:
+      m_Width: 52.5625
+      m_Height: 82.03125
+      m_HorizontalBearingX: 4.625
+      m_HorizontalBearingY: 57.28125
+      m_HorizontalAdvance: 65.1875
+    m_GlyphRect:
+      m_X: 737
+      m_Y: 577
+      m_Width: 54
+      m_Height: 83
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 62
+    m_Metrics:
+      m_Width: 36.5625
+      m_Height: 57.28125
+      m_HorizontalBearingX: 8.046875
+      m_HorizontalBearingY: 57.28125
+      m_HorizontalAdvance: 46.765625
+    m_GlyphRect:
+      m_X: 196
+      m_Y: 753
+      m_Width: 37
+      m_Height: 58
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 63
+    m_Metrics:
+      m_Width: 42.65625
+      m_Height: 58.28125
+      m_HorizontalBearingX: 4.625
+      m_HorizontalBearingY: 57.28125
+      m_HorizontalAdvance: 51.203125
+    m_GlyphRect:
+      m_X: 854
+      m_Y: 852
+      m_Width: 44
+      m_Height: 59
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 64
+    m_Metrics:
+      m_Width: 39.03125
+      m_Height: 69.203125
+      m_HorizontalBearingX: 2.359375
+      m_HorizontalBearingY: 68.203125
+      m_HorizontalAdvance: 44.703125
+    m_GlyphRect:
+      m_X: 467
+      m_Y: 305
+      m_Width: 40
+      m_Height: 70
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 65
+    m_Metrics:
+      m_Width: 51.890625
+      m_Height: 57.234375
+      m_HorizontalBearingX: 7.75
+      m_HorizontalBearingY: 56.234375
+      m_HorizontalAdvance: 67.6875
+    m_GlyphRect:
+      m_X: 936
+      m_Y: 556
+      m_Width: 53
+      m_Height: 58
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 66
+    m_Metrics:
+      m_Width: 58.59375
+      m_Height: 56.234375
+      m_HorizontalBearingX: 0
+      m_HorizontalBearingY: 56.234375
+      m_HorizontalAdvance: 58.59375
+    m_GlyphRect:
+      m_X: 85
+      m_Y: 752
+      m_Width: 59
+      m_Height: 57
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 67
+    m_Metrics:
+      m_Width: 86.15625
+      m_Height: 56.234375
+      m_HorizontalBearingX: 1
+      m_HorizontalBearingY: 56.234375
+      m_HorizontalAdvance: 88.15625
+    m_GlyphRect:
+      m_X: 881
+      m_Y: 91
+      m_Width: 87
+      m_Height: 57
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 68
+    m_Metrics:
+      m_Width: 58.546875
+      m_Height: 56.234375
+      m_HorizontalBearingX: 0.5
+      m_HorizontalBearingY: 56.234375
+      m_HorizontalAdvance: 59.546875
+    m_GlyphRect:
+      m_X: 335
+      m_Y: 633
+      m_Width: 60
+      m_Height: 57
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 69
+    m_Metrics:
+      m_Width: 58.59375
+      m_Height: 80.984375
+      m_HorizontalBearingX: 0
+      m_HorizontalBearingY: 56.234375
+      m_HorizontalAdvance: 58.59375
+    m_GlyphRect:
+      m_X: 171
+      m_Y: 654
+      m_Width: 59
+      m_Height: 82
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 70
+    m_Metrics:
+      m_Width: 44.40625
+      m_Height: 56.234375
+      m_HorizontalBearingX: 2.765625
+      m_HorizontalBearingY: 56.234375
+      m_HorizontalAdvance: 50.25
+    m_GlyphRect:
+      m_X: 713
+      m_Y: 911
+      m_Width: 46
+      m_Height: 57
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 262
+    m_Metrics:
+      m_Width: 47.921875
+      m_Height: 96.90625
+      m_HorizontalBearingX: 4.734375
+      m_HorizontalBearingY: 95.90625
+      m_HorizontalAdvance: 56.734375
+    m_GlyphRect:
+      m_X: 130
+      m_Y: 908
+      m_Width: 49
+      m_Height: 97
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 1964
+    m_Metrics:
+      m_Width: 23.984375
+      m_Height: 84.75
+      m_HorizontalBearingX: -21.921875
+      m_HorizontalBearingY: 71.0625
+      m_HorizontalAdvance: 0
+    m_GlyphRect:
+      m_X: 380
+      m_Y: 903
+      m_Width: 25
+      m_Height: 86
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 2363
+    m_Metrics:
+      m_Width: 0
+      m_Height: 0
+      m_HorizontalBearingX: 0
+      m_HorizontalBearingY: 0
+      m_HorizontalAdvance: 26.75
+    m_GlyphRect:
+      m_X: 0
+      m_Y: 0
+      m_Width: 0
+      m_Height: 0
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 2364
+    m_Metrics:
+      m_Width: 0
+      m_Height: 0
+      m_HorizontalBearingX: 0
+      m_HorizontalBearingY: 0
+      m_HorizontalAdvance: 26.75
+    m_GlyphRect:
+      m_X: 0
+      m_Y: 0
+      m_Width: 0
+      m_Height: 0
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 2365
+    m_Metrics:
+      m_Width: 50.03125
+      m_Height: 28.265625
+      m_HorizontalBearingX: -43.046875
+      m_HorizontalBearingY: 92.34375
+      m_HorizontalAdvance: 0
+    m_GlyphRect:
+      m_X: 569
+      m_Y: 831
+      m_Width: 51
+      m_Height: 29
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 2366
+    m_Metrics:
+      m_Width: 15.09375
+      m_Height: 23.234375
+      m_HorizontalBearingX: -22.734375
+      m_HorizontalBearingY: 87.3125
+      m_HorizontalAdvance: 0
+    m_GlyphRect:
+      m_X: 161
+      m_Y: 753
+      m_Width: 16
+      m_Height: 24
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 2369
+    m_Metrics:
+      m_Width: 86.5
+      m_Height: 65.125
+      m_HorizontalBearingX: 2.015625
+      m_HorizontalBearingY: 65.125
+      m_HorizontalAdvance: 87.0625
+    m_GlyphRect:
+      m_X: 666
+      m_Y: 91
+      m_Width: 87
+      m_Height: 66
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 2370
+    m_Metrics:
+      m_Width: 116.828125
+      m_Height: 65.125
+      m_HorizontalBearingX: 2.015625
+      m_HorizontalBearingY: 65.125
+      m_HorizontalAdvance: 117.390625
+    m_GlyphRect:
+      m_X: 415
+      m_Y: 9
+      m_Width: 117
+      m_Height: 66
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 2371
+    m_Metrics:
+      m_Width: 54.515625
+      m_Height: 77.203125
+      m_HorizontalBearingX: 0
+      m_HorizontalBearingY: 64.078125
+      m_HorizontalAdvance: 53.0625
+    m_GlyphRect:
+      m_X: 592
+      m_Y: 544
+      m_Width: 55
+      m_Height: 79
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 2372
+    m_Metrics:
+      m_Width: 54.515625
+      m_Height: 105.46875
+      m_HorizontalBearingX: 0
+      m_HorizontalBearingY: 92.34375
+      m_HorizontalAdvance: 53.0625
+    m_GlyphRect:
+      m_X: 9
+      m_Y: 908
+      m_Width: 55
+      m_Height: 107
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 2373
+    m_Metrics:
+      m_Width: 61.65625
+      m_Height: 64.03125
+      m_HorizontalBearingX: 0
+      m_HorizontalBearingY: 64.078125
+      m_HorizontalAdvance: 60.203125
+    m_GlyphRect:
+      m_X: 751
+      m_Y: 404
+      m_Width: 62
+      m_Height: 65
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 2374
+    m_Metrics:
+      m_Width: 86.75
+      m_Height: 64.125
+      m_HorizontalBearingX: 0
+      m_HorizontalBearingY: 64.078125
+      m_HorizontalAdvance: 85.296875
+    m_GlyphRect:
+      m_X: 526
+      m_Y: 100
+      m_Width: 87
+      m_Height: 66
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 2379
+    m_Metrics:
+      m_Width: 64.078125
+      m_Height: 84.453125
+      m_HorizontalBearingX: 0
+      m_HorizontalBearingY: 64.078125
+      m_HorizontalAdvance: 62.609375
+    m_GlyphRect:
+      m_X: 269
+      m_Y: 451
+      m_Width: 65
+      m_Height: 86
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 2381
+    m_Metrics:
+      m_Width: 120.96875
+      m_Height: 92.34375
+      m_HorizontalBearingX: 2.015625
+      m_HorizontalBearingY: 92.34375
+      m_HorizontalAdvance: 117.390625
+    m_GlyphRect:
+      m_X: 9
+      m_Y: 9
+      m_Width: 121
+      m_Height: 93
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 2383
+    m_Metrics:
+      m_Width: 116.828125
+      m_Height: 92.34375
+      m_HorizontalBearingX: 2.015625
+      m_HorizontalBearingY: 92.34375
+      m_HorizontalAdvance: 117.390625
+    m_GlyphRect:
+      m_X: 281
+      m_Y: 9
+      m_Width: 117
+      m_Height: 93
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 2384
+    m_Metrics:
+      m_Width: 116.828125
+      m_Height: 92.34375
+      m_HorizontalBearingX: 2.015625
+      m_HorizontalBearingY: 92.34375
+      m_HorizontalAdvance: 117.390625
+    m_GlyphRect:
+      m_X: 147
+      m_Y: 9
+      m_Width: 117
+      m_Height: 93
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 2385
+    m_Metrics:
+      m_Width: 86.25
+      m_Height: 64.078125
+      m_HorizontalBearingX: 0
+      m_HorizontalBearingY: 64.078125
+      m_HorizontalAdvance: 84.796875
+    m_GlyphRect:
+      m_X: 526
+      m_Y: 183
+      m_Width: 87
+      m_Height: 65
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 2386
+    m_Metrics:
+      m_Width: 93.75
+      m_Height: 64.078125
+      m_HorizontalBearingX: 0
+      m_HorizontalBearingY: 64.078125
+      m_HorizontalAdvance: 92.28125
+    m_GlyphRect:
+      m_X: 666
+      m_Y: 9
+      m_Width: 94
+      m_Height: 65
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 2387
+    m_Metrics:
+      m_Width: 64.28125
+      m_Height: 64.078125
+      m_HorizontalBearingX: 0
+      m_HorizontalBearingY: 64.078125
+      m_HorizontalAdvance: 62.8125
+    m_GlyphRect:
+      m_X: 519
+      m_Y: 438
+      m_Width: 65
+      m_Height: 65
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 2388
+    m_Metrics:
+      m_Width: 67.890625
+      m_Height: 64.078125
+      m_HorizontalBearingX: 0
+      m_HorizontalBearingY: 64.078125
+      m_HorizontalAdvance: 66.4375
+    m_GlyphRect:
+      m_X: 666
+      m_Y: 340
+      m_Width: 68
+      m_Height: 65
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 2390
+    m_Metrics:
+      m_Width: 72.578125
+      m_Height: 64.078125
+      m_HorizontalBearingX: 0
+      m_HorizontalBearingY: 64.078125
+      m_HorizontalAdvance: 71.109375
+    m_GlyphRect:
+      m_X: 105
+      m_Y: 210
+      m_Width: 73
+      m_Height: 65
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 2391
+    m_Metrics:
+      m_Width: 79.71875
+      m_Height: 64.078125
+      m_HorizontalBearingX: 0
+      m_HorizontalBearingY: 64.078125
+      m_HorizontalAdvance: 78.25
+    m_GlyphRect:
+      m_X: 9
+      m_Y: 119
+      m_Width: 80
+      m_Height: 65
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 2392
+    m_Metrics:
+      m_Width: 85.546875
+      m_Height: 64.078125
+      m_HorizontalBearingX: 0
+      m_HorizontalBearingY: 64.078125
+      m_HorizontalAdvance: 84.09375
+    m_GlyphRect:
+      m_X: 666
+      m_Y: 174
+      m_Width: 86
+      m_Height: 65
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 2393
+    m_Metrics:
+      m_Width: 84.59375
+      m_Height: 77.203125
+      m_HorizontalBearingX: 0
+      m_HorizontalBearingY: 64.078125
+      m_HorizontalAdvance: 83.140625
+    m_GlyphRect:
+      m_X: 769
+      m_Y: 198
+      m_Width: 85
+      m_Height: 79
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 2395
+    m_Metrics:
+      m_Width: 57.140625
+      m_Height: 64.078125
+      m_HorizontalBearingX: 0
+      m_HorizontalBearingY: 64.078125
+      m_HorizontalAdvance: 55.671875
+    m_GlyphRect:
+      m_X: 84
+      m_Y: 826
+      m_Width: 58
+      m_Height: 65
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 2396
+    m_Metrics:
+      m_Width: 65.125
+      m_Height: 64.078125
+      m_HorizontalBearingX: 0
+      m_HorizontalBearingY: 64.078125
+      m_HorizontalAdvance: 63.671875
+    m_GlyphRect:
+      m_X: 9
+      m_Y: 551
+      m_Width: 66
+      m_Height: 65
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 2397
+    m_Metrics:
+      m_Width: 72.375
+      m_Height: 64.078125
+      m_HorizontalBearingX: 0
+      m_HorizontalBearingY: 64.078125
+      m_HorizontalAdvance: 70.90625
+    m_GlyphRect:
+      m_X: 390
+      m_Y: 222
+      m_Width: 73
+      m_Height: 65
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 2398
+    m_Metrics:
+      m_Width: 63.46875
+      m_Height: 64.078125
+      m_HorizontalBearingX: 0
+      m_HorizontalBearingY: 64.078125
+      m_HorizontalAdvance: 62.015625
+    m_GlyphRect:
+      m_X: 175
+      m_Y: 489
+      m_Width: 64
+      m_Height: 65
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 2399
+    m_Metrics:
+      m_Width: 83.640625
+      m_Height: 64.078125
+      m_HorizontalBearingX: 0
+      m_HorizontalBearingY: 64.078125
+      m_HorizontalAdvance: 82.171875
+    m_GlyphRect:
+      m_X: 871
+      m_Y: 240
+      m_Width: 84
+      m_Height: 65
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 2400
+    m_Metrics:
+      m_Width: 65.734375
+      m_Height: 65.78125
+      m_HorizontalBearingX: 0
+      m_HorizontalBearingY: 64.078125
+      m_HorizontalAdvance: 64.28125
+    m_GlyphRect:
+      m_X: 97
+      m_Y: 402
+      m_Width: 66
+      m_Height: 67
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 2401
+    m_Metrics:
+      m_Width: 71.109375
+      m_Height: 65.125
+      m_HorizontalBearingX: 4.28125
+      m_HorizontalBearingY: 65.125
+      m_HorizontalAdvance: 73.9375
+    m_GlyphRect:
+      m_X: 292
+      m_Y: 286
+      m_Width: 72
+      m_Height: 66
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 2402
+    m_Metrics:
+      m_Width: 58.9375
+      m_Height: 71.125
+      m_HorizontalBearingX: 0
+      m_HorizontalBearingY: 64.078125
+      m_HorizontalAdvance: 57.484375
+    m_GlyphRect:
+      m_X: 9
+      m_Y: 725
+      m_Width: 59
+      m_Height: 73
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 2403
+    m_Metrics:
+      m_Width: 67.796875
+      m_Height: 65.125
+      m_HorizontalBearingX: 4.375
+      m_HorizontalBearingY: 65.125
+      m_HorizontalAdvance: 70.71875
+    m_GlyphRect:
+      m_X: 381
+      m_Y: 304
+      m_Width: 69
+      m_Height: 66
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 2404
+    m_Metrics:
+      m_Width: 65.125
+      m_Height: 64.078125
+      m_HorizontalBearingX: 0
+      m_HorizontalBearingY: 64.078125
+      m_HorizontalAdvance: 63.671875
+    m_GlyphRect:
+      m_X: 9
+      m_Y: 469
+      m_Width: 66
+      m_Height: 65
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 2406
+    m_Metrics:
+      m_Width: 64.625
+      m_Height: 64.078125
+      m_HorizontalBearingX: 0
+      m_HorizontalBearingY: 64.078125
+      m_HorizontalAdvance: 63.171875
+    m_GlyphRect:
+      m_X: 351
+      m_Y: 469
+      m_Width: 65
+      m_Height: 65
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 2407
+    m_Metrics:
+      m_Width: 86.046875
+      m_Height: 64.078125
+      m_HorizontalBearingX: 0
+      m_HorizontalBearingY: 64.078125
+      m_HorizontalAdvance: 84.59375
+    m_GlyphRect:
+      m_X: 881
+      m_Y: 9
+      m_Width: 87
+      m_Height: 65
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 2408
+    m_Metrics:
+      m_Width: 65.328125
+      m_Height: 64.078125
+      m_HorizontalBearingX: 0
+      m_HorizontalBearingY: 64.078125
+      m_HorizontalAdvance: 63.875
+    m_GlyphRect:
+      m_X: 92
+      m_Y: 486
+      m_Width: 66
+      m_Height: 65
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 2409
+    m_Metrics:
+      m_Width: 76.84375
+      m_Height: 65.078125
+      m_HorizontalBearingX: 4.28125
+      m_HorizontalBearingY: 65.078125
+      m_HorizontalAdvance: 79.671875
+    m_GlyphRect:
+      m_X: 297
+      m_Y: 119
+      m_Width: 78
+      m_Height: 66
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 2410
+    m_Metrics:
+      m_Width: 68.046875
+      m_Height: 64.078125
+      m_HorizontalBearingX: 0
+      m_HorizontalBearingY: 64.078125
+      m_HorizontalAdvance: 66.59375
+    m_GlyphRect:
+      m_X: 524
+      m_Y: 356
+      m_Width: 69
+      m_Height: 65
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 2411
+    m_Metrics:
+      m_Width: 66.890625
+      m_Height: 64.078125
+      m_HorizontalBearingX: 0
+      m_HorizontalBearingY: 64.078125
+      m_HorizontalAdvance: 65.4375
+    m_GlyphRect:
+      m_X: 270
+      m_Y: 369
+      m_Width: 67
+      m_Height: 65
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 2412
+    m_Metrics:
+      m_Width: 46.625
+      m_Height: 65.78125
+      m_HorizontalBearingX: 0
+      m_HorizontalBearingY: 64.078125
+      m_HorizontalAdvance: 45.15625
+    m_GlyphRect:
+      m_X: 968
+      m_Y: 381
+      m_Width: 47
+      m_Height: 67
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 2414
+    m_Metrics:
+      m_Width: 77.5
+      m_Height: 65.78125
+      m_HorizontalBearingX: 0
+      m_HorizontalBearingY: 64.078125
+      m_HorizontalAdvance: 76.046875
+    m_GlyphRect:
+      m_X: 202
+      m_Y: 119
+      m_Width: 78
+      m_Height: 67
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 2417
+    m_Metrics:
+      m_Width: 63.828125
+      m_Height: 64.078125
+      m_HorizontalBearingX: 0
+      m_HorizontalBearingY: 64.078125
+      m_HorizontalAdvance: 62.359375
+    m_GlyphRect:
+      m_X: 351
+      m_Y: 551
+      m_Width: 64
+      m_Height: 65
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 2418
+    m_Metrics:
+      m_Width: 75.03125
+      m_Height: 65.984375
+      m_HorizontalBearingX: 3.671875
+      m_HorizontalBearingY: 65.125
+      m_HorizontalAdvance: 77.25
+    m_GlyphRect:
+      m_X: 297
+      m_Y: 202
+      m_Width: 76
+      m_Height: 67
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 2419
+    m_Metrics:
+      m_Width: 65.890625
+      m_Height: 64.078125
+      m_HorizontalBearingX: 0
+      m_HorizontalBearingY: 64.078125
+      m_HorizontalAdvance: 64.421875
+    m_GlyphRect:
+      m_X: 354
+      m_Y: 387
+      m_Width: 66
+      m_Height: 65
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 2420
+    m_Metrics:
+      m_Width: 78.453125
+      m_Height: 65.78125
+      m_HorizontalBearingX: 0
+      m_HorizontalBearingY: 64.078125
+      m_HorizontalAdvance: 77
+    m_GlyphRect:
+      m_X: 9
+      m_Y: 201
+      m_Width: 79
+      m_Height: 67
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 2421
+    m_Metrics:
+      m_Width: 60.15625
+      m_Height: 81.484375
+      m_HorizontalBearingX: 0
+      m_HorizontalBearingY: 64.078125
+      m_HorizontalAdvance: 58.6875
+    m_GlyphRect:
+      m_X: 665
+      m_Y: 422
+      m_Width: 61
+      m_Height: 83
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 2422
+    m_Metrics:
+      m_Width: 15.078125
+      m_Height: 15.390625
+      m_HorizontalBearingX: -36.65625
+      m_HorizontalBearingY: -6.140625
+      m_HorizontalAdvance: 0
+    m_GlyphRect:
+      m_X: 422
+      m_Y: 899
+      m_Width: 16
+      m_Height: 16
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 2424
+    m_Metrics:
+      m_Width: 31.78125
+      m_Height: 64.078125
+      m_HorizontalBearingX: 0
+      m_HorizontalBearingY: 64.078125
+      m_HorizontalAdvance: 30.328125
+    m_GlyphRect:
+      m_X: 402
+      m_Y: 817
+      m_Width: 32
+      m_Height: 65
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 2425
+    m_Metrics:
+      m_Width: 82.328125
+      m_Height: 92.34375
+      m_HorizontalBearingX: 0
+      m_HorizontalBearingY: 92.34375
+      m_HorizontalAdvance: 30.328125
+    m_GlyphRect:
+      m_X: 768
+      m_Y: 294
+      m_Width: 83
+      m_Height: 93
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 2426
+    m_Metrics:
+      m_Width: 58.640625
+      m_Height: 92.34375
+      m_HorizontalBearingX: -26.859375
+      m_HorizontalBearingY: 92.34375
+      m_HorizontalAdvance: 30.328125
+    m_GlyphRect:
+      m_X: 250
+      m_Y: 645
+      m_Width: 59
+      m_Height: 93
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 2427
+    m_Metrics:
+      m_Width: 52.15625
+      m_Height: 30.625
+      m_HorizontalBearingX: -49.796875
+      m_HorizontalBearingY: 3.0625
+      m_HorizontalAdvance: 0
+    m_GlyphRect:
+      m_X: 862
+      m_Y: 618
+      m_Width: 53
+      m_Height: 32
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 2428
+    m_Metrics:
+      m_Width: 52.15625
+      m_Height: 30.625
+      m_HorizontalBearingX: -38.421875
+      m_HorizontalBearingY: 3.0625
+      m_HorizontalAdvance: 0
+    m_GlyphRect:
+      m_X: 735
+      m_Y: 677
+      m_Width: 53
+      m_Height: 32
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 2429
+    m_Metrics:
+      m_Width: 33.234375
+      m_Height: 31.640625
+      m_HorizontalBearingX: -28.609375
+      m_HorizontalBearingY: 4.078125
+      m_HorizontalAdvance: 0
+    m_GlyphRect:
+      m_X: 779
+      m_Y: 858
+      m_Width: 34
+      m_Height: 33
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 2433
+    m_Metrics:
+      m_Width: 36.0625
+      m_Height: 29.03125
+      m_HorizontalBearingX: -45.109375
+      m_HorizontalBearingY: 92.34375
+      m_HorizontalAdvance: 0
+    m_GlyphRect:
+      m_X: 808
+      m_Y: 580
+      m_Width: 37
+      m_Height: 30
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 2434
+    m_Metrics:
+      m_Width: 37.765625
+      m_Height: 29.03125
+      m_HorizontalBearingX: -46.921875
+      m_HorizontalBearingY: 92.34375
+      m_HorizontalAdvance: 0
+    m_GlyphRect:
+      m_X: 610
+      m_Y: 406
+      m_Width: 38
+      m_Height: 30
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 2435
+    m_Metrics:
+      m_Width: 50.03125
+      m_Height: 92.34375
+      m_HorizontalBearingX: -14.046875
+      m_HorizontalBearingY: 92.34375
+      m_HorizontalAdvance: 30.328125
+    m_GlyphRect:
+      m_X: 246
+      m_Y: 904
+      m_Width: 51
+      m_Height: 93
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 2437
+    m_Metrics:
+      m_Width: 46.890625
+      m_Height: 92.34375
+      m_HorizontalBearingX: -15.109375
+      m_HorizontalBearingY: 92.34375
+      m_HorizontalAdvance: 30.328125
+    m_GlyphRect:
+      m_X: 392
+      m_Y: 707
+      m_Width: 48
+      m_Height: 93
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 2438
+    m_Metrics:
+      m_Width: 48.703125
+      m_Height: 92.34375
+      m_HorizontalBearingX: -16.921875
+      m_HorizontalBearingY: 92.34375
+      m_HorizontalAdvance: 30.328125
+    m_GlyphRect:
+      m_X: 314
+      m_Y: 903
+      m_Width: 49
+      m_Height: 93
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 2439
+    m_Metrics:
+      m_Width: 37.625
+      m_Height: 27.5625
+      m_HorizontalBearingX: -23.140625
+      m_HorizontalBearingY: 0
+      m_HorizontalAdvance: 0
+    m_GlyphRect:
+      m_X: 610
+      m_Y: 361
+      m_Width: 39
+      m_Height: 28
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 2446
+    m_Metrics:
+      m_Width: 93.75
+      m_Height: 76.609375
+      m_HorizontalBearingX: 0
+      m_HorizontalBearingY: 64.078125
+      m_HorizontalAdvance: 92.28125
+    m_GlyphRect:
+      m_X: 415
+      m_Y: 92
+      m_Width: 94
+      m_Height: 78
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 2448
+    m_Metrics:
+      m_Width: 85.546875
+      m_Height: 79.609375
+      m_HorizontalBearingX: 0
+      m_HorizontalBearingY: 64.078125
+      m_HorizontalAdvance: 84.09375
+    m_GlyphRect:
+      m_X: 770
+      m_Y: 100
+      m_Width: 86
+      m_Height: 81
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 2449
+    m_Metrics:
+      m_Width: 72.375
+      m_Height: 85.609375
+      m_HorizontalBearingX: 0
+      m_HorizontalBearingY: 64.078125
+      m_HorizontalAdvance: 70.90625
+    m_GlyphRect:
+      m_X: 202
+      m_Y: 203
+      m_Width: 73
+      m_Height: 87
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 2450
+    m_Metrics:
+      m_Width: 63.46875
+      m_Height: 85.609375
+      m_HorizontalBearingX: 0
+      m_HorizontalBearingY: 64.078125
+      m_HorizontalAdvance: 62.015625
+    m_GlyphRect:
+      m_X: 433
+      m_Y: 483
+      m_Width: 64
+      m_Height: 87
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 2451
+    m_Metrics:
+      m_Width: 86.046875
+      m_Height: 72.609375
+      m_HorizontalBearingX: 0
+      m_HorizontalBearingY: 64.078125
+      m_HorizontalAdvance: 84.59375
+    m_GlyphRect:
+      m_X: 777
+      m_Y: 9
+      m_Width: 87
+      m_Height: 74
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 2457
+    m_Metrics:
+      m_Width: 13.78125
+      m_Height: 64.078125
+      m_HorizontalBearingX: 18.3125
+      m_HorizontalBearingY: 64.078125
+      m_HorizontalAdvance: 41.046875
+    m_GlyphRect:
+      m_X: 159
+      m_Y: 826
+      m_Width: 15
+      m_Height: 65
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 2985
+    m_Metrics:
+      m_Width: 17.609375
+      m_Height: 74.890625
+      m_HorizontalBearingX: 13.625
+      m_HorizontalBearingY: 73.53125
+      m_HorizontalAdvance: 41.484375
+    m_GlyphRect:
+      m_X: 630
+      m_Y: 100
+      m_Width: 19
+      m_Height: 76
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 2987
+    m_Metrics:
+      m_Width: 60.65625
+      m_Height: 65.125
+      m_HorizontalBearingX: 3.96875
+      m_HorizontalBearingY: 65.125
+      m_HorizontalAdvance: 68.546875
+    m_GlyphRect:
+      m_X: 171
+      m_Y: 571
+      m_Width: 62
+      m_Height: 66
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 2988
+    m_Metrics:
+      m_Width: 84.390625
+      m_Height: 66.03125
+      m_HorizontalBearingX: 4.125
+      m_HorizontalBearingY: 65.125
+      m_HorizontalAdvance: 92.640625
+    m_GlyphRect:
+      m_X: 666
+      m_Y: 256
+      m_Width: 85
+      m_Height: 67
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 2990
+    m_Metrics:
+      m_Width: 27.703125
+      m_Height: 119.90625
+      m_HorizontalBearingX: 6.796875
+      m_HorizontalBearingY: 92.34375
+      m_HorizontalAdvance: 39.78125
+    m_GlyphRect:
+      m_X: 985
+      m_Y: 9
+      m_Width: 29
+      m_Height: 121
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 2991
+    m_Metrics:
+      m_Width: 27.71875
+      m_Height: 119.90625
+      m_HorizontalBearingX: 5.28125
+      m_HorizontalBearingY: 92.34375
+      m_HorizontalAdvance: 39.78125
+    m_GlyphRect:
+      m_X: 985
+      m_Y: 147
+      m_Width: 28
+      m_Height: 121
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 2994
+    m_Metrics:
+      m_Width: 19.90625
+      m_Height: 26.75
+      m_HorizontalBearingX: 3.171875
+      m_HorizontalBearingY: 14.484375
+      m_HorizontalAdvance: 29.875
+    m_GlyphRect:
+      m_X: 830
+      m_Y: 404
+      m_Width: 21
+      m_Height: 28
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 2995
+    m_Metrics:
+      m_Width: 27.015625
+      m_Height: 12.578125
+      m_HorizontalBearingX: 5.328125
+      m_HorizontalBearingY: 36.921875
+      m_HorizontalAdvance: 37.671875
+    m_GlyphRect:
+      m_X: 480
+      m_Y: 275
+      m_Width: 28
+      m_Height: 13
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 2996
+    m_Metrics:
+      m_Width: 17.59375
+      m_Height: 17.09375
+      m_HorizontalBearingX: 5.890625
+      m_HorizontalBearingY: 15.734375
+      m_HorizontalAdvance: 29.375
+    m_GlyphRect:
+      m_X: 830
+      m_Y: 449
+      m_Width: 19
+      m_Height: 18
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 2997
+    m_Metrics:
+      m_Width: 41.34375
+      m_Height: 119.90625
+      m_HorizontalBearingX: 3.625
+      m_HorizontalBearingY: 92.34375
+      m_HorizontalAdvance: 48.578125
+    m_GlyphRect:
+      m_X: 500
+      m_Y: 894
+      m_Width: 42
+      m_Height: 121
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 2998
+    m_Metrics:
+      m_Width: 50.390625
+      m_Height: 75.6875
+      m_HorizontalBearingX: 3.171875
+      m_HorizontalBearingY: 74.6875
+      m_HorizontalAdvance: 56.734375
+    m_GlyphRect:
+      m_X: 645
+      m_Y: 801
+      m_Width: 51
+      m_Height: 76
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 2999
+    m_Metrics:
+      m_Width: 36.46875
+      m_Height: 73.53125
+      m_HorizontalBearingX: 4.625
+      m_HorizontalBearingY: 73.53125
+      m_HorizontalAdvance: 56.734375
+    m_GlyphRect:
+      m_X: 611
+      m_Y: 270
+      m_Width: 38
+      m_Height: 74
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 3000
+    m_Metrics:
+      m_Width: 49.546875
+      m_Height: 74.578125
+      m_HorizontalBearingX: 3.921875
+      m_HorizontalBearingY: 74.578125
+      m_HorizontalAdvance: 56.734375
+    m_GlyphRect:
+      m_X: 861
+      m_Y: 760
+      m_Width: 51
+      m_Height: 75
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 3001
+    m_Metrics:
+      m_Width: 49.890625
+      m_Height: 75.578125
+      m_HorizontalBearingX: 2.859375
+      m_HorizontalBearingY: 74.578125
+      m_HorizontalAdvance: 56.734375
+    m_GlyphRect:
+      m_X: 720
+      m_Y: 726
+      m_Width: 51
+      m_Height: 76
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 3002
+    m_Metrics:
+      m_Width: 54.359375
+      m_Height: 73.53125
+      m_HorizontalBearingX: 0.203125
+      m_HorizontalBearingY: 73.53125
+      m_HorizontalAdvance: 56.734375
+    m_GlyphRect:
+      m_X: 941
+      m_Y: 465
+      m_Width: 55
+      m_Height: 74
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 3003
+    m_Metrics:
+      m_Width: 48.078125
+      m_Height: 74.53125
+      m_HorizontalBearingX: 4.328125
+      m_HorizontalBearingY: 73.53125
+      m_HorizontalAdvance: 56.734375
+    m_GlyphRect:
+      m_X: 713
+      m_Y: 819
+      m_Width: 49
+      m_Height: 75
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 3004
+    m_Metrics:
+      m_Width: 49.828125
+      m_Height: 75.390625
+      m_HorizontalBearingX: 3.828125
+      m_HorizontalBearingY: 74.390625
+      m_HorizontalAdvance: 56.734375
+    m_GlyphRect:
+      m_X: 861
+      m_Y: 667
+      m_Width: 51
+      m_Height: 76
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 3005
+    m_Metrics:
+      m_Width: 50.703125
+      m_Height: 73.421875
+      m_HorizontalBearingX: 2.765625
+      m_HorizontalBearingY: 73.421875
+      m_HorizontalAdvance: 56.734375
+    m_GlyphRect:
+      m_X: 576
+      m_Y: 740
+      m_Width: 52
+      m_Height: 74
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 3006
+    m_Metrics:
+      m_Width: 49.53125
+      m_Height: 75.484375
+      m_HorizontalBearingX: 3.625
+      m_HorizontalBearingY: 74.484375
+      m_HorizontalAdvance: 56.734375
+    m_GlyphRect:
+      m_X: 929
+      m_Y: 724
+      m_Width: 51
+      m_Height: 76
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 3007
+    m_Metrics:
+      m_Width: 49.890625
+      m_Height: 75.390625
+      m_HorizontalBearingX: 3.171875
+      m_HorizontalBearingY: 74.390625
+      m_HorizontalAdvance: 56.734375
+    m_GlyphRect:
+      m_X: 932
+      m_Y: 631
+      m_Width: 51
+      m_Height: 76
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 3008
+    m_Metrics:
+      m_Width: 17.609375
+      m_Height: 58.640625
+      m_HorizontalBearingX: 7.84375
+      m_HorizontalBearingY: 57.28125
+      m_HorizontalAdvance: 33.34375
+    m_GlyphRect:
+      m_X: 630
+      m_Y: 193
+      m_Width: 19
+      m_Height: 60
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 3009
+    m_Metrics:
+      m_Width: 20.328125
+      m_Height: 69.546875
+      m_HorizontalBearingX: 5.125
+      m_HorizontalBearingY: 57.28125
+      m_HorizontalAdvance: 33.34375
+    m_GlyphRect:
+      m_X: 487
+      m_Y: 187
+      m_Width: 21
+      m_Height: 71
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 3010
+    m_Metrics:
+      m_Width: 47.875
+      m_Height: 54.171875
+      m_HorizontalBearingX: 5.4375
+      m_HorizontalBearingY: 61.359375
+      m_HorizontalAdvance: 58.75
+    m_GlyphRect:
+      m_X: 250
+      m_Y: 755
+      m_Width: 49
+      m_Height: 55
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 3011
+    m_Metrics:
+      m_Width: 47.875
+      m_Height: 30.484375
+      m_HorizontalBearingX: 5.4375
+      m_HorizontalBearingY: 48.484375
+      m_HorizontalAdvance: 58.75
+    m_GlyphRect:
+      m_X: 326
+      m_Y: 707
+      m_Width: 49
+      m_Height: 31
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 3012
+    m_Metrics:
+      m_Width: 47.875
+      m_Height: 54.171875
+      m_HorizontalBearingX: 5.4375
+      m_HorizontalBearingY: 61.359375
+      m_HorizontalAdvance: 58.75
+    m_GlyphRect:
+      m_X: 316
+      m_Y: 755
+      m_Width: 49
+      m_Height: 55
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 3013
+    m_Metrics:
+      m_Width: 43.25
+      m_Height: 75.9375
+      m_HorizontalBearingX: 6.390625
+      m_HorizontalBearingY: 74.578125
+      m_HorizontalAdvance: 56.03125
+    m_GlyphRect:
+      m_X: 776
+      m_Y: 911
+      m_Width: 44
+      m_Height: 77
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 3014
+    m_Metrics:
+      m_Width: 24.34375
+      m_Height: 119.90625
+      m_HorizontalBearingX: 10.765625
+      m_HorizontalBearingY: 92.34375
+      m_HorizontalAdvance: 40.140625
+    m_GlyphRect:
+      m_X: 457
+      m_Y: 774
+      m_Width: 26
+      m_Height: 121
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 3016
+    m_Metrics:
+      m_Width: 24.34375
+      m_Height: 119.90625
+      m_HorizontalBearingX: 5.03125
+      m_HorizontalBearingY: 92.34375
+      m_HorizontalAdvance: 40.140625
+    m_GlyphRect:
+      m_X: 611
+      m_Y: 894
+      m_Width: 25
+      m_Height: 121
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 3018
+    m_Metrics:
+      m_Width: 42.75
+      m_Height: 7.046875
+      m_HorizontalBearingX: -0.203125
+      m_HorizontalBearingY: -9.25
+      m_HorizontalAdvance: 42.34375
+    m_GlyphRect:
+      m_X: 412
+      m_Y: 678
+      m_Width: 44
+      m_Height: 8
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 3019
+    m_Metrics:
+      m_Width: 34.90625
+      m_Height: 119.90625
+      m_HorizontalBearingX: 3.921875
+      m_HorizontalBearingY: 92.34375
+      m_HorizontalAdvance: 43.859375
+    m_GlyphRect:
+      m_X: 808
+      m_Y: 627
+      m_Width: 36
+      m_Height: 121
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 3021
+    m_Metrics:
+      m_Width: 34.90625
+      m_Height: 119.90625
+      m_HorizontalBearingX: 5.03125
+      m_HorizontalBearingY: 92.34375
+      m_HorizontalAdvance: 43.859375
+    m_GlyphRect:
+      m_X: 559
+      m_Y: 894
+      m_Width: 35
+      m_Height: 121
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 3024
+    m_Metrics:
+      m_Width: 43.25
+      m_Height: 11.5625
+      m_HorizontalBearingX: 4.125
+      m_HorizontalBearingY: 36.515625
+      m_HorizontalAdvance: 51.5
+    m_GlyphRect:
+      m_X: 653
+      m_Y: 985
+      m_Width: 44
+      m_Height: 13
+    m_Scale: 1
+    m_AtlasIndex: 0
+  - m_Index: 3030
+    m_Metrics:
+      m_Width: 76.28125
+      m_Height: 17.09375
+      m_HorizontalBearingX: 5.890625
+      m_HorizontalBearingY: 15.734375
+      m_HorizontalAdvance: 88.0625
+    m_GlyphRect:
+      m_X: 392
+      m_Y: 187
+      m_Width: 78
+      m_Height: 18
+    m_Scale: 1
+    m_AtlasIndex: 0
+  m_CharacterTable:
+  - m_ElementType: 1
+    m_Unicode: 13
+    m_GlyphIndex: 2363
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 32
+    m_GlyphIndex: 2364
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 33
+    m_GlyphIndex: 2985
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 35
+    m_GlyphIndex: 2987
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 37
+    m_GlyphIndex: 2988
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 40
+    m_GlyphIndex: 2990
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 41
+    m_GlyphIndex: 2991
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 44
+    m_GlyphIndex: 2994
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 45
+    m_GlyphIndex: 2995
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 46
+    m_GlyphIndex: 2996
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 47
+    m_GlyphIndex: 2997
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 48
+    m_GlyphIndex: 2998
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 49
+    m_GlyphIndex: 2999
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 50
+    m_GlyphIndex: 3000
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 51
+    m_GlyphIndex: 3001
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 52
+    m_GlyphIndex: 3002
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 53
+    m_GlyphIndex: 3003
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 54
+    m_GlyphIndex: 3004
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 55
+    m_GlyphIndex: 3005
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 56
+    m_GlyphIndex: 3006
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 57
+    m_GlyphIndex: 3007
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 58
+    m_GlyphIndex: 3008
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 59
+    m_GlyphIndex: 3009
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 60
+    m_GlyphIndex: 3010
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 61
+    m_GlyphIndex: 3011
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 62
+    m_GlyphIndex: 3012
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 63
+    m_GlyphIndex: 3013
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 64
+    m_GlyphIndex: 16
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 65
+    m_GlyphIndex: 17
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 66
+    m_GlyphIndex: 18
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 67
+    m_GlyphIndex: 19
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 68
+    m_GlyphIndex: 20
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 69
+    m_GlyphIndex: 21
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 70
+    m_GlyphIndex: 22
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 71
+    m_GlyphIndex: 23
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 72
+    m_GlyphIndex: 24
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 73
+    m_GlyphIndex: 25
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 74
+    m_GlyphIndex: 26
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 75
+    m_GlyphIndex: 27
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 76
+    m_GlyphIndex: 28
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 77
+    m_GlyphIndex: 29
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 78
+    m_GlyphIndex: 30
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 79
+    m_GlyphIndex: 31
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 80
+    m_GlyphIndex: 32
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 81
+    m_GlyphIndex: 33
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 82
+    m_GlyphIndex: 34
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 83
+    m_GlyphIndex: 35
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 84
+    m_GlyphIndex: 36
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 85
+    m_GlyphIndex: 37
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 86
+    m_GlyphIndex: 38
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 87
+    m_GlyphIndex: 39
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 88
+    m_GlyphIndex: 40
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 89
+    m_GlyphIndex: 41
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 90
+    m_GlyphIndex: 42
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 91
+    m_GlyphIndex: 3014
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 93
+    m_GlyphIndex: 3016
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 95
+    m_GlyphIndex: 3018
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 97
+    m_GlyphIndex: 45
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 98
+    m_GlyphIndex: 46
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 99
+    m_GlyphIndex: 47
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 100
+    m_GlyphIndex: 48
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 101
+    m_GlyphIndex: 49
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 102
+    m_GlyphIndex: 50
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 103
+    m_GlyphIndex: 51
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 104
+    m_GlyphIndex: 52
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 105
+    m_GlyphIndex: 53
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 106
+    m_GlyphIndex: 54
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 107
+    m_GlyphIndex: 55
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 108
+    m_GlyphIndex: 56
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 109
+    m_GlyphIndex: 57
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 110
+    m_GlyphIndex: 58
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 111
+    m_GlyphIndex: 59
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 112
+    m_GlyphIndex: 60
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 113
+    m_GlyphIndex: 61
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 114
+    m_GlyphIndex: 62
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 115
+    m_GlyphIndex: 63
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 116
+    m_GlyphIndex: 64
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 117
+    m_GlyphIndex: 65
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 118
+    m_GlyphIndex: 66
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 119
+    m_GlyphIndex: 67
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 120
+    m_GlyphIndex: 68
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 121
+    m_GlyphIndex: 69
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 122
+    m_GlyphIndex: 70
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 123
+    m_GlyphIndex: 3019
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 125
+    m_GlyphIndex: 3021
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 352
+    m_GlyphIndex: 262
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 2305
+    m_GlyphIndex: 2365
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 2306
+    m_GlyphIndex: 2366
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 2309
+    m_GlyphIndex: 2369
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 2310
+    m_GlyphIndex: 2370
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 2311
+    m_GlyphIndex: 2371
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 2312
+    m_GlyphIndex: 2372
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 2313
+    m_GlyphIndex: 2373
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 2314
+    m_GlyphIndex: 2374
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 2319
+    m_GlyphIndex: 2379
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 2321
+    m_GlyphIndex: 2381
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 2323
+    m_GlyphIndex: 2383
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 2324
+    m_GlyphIndex: 2384
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 2325
+    m_GlyphIndex: 2385
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 2326
+    m_GlyphIndex: 2386
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 2327
+    m_GlyphIndex: 2387
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 2328
+    m_GlyphIndex: 2388
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 2330
+    m_GlyphIndex: 2390
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 2331
+    m_GlyphIndex: 2391
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 2332
+    m_GlyphIndex: 2392
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 2333
+    m_GlyphIndex: 2393
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 2335
+    m_GlyphIndex: 2395
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 2336
+    m_GlyphIndex: 2396
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 2337
+    m_GlyphIndex: 2397
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 2338
+    m_GlyphIndex: 2398
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 2339
+    m_GlyphIndex: 2399
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 2340
+    m_GlyphIndex: 2400
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 2341
+    m_GlyphIndex: 2401
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 2342
+    m_GlyphIndex: 2402
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 2343
+    m_GlyphIndex: 2403
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 2344
+    m_GlyphIndex: 2404
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 2346
+    m_GlyphIndex: 2406
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 2347
+    m_GlyphIndex: 2407
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 2348
+    m_GlyphIndex: 2408
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 2349
+    m_GlyphIndex: 2409
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 2350
+    m_GlyphIndex: 2410
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 2351
+    m_GlyphIndex: 2411
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 2352
+    m_GlyphIndex: 2412
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 2354
+    m_GlyphIndex: 2414
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 2357
+    m_GlyphIndex: 2417
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 2358
+    m_GlyphIndex: 2418
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 2359
+    m_GlyphIndex: 2419
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 2360
+    m_GlyphIndex: 2420
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 2361
+    m_GlyphIndex: 2421
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 2364
+    m_GlyphIndex: 2422
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 2366
+    m_GlyphIndex: 2424
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 2367
+    m_GlyphIndex: 2425
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 2368
+    m_GlyphIndex: 2426
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 2369
+    m_GlyphIndex: 2427
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 2370
+    m_GlyphIndex: 2428
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 2371
+    m_GlyphIndex: 2429
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 2375
+    m_GlyphIndex: 2433
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 2376
+    m_GlyphIndex: 2434
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 2377
+    m_GlyphIndex: 2435
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 2379
+    m_GlyphIndex: 2437
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 2380
+    m_GlyphIndex: 2438
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 2381
+    m_GlyphIndex: 2439
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 2393
+    m_GlyphIndex: 2446
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 2395
+    m_GlyphIndex: 2448
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 2396
+    m_GlyphIndex: 2449
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 2397
+    m_GlyphIndex: 2450
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 2398
+    m_GlyphIndex: 2451
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 2404
+    m_GlyphIndex: 2457
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 8207
+    m_GlyphIndex: 1964
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 8211
+    m_GlyphIndex: 3024
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 8230
+    m_GlyphIndex: 3030
+    m_Scale: 1
+  m_AtlasTextures:
+  - {fileID: 2800000, guid: 077976cf873ff7e45822ee5d453277c3, type: 3}
+  m_AtlasTextureIndex: 0
+  m_IsMultiAtlasTexturesEnabled: 0
+  m_ClearDynamicDataOnBuild: 0
+  m_UsedGlyphRects:
+  - m_X: 0
+    m_Y: 0
+    m_Width: 138
+    m_Height: 110
+  - m_X: 138
+    m_Y: 0
+    m_Width: 134
+    m_Height: 110
+  - m_X: 272
+    m_Y: 0
+    m_Width: 134
+    m_Height: 110
+  - m_X: 406
+    m_Y: 0
+    m_Width: 134
+    m_Height: 83
+  - m_X: 540
+    m_Y: 0
+    m_Width: 117
+    m_Height: 91
+  - m_X: 406
+    m_Y: 83
+    m_Width: 111
+    m_Height: 95
+  - m_X: 657
+    m_Y: 0
+    m_Width: 111
+    m_Height: 82
+  - m_X: 768
+    m_Y: 0
+    m_Width: 104
+    m_Height: 91
+  - m_X: 657
+    m_Y: 82
+    m_Width: 104
+    m_Height: 83
+  - m_X: 517
+    m_Y: 91
+    m_Width: 104
+    m_Height: 83
+  - m_X: 621
+    m_Y: 91
+    m_Width: 36
+    m_Height: 93
+  - m_X: 517
+    m_Y: 174
+    m_Width: 104
+    m_Height: 82
+  - m_X: 872
+    m_Y: 0
+    m_Width: 104
+    m_Height: 82
+  - m_X: 976
+    m_Y: 0
+    m_Width: 46
+    m_Height: 138
+  - m_X: 872
+    m_Y: 82
+    m_Width: 104
+    m_Height: 74
+  - m_X: 976
+    m_Y: 138
+    m_Width: 45
+    m_Height: 138
+  - m_X: 761
+    m_Y: 91
+    m_Width: 103
+    m_Height: 98
+  - m_X: 657
+    m_Y: 165
+    m_Width: 103
+    m_Height: 82
+  - m_X: 621
+    m_Y: 184
+    m_Width: 36
+    m_Height: 77
+  - m_X: 864
+    m_Y: 156
+    m_Width: 103
+    m_Height: 75
+  - m_X: 760
+    m_Y: 189
+    m_Width: 102
+    m_Height: 96
+  - m_X: 657
+    m_Y: 247
+    m_Width: 102
+    m_Height: 84
+  - m_X: 862
+    m_Y: 231
+    m_Width: 101
+    m_Height: 82
+  - m_X: 963
+    m_Y: 276
+    m_Width: 60
+    m_Height: 96
+  - m_X: 759
+    m_Y: 285
+    m_Width: 100
+    m_Height: 110
+  - m_X: 859
+    m_Y: 313
+    m_Width: 100
+    m_Height: 100
+  - m_X: 959
+    m_Y: 372
+    m_Width: 64
+    m_Height: 84
+  - m_X: 0
+    m_Y: 110
+    m_Width: 97
+    m_Height: 82
+  - m_X: 97
+    m_Y: 110
+    m_Width: 96
+    m_Height: 91
+  - m_X: 0
+    m_Y: 192
+    m_Width: 96
+    m_Height: 84
+  - m_X: 193
+    m_Y: 110
+    m_Width: 95
+    m_Height: 84
+  - m_X: 288
+    m_Y: 110
+    m_Width: 95
+    m_Height: 83
+  - m_X: 383
+    m_Y: 178
+    m_Width: 95
+    m_Height: 35
+  - m_X: 478
+    m_Y: 178
+    m_Width: 38
+    m_Height: 88
+  - m_X: 288
+    m_Y: 193
+    m_Width: 93
+    m_Height: 84
+  - m_X: 193
+    m_Y: 194
+    m_Width: 90
+    m_Height: 104
+  - m_X: 381
+    m_Y: 213
+    m_Width: 90
+    m_Height: 82
+  - m_X: 96
+    m_Y: 201
+    m_Width: 90
+    m_Height: 82
+  - m_X: 0
+    m_Y: 276
+    m_Width: 89
+    m_Height: 91
+  - m_X: 283
+    m_Y: 277
+    m_Width: 89
+    m_Height: 83
+  - m_X: 89
+    m_Y: 283
+    m_Width: 88
+    m_Height: 110
+  - m_X: 0
+    m_Y: 367
+    m_Width: 88
+    m_Height: 93
+  - m_X: 516
+    m_Y: 256
+    m_Width: 86
+    m_Height: 91
+  - m_X: 602
+    m_Y: 261
+    m_Width: 55
+    m_Height: 91
+  - m_X: 471
+    m_Y: 266
+    m_Width: 45
+    m_Height: 30
+  - m_X: 372
+    m_Y: 295
+    m_Width: 86
+    m_Height: 83
+  - m_X: 458
+    m_Y: 296
+    m_Width: 57
+    m_Height: 87
+  - m_X: 515
+    m_Y: 347
+    m_Width: 86
+    m_Height: 82
+  - m_X: 657
+    m_Y: 331
+    m_Width: 85
+    m_Height: 82
+  - m_X: 601
+    m_Y: 352
+    m_Width: 56
+    m_Height: 45
+  - m_X: 601
+    m_Y: 397
+    m_Width: 55
+    m_Height: 47
+  - m_X: 177
+    m_Y: 298
+    m_Width: 84
+    m_Height: 91
+  - m_X: 261
+    m_Y: 360
+    m_Width: 84
+    m_Height: 82
+  - m_X: 177
+    m_Y: 389
+    m_Width: 83
+    m_Height: 91
+  - m_X: 88
+    m_Y: 393
+    m_Width: 83
+    m_Height: 84
+  - m_X: 0
+    m_Y: 460
+    m_Width: 83
+    m_Height: 82
+  - m_X: 83
+    m_Y: 477
+    m_Width: 83
+    m_Height: 82
+  - m_X: 0
+    m_Y: 542
+    m_Width: 83
+    m_Height: 82
+  - m_X: 345
+    m_Y: 378
+    m_Width: 83
+    m_Height: 82
+  - m_X: 260
+    m_Y: 442
+    m_Width: 82
+    m_Height: 103
+  - m_X: 428
+    m_Y: 383
+    m_Width: 82
+    m_Height: 91
+  - m_X: 342
+    m_Y: 460
+    m_Width: 82
+    m_Height: 82
+  - m_X: 510
+    m_Y: 429
+    m_Width: 82
+    m_Height: 82
+  - m_X: 424
+    m_Y: 474
+    m_Width: 81
+    m_Height: 104
+  - m_X: 342
+    m_Y: 542
+    m_Width: 81
+    m_Height: 82
+  - m_X: 166
+    m_Y: 480
+    m_Width: 81
+    m_Height: 82
+  - m_X: 83
+    m_Y: 559
+    m_Width: 79
+    m_Height: 93
+  - m_X: 0
+    m_Y: 624
+    m_Width: 79
+    m_Height: 92
+  - m_X: 247
+    m_Y: 545
+    m_Width: 79
+    m_Height: 91
+  - m_X: 162
+    m_Y: 562
+    m_Width: 79
+    m_Height: 83
+  - m_X: 742
+    m_Y: 395
+    m_Width: 79
+    m_Height: 82
+  - m_X: 821
+    m_Y: 395
+    m_Width: 38
+    m_Height: 45
+  - m_X: 656
+    m_Y: 413
+    m_Width: 78
+    m_Height: 100
+  - m_X: 592
+    m_Y: 444
+    m_Width: 63
+    m_Height: 91
+  - m_X: 505
+    m_Y: 511
+    m_Width: 78
+    m_Height: 91
+  - m_X: 423
+    m_Y: 578
+    m_Width: 77
+    m_Height: 91
+  - m_X: 326
+    m_Y: 624
+    m_Width: 77
+    m_Height: 74
+  - m_X: 241
+    m_Y: 636
+    m_Width: 76
+    m_Height: 110
+  - m_X: 162
+    m_Y: 645
+    m_Width: 76
+    m_Height: 99
+  - m_X: 79
+    m_Y: 652
+    m_Width: 76
+    m_Height: 91
+  - m_X: 0
+    m_Y: 716
+    m_Width: 76
+    m_Height: 90
+  - m_X: 76
+    m_Y: 743
+    m_Width: 76
+    m_Height: 74
+  - m_X: 0
+    m_Y: 806
+    m_Width: 75
+    m_Height: 93
+  - m_X: 0
+    m_Y: 899
+    m_Width: 72
+    m_Height: 124
+  - m_X: 72
+    m_Y: 899
+    m_Width: 49
+    m_Height: 121
+  - m_X: 75
+    m_Y: 817
+    m_Width: 75
+    m_Height: 82
+  - m_X: 121
+    m_Y: 899
+    m_Width: 66
+    m_Height: 114
+  - m_X: 187
+    m_Y: 744
+    m_Width: 54
+    m_Height: 75
+  - m_X: 150
+    m_Y: 817
+    m_Width: 32
+    m_Height: 82
+  - m_X: 152
+    m_Y: 744
+    m_Width: 33
+    m_Height: 41
+  - m_X: 182
+    m_Y: 819
+    m_Width: 73
+    m_Height: 76
+  - m_X: 241
+    m_Y: 746
+    m_Width: 66
+    m_Height: 72
+  - m_X: 187
+    m_Y: 895
+    m_Width: 50
+    m_Height: 113
+  - m_X: 237
+    m_Y: 895
+    m_Width: 68
+    m_Height: 110
+  - m_X: 255
+    m_Y: 818
+    m_Width: 70
+    m_Height: 76
+  - m_X: 307
+    m_Y: 746
+    m_Width: 66
+    m_Height: 72
+  - m_X: 317
+    m_Y: 698
+    m_Width: 66
+    m_Height: 48
+  - m_X: 305
+    m_Y: 894
+    m_Width: 66
+    m_Height: 110
+  - m_X: 325
+    m_Y: 818
+    m_Width: 68
+    m_Height: 76
+  - m_X: 383
+    m_Y: 698
+    m_Width: 65
+    m_Height: 110
+  - m_X: 403
+    m_Y: 669
+    m_Width: 61
+    m_Height: 25
+  - m_X: 371
+    m_Y: 894
+    m_Width: 42
+    m_Height: 103
+  - m_X: 393
+    m_Y: 808
+    m_Width: 49
+    m_Height: 82
+  - m_X: 859
+    m_Y: 413
+    m_Width: 73
+    m_Height: 96
+  - m_X: 821
+    m_Y: 440
+    m_Width: 36
+    m_Height: 35
+  - m_X: 821
+    m_Y: 475
+    m_Width: 35
+    m_Height: 96
+  - m_X: 734
+    m_Y: 477
+    m_Width: 73
+    m_Height: 91
+  - m_X: 655
+    m_Y: 513
+    m_Width: 73
+    m_Height: 91
+  - m_X: 583
+    m_Y: 535
+    m_Width: 72
+    m_Height: 96
+  - m_X: 500
+    m_Y: 602
+    m_Width: 72
+    m_Height: 91
+  - m_X: 464
+    m_Y: 669
+    m_Width: 33
+    m_Height: 96
+  - m_X: 932
+    m_Y: 456
+    m_Width: 72
+    m_Height: 91
+  - m_X: 856
+    m_Y: 509
+    m_Width: 71
+    m_Height: 100
+  - m_X: 728
+    m_Y: 568
+    m_Width: 71
+    m_Height: 100
+  - m_X: 655
+    m_Y: 604
+    m_Width: 71
+    m_Height: 97
+  - m_X: 799
+    m_Y: 571
+    m_Width: 54
+    m_Height: 47
+  - m_X: 572
+    m_Y: 631
+    m_Width: 70
+    m_Height: 100
+  - m_X: 497
+    m_Y: 693
+    m_Width: 70
+    m_Height: 97
+  - m_X: 448
+    m_Y: 765
+    m_Width: 43
+    m_Height: 138
+  - m_X: 413
+    m_Y: 890
+    m_Width: 33
+    m_Height: 33
+  - m_X: 413
+    m_Y: 923
+    m_Width: 69
+    m_Height: 96
+  - m_X: 927
+    m_Y: 547
+    m_Width: 70
+    m_Height: 75
+  - m_X: 853
+    m_Y: 609
+    m_Width: 70
+    m_Height: 49
+  - m_X: 799
+    m_Y: 618
+    m_Width: 53
+    m_Height: 138
+  - m_X: 726
+    m_Y: 668
+    m_Width: 70
+    m_Height: 49
+  - m_X: 642
+    m_Y: 701
+    m_Width: 69
+    m_Height: 91
+  - m_X: 567
+    m_Y: 731
+    m_Width: 69
+    m_Height: 91
+  - m_X: 491
+    m_Y: 790
+    m_Width: 69
+    m_Height: 75
+  - m_X: 711
+    m_Y: 717
+    m_Width: 68
+    m_Height: 93
+  - m_X: 636
+    m_Y: 792
+    m_Width: 68
+    m_Height: 93
+  - m_X: 491
+    m_Y: 885
+    m_Width: 59
+    m_Height: 138
+  - m_X: 550
+    m_Y: 885
+    m_Width: 52
+    m_Height: 138
+  - m_X: 602
+    m_Y: 885
+    m_Width: 42
+    m_Height: 138
+  - m_X: 560
+    m_Y: 822
+    m_Width: 68
+    m_Height: 46
+  - m_X: 923
+    m_Y: 622
+    m_Width: 68
+    m_Height: 93
+  - m_X: 852
+    m_Y: 658
+    m_Width: 68
+    m_Height: 93
+  - m_X: 920
+    m_Y: 715
+    m_Width: 68
+    m_Height: 93
+  - m_X: 852
+    m_Y: 751
+    m_Width: 68
+    m_Height: 92
+  - m_X: 779
+    m_Y: 756
+    m_Width: 66
+    m_Height: 93
+  - m_X: 704
+    m_Y: 810
+    m_Width: 66
+    m_Height: 92
+  - m_X: 644
+    m_Y: 885
+    m_Width: 60
+    m_Height: 91
+  - m_X: 644
+    m_Y: 976
+    m_Width: 61
+    m_Height: 30
+  - m_X: 704
+    m_Y: 902
+    m_Width: 63
+    m_Height: 74
+  - m_X: 767
+    m_Y: 902
+    m_Width: 61
+    m_Height: 94
+  - m_X: 770
+    m_Y: 849
+    m_Width: 51
+    m_Height: 50
+  - m_X: 920
+    m_Y: 808
+    m_Width: 63
+    m_Height: 76
+  - m_X: 845
+    m_Y: 843
+    m_Width: 61
+    m_Height: 76
+  - m_X: 828
+    m_Y: 919
+    m_Width: 60
+    m_Height: 91
+  - m_X: 888
+    m_Y: 919
+    m_Width: 51
+    m_Height: 91
+  m_FreeGlyphRects:
+  - m_X: 517
+    m_Y: 83
+    m_Width: 23
+    m_Height: 8
+  - m_X: 761
+    m_Y: 82
+    m_Width: 7
+    m_Height: 9
+  - m_X: 864
+    m_Y: 91
+    m_Width: 8
+    m_Height: 65
+  - m_X: 760
+    m_Y: 165
+    m_Width: 1
+    m_Height: 24
+  - m_X: 862
+    m_Y: 189
+    m_Width: 2
+    m_Height: 42
+  - m_X: 1022
+    m_Y: 0
+    m_Width: 1
+    m_Height: 276
+  - m_X: 1021
+    m_Y: 138
+    m_Width: 2
+    m_Height: 138
+  - m_X: 967
+    m_Y: 156
+    m_Width: 9
+    m_Height: 120
+  - m_X: 963
+    m_Y: 231
+    m_Width: 13
+    m_Height: 45
+  - m_X: 759
+    m_Y: 247
+    m_Width: 1
+    m_Height: 38
+  - m_X: 859
+    m_Y: 285
+    m_Width: 3
+    m_Height: 28
+  - m_X: 959
+    m_Y: 313
+    m_Width: 4
+    m_Height: 59
+  - m_X: 383
+    m_Y: 110
+    m_Width: 23
+    m_Height: 68
+  - m_X: 381
+    m_Y: 193
+    m_Width: 2
+    m_Height: 20
+  - m_X: 96
+    m_Y: 192
+    m_Width: 1
+    m_Height: 9
+  - m_X: 283
+    m_Y: 194
+    m_Width: 5
+    m_Height: 83
+  - m_X: 89
+    m_Y: 276
+    m_Width: 7
+    m_Height: 7
+  - m_X: 516
+    m_Y: 178
+    m_Width: 1
+    m_Height: 78
+  - m_X: 602
+    m_Y: 256
+    m_Width: 19
+    m_Height: 5
+  - m_X: 471
+    m_Y: 213
+    m_Width: 7
+    m_Height: 53
+  - m_X: 372
+    m_Y: 277
+    m_Width: 9
+    m_Height: 18
+  - m_X: 458
+    m_Y: 295
+    m_Width: 13
+    m_Height: 1
+  - m_X: 515
+    m_Y: 296
+    m_Width: 1
+    m_Height: 51
+  - m_X: 601
+    m_Y: 347
+    m_Width: 1
+    m_Height: 5
+  - m_X: 186
+    m_Y: 201
+    m_Width: 7
+    m_Height: 97
+  - m_X: 177
+    m_Y: 283
+    m_Width: 16
+    m_Height: 15
+  - m_X: 261
+    m_Y: 298
+    m_Width: 22
+    m_Height: 62
+  - m_X: 88
+    m_Y: 367
+    m_Width: 1
+    m_Height: 26
+  - m_X: 83
+    m_Y: 460
+    m_Width: 5
+    m_Height: 17
+  - m_X: 345
+    m_Y: 360
+    m_Width: 27
+    m_Height: 18
+  - m_X: 260
+    m_Y: 389
+    m_Width: 1
+    m_Height: 53
+  - m_X: 428
+    m_Y: 378
+    m_Width: 30
+    m_Height: 5
+  - m_X: 342
+    m_Y: 442
+    m_Width: 3
+    m_Height: 18
+  - m_X: 510
+    m_Y: 383
+    m_Width: 5
+    m_Height: 46
+  - m_X: 424
+    m_Y: 460
+    m_Width: 4
+    m_Height: 14
+  - m_X: 171
+    m_Y: 393
+    m_Width: 6
+    m_Height: 87
+  - m_X: 166
+    m_Y: 477
+    m_Width: 11
+    m_Height: 3
+  - m_X: 247
+    m_Y: 480
+    m_Width: 13
+    m_Height: 65
+  - m_X: 162
+    m_Y: 559
+    m_Width: 4
+    m_Height: 3
+  - m_X: 742
+    m_Y: 331
+    m_Width: 17
+    m_Height: 64
+  - m_X: 656
+    m_Y: 397
+    m_Width: 1
+    m_Height: 16
+  - m_X: 592
+    m_Y: 429
+    m_Width: 9
+    m_Height: 15
+  - m_X: 505
+    m_Y: 474
+    m_Width: 5
+    m_Height: 37
+  - m_X: 423
+    m_Y: 542
+    m_Width: 1
+    m_Height: 36
+  - m_X: 326
+    m_Y: 545
+    m_Width: 16
+    m_Height: 79
+  - m_X: 241
+    m_Y: 562
+    m_Width: 6
+    m_Height: 74
+  - m_X: 79
+    m_Y: 624
+    m_Width: 4
+    m_Height: 28
+  - m_X: 76
+    m_Y: 716
+    m_Width: 3
+    m_Height: 27
+  - m_X: 75
+    m_Y: 806
+    m_Width: 1
+    m_Height: 11
+  - m_X: 238
+    m_Y: 645
+    m_Width: 3
+    m_Height: 99
+  - m_X: 155
+    m_Y: 652
+    m_Width: 7
+    m_Height: 92
+  - m_X: 152
+    m_Y: 743
+    m_Width: 10
+    m_Height: 1
+  - m_X: 152
+    m_Y: 785
+    m_Width: 35
+    m_Height: 32
+  - m_X: 182
+    m_Y: 785
+    m_Width: 5
+    m_Height: 34
+  - m_X: 185
+    m_Y: 744
+    m_Width: 2
+    m_Height: 75
+  - m_X: 182
+    m_Y: 895
+    m_Width: 5
+    m_Height: 4
+  - m_X: 241
+    m_Y: 818
+    m_Width: 14
+    m_Height: 1
+  - m_X: 317
+    m_Y: 636
+    m_Width: 9
+    m_Height: 62
+  - m_X: 255
+    m_Y: 894
+    m_Width: 50
+    m_Height: 1
+  - m_X: 373
+    m_Y: 746
+    m_Width: 10
+    m_Height: 72
+  - m_X: 403
+    m_Y: 624
+    m_Width: 20
+    m_Height: 45
+  - m_X: 373
+    m_Y: 808
+    m_Width: 20
+    m_Height: 10
+  - m_X: 734
+    m_Y: 413
+    m_Width: 8
+    m_Height: 64
+  - m_X: 655
+    m_Y: 444
+    m_Width: 1
+    m_Height: 69
+  - m_X: 583
+    m_Y: 511
+    m_Width: 9
+    m_Height: 24
+  - m_X: 500
+    m_Y: 578
+    m_Width: 5
+    m_Height: 24
+  - m_X: 403
+    m_Y: 694
+    m_Width: 61
+    m_Height: 4
+  - m_X: 1004
+    m_Y: 456
+    m_Width: 19
+    m_Height: 567
+  - m_X: 932
+    m_Y: 413
+    m_Width: 27
+    m_Height: 43
+  - m_X: 857
+    m_Y: 440
+    m_Width: 2
+    m_Height: 69
+  - m_X: 856
+    m_Y: 475
+    m_Width: 3
+    m_Height: 34
+  - m_X: 728
+    m_Y: 513
+    m_Width: 6
+    m_Height: 55
+  - m_X: 807
+    m_Y: 477
+    m_Width: 14
+    m_Height: 94
+  - m_X: 799
+    m_Y: 568
+    m_Width: 22
+    m_Height: 3
+  - m_X: 572
+    m_Y: 602
+    m_Width: 11
+    m_Height: 29
+  - m_X: 497
+    m_Y: 669
+    m_Width: 3
+    m_Height: 24
+  - m_X: 448
+    m_Y: 694
+    m_Width: 16
+    m_Height: 71
+  - m_X: 393
+    m_Y: 890
+    m_Width: 20
+    m_Height: 4
+  - m_X: 442
+    m_Y: 808
+    m_Width: 6
+    m_Height: 82
+  - m_X: 121
+    m_Y: 1013
+    m_Width: 292
+    m_Height: 10
+  - m_X: 187
+    m_Y: 1008
+    m_Width: 226
+    m_Height: 15
+  - m_X: 237
+    m_Y: 1005
+    m_Width: 176
+    m_Height: 18
+  - m_X: 305
+    m_Y: 1004
+    m_Width: 108
+    m_Height: 19
+  - m_X: 371
+    m_Y: 997
+    m_Width: 42
+    m_Height: 26
+  - m_X: 446
+    m_Y: 808
+    m_Width: 2
+    m_Height: 115
+  - m_X: 997
+    m_Y: 547
+    m_Width: 26
+    m_Height: 476
+  - m_X: 927
+    m_Y: 509
+    m_Width: 5
+    m_Height: 38
+  - m_X: 853
+    m_Y: 571
+    m_Width: 3
+    m_Height: 38
+  - m_X: 726
+    m_Y: 604
+    m_Width: 2
+    m_Height: 64
+  - m_X: 642
+    m_Y: 631
+    m_Width: 13
+    m_Height: 70
+  - m_X: 567
+    m_Y: 693
+    m_Width: 5
+    m_Height: 38
+  - m_X: 491
+    m_Y: 765
+    m_Width: 6
+    m_Height: 25
+  - m_X: 711
+    m_Y: 701
+    m_Width: 15
+    m_Height: 16
+  - m_X: 636
+    m_Y: 731
+    m_Width: 6
+    m_Height: 61
+  - m_X: 72
+    m_Y: 1020
+    m_Width: 419
+    m_Height: 3
+  - m_X: 121
+    m_Y: 1019
+    m_Width: 370
+    m_Height: 4
+  - m_X: 446
+    m_Y: 903
+    m_Width: 45
+    m_Height: 20
+  - m_X: 482
+    m_Y: 903
+    m_Width: 9
+    m_Height: 120
+  - m_X: 491
+    m_Y: 868
+    m_Width: 145
+    m_Height: 17
+  - m_X: 491
+    m_Y: 865
+    m_Width: 69
+    m_Height: 20
+  - m_X: 560
+    m_Y: 790
+    m_Width: 7
+    m_Height: 32
+  - m_X: 628
+    m_Y: 822
+    m_Width: 8
+    m_Height: 63
+  - m_X: 991
+    m_Y: 622
+    m_Width: 32
+    m_Height: 401
+  - m_X: 923
+    m_Y: 609
+    m_Width: 4
+    m_Height: 13
+  - m_X: 852
+    m_Y: 618
+    m_Width: 1
+    m_Height: 40
+  - m_X: 988
+    m_Y: 715
+    m_Width: 35
+    m_Height: 308
+  - m_X: 920
+    m_Y: 658
+    m_Width: 3
+    m_Height: 57
+  - m_X: 796
+    m_Y: 668
+    m_Width: 3
+    m_Height: 88
+  - m_X: 779
+    m_Y: 717
+    m_Width: 20
+    m_Height: 39
+  - m_X: 704
+    m_Y: 792
+    m_Width: 7
+    m_Height: 18
+  - m_X: 705
+    m_Y: 976
+    m_Width: 62
+    m_Height: 47
+  - m_X: 770
+    m_Y: 810
+    m_Width: 9
+    m_Height: 39
+  - m_X: 983
+    m_Y: 808
+    m_Width: 40
+    m_Height: 215
+  - m_X: 845
+    m_Y: 756
+    m_Width: 7
+    m_Height: 87
+  - m_X: 770
+    m_Y: 899
+    m_Width: 75
+    m_Height: 3
+  - m_X: 821
+    m_Y: 849
+    m_Width: 24
+    m_Height: 53
+  - m_X: 644
+    m_Y: 1010
+    m_Width: 379
+    m_Height: 13
+  - m_X: 644
+    m_Y: 1006
+    m_Width: 184
+    m_Height: 17
+  - m_X: 705
+    m_Y: 996
+    m_Width: 123
+    m_Height: 27
+  - m_X: 828
+    m_Y: 849
+    m_Width: 17
+    m_Height: 70
+  - m_X: 906
+    m_Y: 843
+    m_Width: 14
+    m_Height: 76
+  - m_X: 906
+    m_Y: 884
+    m_Width: 117
+    m_Height: 35
+  - m_X: 939
+    m_Y: 884
+    m_Width: 84
+    m_Height: 139
+  m_fontInfo:
+    Name:
+    PointSize: 0
+    Scale: 0
+    CharacterCount: 0
+    LineHeight: 0
+    Baseline: 0
+    Ascender: 0
+    CapHeight: 0
+    Descender: 0
+    CenterLine: 0
+    SuperscriptOffset: 0
+    SubscriptOffset: 0
+    SubSize: 0
+    Underline: 0
+    UnderlineThickness: 0
+    strikethrough: 0
+    strikethroughThickness: 0
+    TabWidth: 0
+    Padding: 0
+    AtlasWidth: 0
+    AtlasHeight: 0
+  atlas: {fileID: 0}
+  m_AtlasWidth: 1024
+  m_AtlasHeight: 1024
+  m_AtlasPadding: 8
+  m_AtlasRenderMode: 4165
+  m_glyphInfoList: []
+  m_KerningTable:
+    kerningPairs: []
+  m_FontFeatureTable:
+    m_GlyphPairAdjustmentRecords: []
+  fallbackFontAssets: []
+  m_FallbackFontAssetTable: []
+  m_CreationSettings:
+    sourceFontFileName:
+    sourceFontFileGUID: 6d07ecf389644054d84683722f6a564d
+    pointSizeSamplingMode: 0
+    pointSize: 103
+    padding: 8
+    packingMode: 0
+    atlasWidth: 1024
+    atlasHeight: 1024
+    characterSetSelectionMode: 8
+    characterSequence: "//others\r\n한국어\r\n\r\n3\r\n[Ungroupped]\r\n# REAM ME:\r\n# The format used here is derived from INI.\r\n# We have added something special called variants.\r\n# \r\n# Example:\r\n# \r\n# [Planets]\r\n# Earth{0}= 지구\r\n# Earth{1}= 지구의\r\n# \r\n# [Achievements]\r\n# Landed_Test0 = %planet{0}%에 착륙함\r\n# Landed_Test1 = %planet{1}%에 착륙함\r\n# \r\n# Variants are used for many things, such as making phrases work, caps, etc\r\n# \r\n# We recommend starting at the bottom of the file with achievements/planets, there variants are very clearly used.\r\n# \r\n# \r\n# \r\n# Available font types: normal/compatibility\r\n# In case of missing characters use compatibility font.\r\n    Font=표준\r\n\r\n[General]\r\n# Used for language select buttons\r\n    Language_Name_In_Local_Language=영어\r\n\r\n    Cancel=취소\r\n    Close=종료\r\n\r\n    Open_Settings_Button=설정\r\n\r\n# Switching scenes buttons\r\n    Build_Rocket=로켓 구축\r\n    Resume_Game=게임 계속\r\n    Return_To_Main_Menu=메인 메뉴\r\n    Exit_To_Main_Menu=메인 메뉴로 나가기\r\n\r\n[Main Menu]\r\n# Image at: https://drive.google.com/file/d/1mEFf3W964ldXBekpbTc-Jj1XcSnBQz4k/view?usp=sharing\r\n    Play=플레이\r\n\r\n# Tutorial\r\n    Video_Tutorials_OpenButton=동영상 튜토리얼\r\n    Video_Orbit=궤도 튜토리얼\r\n    Video_Moon=달 튜토리얼\r\n    Video_Dock=도킹 튜토리얼\r\n\r\n# Community\r\n    Community_OpenButton=커뮤니티\r\n    Community_Youtube=Youtube\r\n    Community_Discord=Discord\r\n    Community_Reddit=Reddit\r\n\r\n# Roadmap\r\n    Roadmap_OpenButton=향후 업데이트\r\n\r\n    Roadmap_Text=버전 1.51\r\n    Roadmap_Text=<color=grey>스테이지</color>\r\n    Roadmap_Text=\r\n    Roadmap_Text=버전 1.52\r\n    Roadmap_Text=<color=grey>튜토리얼</color>\r\n    Roadmap_Text=\r\n    Roadmap_Text=버전 1.53\r\n    Roadmap_Text=<color=grey>재입장</color>\r\n    Roadmap_Text=\r\n    Roadmap_Text=버전 1.54\r\n    Roadmap_Text=<color=grey>시각 효과, 입자 및 소리</color>\r\n    Roadmap_Text=\r\n    Roadmap_Text=버전 1.55\r\n    Roadmap_Text=<color=grey>고체 로켓 부스터</color>\r\n    Roadmap_Text=\r\n    Roadmap_Text=버전 1.6\r\n    Roadmap_Text=<color=grey>우주 비행사</color>\r\n    Roadmap_Text=\r\n    Roadmap_Text=버전 1.7\r\n    Roadmap_Text=<color=grey>커리어</color>\r\n    Roadmap_Text=\r\n    Roadmap_Text=버전 1.8\r\n    Roadmap_Text=<color=grey>외계 행성</color>\r\n    Roadmap_Text=\r\n    Roadmap_Text=전기 시스템:\r\n    Roadmap_Text=<color=grey>전체 전기 시스템이 향후 완전히 정비될 예정이며, 이온 엔진 연소 시의 타임 워프, 그리고 더 많은 전기 사용 사례 등의 기능을 포함할 확률이 높답니다.</color>\r\n    Roadmap_Text=\r\n    Roadmap_Text=\r\n    Roadmap_Text=계획은 변경될 수 있습니다.\r\n\r\n# Credits\r\n    Credits_OpenButton=감사의 말\r\n\r\n    Credits_Text=Štefo Mai Morojna\r\n    Credits_Text=<Size=55>디자이너 – 프로그래머 - 아티스트</size>\r\n    Credits_Text=\r\n    Credits_Text=Jordi van der Molen\r\n    Credits_Text=<Size=55>프로그래머</size>\r\n    Credits_Text=\r\n    Credits_Text=Chris Christo\r\n    Credits_Text=<Size=55>프로그래머</size>\r\n    Credits_Text=\r\n    Credits_Text=Davi Vasc\r\n    Credits_Text=<Size=55>작곡가</size>\r\n    Credits_Text=\r\n    Credits_Text=Ashton Mills\r\n    Credits_Text=<size=55>작곡가</size>\r\n\r\n# Update menu\r\n    Update_Available=새로운 업데이트가 있습니다!\r\n    Update_Available=\r\n    Update_Available=현재 버전: %old%\r\n    Update_Available=최신 버전: %new%\r\n\r\n    Update_Confirm=최신 정보\r\n\r\n# Rate menu\r\n    Rate_Title=게임을 평가하거나 리뷰를 남겨주시겠습니까?\r\n    Rate_Title=\r\n    Rate_Title=저희는 게임의 퀄리티를 중요하게 생각하며, 플레이어의 피드백은 게임을 개선하는 데 도움이 됩니다.\r\n    Rate_Title=\r\n    Rate_Title=수천 건의 리뷰를 검토하고 난 지금도 여전히 수많은 리뷰를 읽어본답니다!\r\n\r\n    Rate_Confirm=평가\r\n\r\n# Close menu\r\n    Close_Game=게임을 종료하시겠습니까?\r\n\r\n# Startup Messages\r\n    Early_Supporter_Message=초기 서포터로서 플레이어는 다음 항목에 무료로 액세스할 수 있습니다.\r\n    Early_Supporter_Message=\r\n    Early_Supporter_Message= - 부품 확장\r\n    Early_Supporter_Message= - 스킨 확장\r\n    Early_Supporter_Message= - 행성 확장\r\n    Early_Supporter_Message=\r\n    Early_Supporter_Message=여러분의 성원에 감사드립니다!\r\n\r\n[Worlds Menu]\r\n# Worlds are save slots; image at: https://drive.google.com/file/d/1vUYrXaem4ki1dcXRFUJLKWZEcE0PFno-/view?usp=공유\r\n    Create_New_World_Button=세계 생성\r\n\r\n# Create menu\r\n    Create_World_Title=세계 이름\r\n    Default_World_Name=내 세계\r\n\r\n# Delete menu\r\n    World_Delete=세계를 삭제하시겠습니까?\r\n\r\n# Select system menu\r\n    Select_Solar_System=세계의 태양계 선택\r\n\r\n    Select_Solar_System__NotFound=태양계를 다음과 같은 이유로 찾을 수 없습니다.\r\n    Select_Solar_System__NotFound=%system%\r\n    Select_Solar_System__NotFound=\r\n    Select_Solar_System__NotFound=새 태양계 선택\r\n\r\n    Default_Solar_System=태양계(기본값)\r\n    Custom_Solar_System=%name% (사용자 정의)\r\n\r\n# World play times\r\n    Last_Played=마지막 플레이: %value% 전\r\n    Just_Played=마지막 플레이: 조금 전\r\n    Time_Played=플레이 타임: %value%\r\n\r\n[Saving]\r\n# Blueprint stuff; Blueprints are rocket designs; images at: https://drive.google.com/drive/folders/15m4nXgzr8fvql78TheE3Qy1WPrTaIqdJ?usp=공유\r\n    Blueprints_Menu_Title=청사진\r\n    Unnamed_Blueprint=이름 없는 청사진\r\n    Save_Blueprint=청사진 저장\r\n    Load_Blueprint=청사진 로드\r\n    Cannot_Save_Empty_Build=빈 청사진을 저장할 수 없음\r\n\r\n# Quicksave stuff; Quicksaves let players save at any time and return to it.\r\n# It does not necessarily have to be called quicksave, player just needs to understand its use.\r\n# Image at: https://drive.google.com/drive/folders/128aXHWoUhJXZbbKVBDXXSMoCvRwFpvct?usp=공유\r\n    Quicksaves_Menu_Title=빠른 세이브\r\n    Unnamed_Quicksave=이름 없는 빠른 세이브\r\n    Create_Quicksave=빠른 세이브 생성\r\n    Load_Quicksave=빠른 세이브 로드\r\n\r\n# Save and load menus; context seen in images from blueprint/quicksave stuff\r\n    Save=저장\r\n    Load=로드\r\n    Delete=삭제\r\n    Rename=이름 바꾸기\r\n\r\n# In progress\r\n    Saving_In_Progress=저장 중...\r\n    Loading_In_Progress=로딩 중...\r\n\r\n# filetype (injected)\r\n    Blueprint{0}=청사진\r\n    Blueprint{1}=청사진\r\n    Blueprint{2}=청사진\r\n\r\n    Quicksave{0}=빠른 세이브\r\n    Quicksave{1}=빠른 세이브\r\n    Quicksave{2}=빠른 세이브\r\n\r\n# Ask overwrite menu; image at: https://drive.google.com/file/d/1EOI9UIWAG-lNgrdk1IMmrpmf6rRBuA7Q/view?usp=공유\r\n    File_Already_Exists=같은 이름의 %filetype{1}%이(가) 이미 존재합니다.\r\n    Overwrite_File=%filetype{1}% 덮어쓰기\r\n    New_File=새 %filetype{1}%\r\n\r\n# Load failure; image at: https://drive.google.com/file/d/1c7qHCdbS1ShSq4rKIHMpHKCTuh0pXeHv/view?usp=공유\r\n    Load_Failed=%filepath%에서 %filetype{1}%을(를) 로드할 수 없습니다.\r\n\r\n# Legacy Messages\r\n    Conversion_Message=1.5에 오신 것을 환영합니다.\r\n    Conversion_Message=\r\n    Conversion_Message=모든 1.4 세이브가 자동으로 1.5 세이브로 변환되었습니다.\r\n\r\n    Conversion_Success=1.4 %filetype{1}%을(를) 감지하여 %version% 형식으로 변환함\r\n\r\n    Conversion_Failed=1.4 %filetype{1}%을(를) 감지하여 %version% 형식으로 변환함\r\n    Conversion_Failed=\r\n    Conversion_Failed=변환 실패:\r\n    Conversion_Failed=%reason%\r\n\r\n[Purchasing]\r\n# Images at: https://drive.google.com/drive/folders/1kIhFuPRp8YXkZ8SVC5Jq9UJkNZqdasQC?usp=공유\r\n    Parts_Expansion=부품 확장\r\n    Skins_Expansion=스킨 확장\r\n    Planets_Expansion=행성 확장\r\n    Expansion_Bundle=확장 번들\r\n    Upgrade_To_Bundle=번들로 업그레이드\r\n\r\n    More_Parts=부품 더 보기...\r\n    More_Skins=스킨 더 보기...\r\n\r\n    Why_Buy=플레이어의 성원은 게임 개선에 도움이 됩니다!\r\n\r\n    Buy_Product=%product% %price% 구매\r\n\r\n    Purchase_Thanks_Msg=구매: %product%\r\n    Purchase_Thanks_Msg=\r\n    Purchase_Thanks_Msg=구매해 주셔서 감사합니다.\r\n    Purchase_Thanks_Msg=이제 가서 별을 탐험하세요!\r\n\r\n    Owned=%product%(보유함)\r\n\r\n    Restore_Open=복원\r\n\r\n    Restore_Text=Android에서 구매한 항목은 시작 시 자동으로 복원됩니다.\r\n    Restore_Text=\r\n    Restore_Text=- 구매한 Google Play 계정에 로그인되어 있는지 확인하세요(Google Play 구매 내역에 구매 항목이 있는지 확인).\r\n    Restore_Text=\r\n    Restore_Text=- 구매 버튼을 확인하세요. 가격이 표시되지 않으면 게임이 스토어에 연결되지 않은 것입니다. 인터넷 연결을 확인하고 게임을 다시 시작하세요\r\n    Restore_Text=\r\n    Restore_Text=위 방법 모두를 시도해도 해결되지 않으면 games.morojna@gmail.com으로 연락해 주세요.\r\n    Restore_Text=\r\n    Restore_Text=기다리는 것도 하나의 방법이 될 수 있어요. 가끔 구매 항목이 몇 시간 후에 자동으로 복원될 수도 있습니다.\r\n\r\n    Purchase_FAQ_Open=자주 하는 질문\r\n\r\n    Purchase_FAQ_Text=<color=grey>구매 항목은 업데이트해도 유지되나요?</color>\r\n    Purchase_FAQ_Text=네, 물론이죠.\r\n    Purchase_FAQ_Text=\r\n    Purchase_FAQ_Text=\r\n    Purchase_FAQ_Text=<color=grey>구매 항목이 손실될 수도 있나요?</color>\r\n    Purchase_FAQ_Text=구매 항목은 스토어 계정에 영구적으로 저장되며 휴대폰을 다시 설치하거나 변경해도 손실되지 않습니다.\r\n    Purchase_FAQ_Text=\r\n    Purchase_FAQ_Text=\r\n    Purchase_FAQ_Text=<color=grey>환불 서비스를 제공하나요?</color>\r\n    Purchase_FAQ_Text=네, 그럼요. 합리적 기간 이내에 환불 요청 시 당연히 환불해 드립니다.\r\n\r\n# Parts Expansion; images at: https://drive.google.com/drive/folders/1JMCVDO9BN5z2ECeIq07kkQ4W0-evIMSb?usp=공유\r\n    PartsExpansion_Tanks=다양한 연료 탱크!\r\n    PartsExpansion_Engines=중량 기중기 엔진!\r\n    PartsExpansion_Parts=모든 모양과 크기의 부품!\r\n\r\n    PartsExpansion_Build=내 창작물을 만들어 내는 데\r\n    PartsExpansion_Build=충분한 공간!\r\n\r\n# Skins Expansion; images at: https://drive.google.com/drive/folders/1-X2n4Y-AUDehknKdBiqCy7TG-DyqLgyf?usp=공유\r\n    SkinsExpansion_Tanks=다양한 스킨으로 부품을 칠하세요!\r\n    SkinsExpansion_Interstages=무대 사이에서 모두 색칠\r\n    SkinsExpansion_Nosecones=노즈콘부터\r\n    SkinsExpansion_Fairings=정형까지도요!\r\n\r\n# Planets Expansion; images at: https://drive.google.com/drive/folders/15lIYDSIOPrSei1DJBrvHRDQ_WieAb0yf?usp=공유\r\n    PlanetsExpansion_Jupiter=목성과 네 개의 위성을 탐험하세요!\r\n    PlanetsExpansion_Callisto=칼리스토의 깊숙한 크레이터부터!\r\n    PlanetsExpansion_Europa=유로파의 광활한 빙원까지 말이죠!\r\n\r\n    PlanetsExpansion_Conclusion=저 먼 곳으로 떠나\r\n    PlanetsExpansion_Conclusion=세계를 탐험하세요!\r\n\r\n# Expansion Bundle; images at: https://drive.google.com/file/d/1aWdcqNciwf7i3ju1Hx7mHnKyGBS2_tYU/view?usp=공유\r\n    ExpansionBundle_Sandbox=보너스\r\n    ExpansionBundle_Sandbox=샌드박스 모드\r\n\r\n    ExpansionBundle_Infinite_Fuel=무한 연료\r\n    ExpansionBundle_No_Atmospheric_Drag=대기 항력 없음\r\n    ExpansionBundle_Unbreakable_Parts=파괴 불가한 부품\r\n    ExpansionBundle_No_Gravity=중력 없음\r\n\r\n[Settings]\r\n# Image at: https://drive.google.com/file/d/1kF_zlTUw7QQnCIfcVNRHGDsn_rH-ySkF/view?usp=공유\r\n    Music_Name=음악:\r\n    Sound_Name=소리:\r\n    Screen_Rotation_Name=화면 회전:\r\n    FPS_Name=Fps:\r\n    Language_Name=언어:\r\n\r\n    Infinite_Fuel_Name=무한 연료:\r\n    No_Atmospheric_Drag_Name=대기 항력 없음:\r\n    Unbreakable_Parts_Name=파괴 불가한 부품:\r\n    No_Gravity_Name=중력 없음:\r\n\r\n# This version of is displayed on screen to let players know what cheats they are using\r\n# Image as: https://drive.google.com/file/d/1_uDOsT_yAgui19jNqAwx_CMGvLoS5LYh/view?usp=공유\r\n    Cheat_On{0}=켜짐\r\n    Cheat_Off{0}=꺼짐\r\n\r\n    Infinite_Fuel=무한 연료: %value{0}%\r\n    No_Atmospheric_Drag=대기 드래그 없음: %value{0}%\r\n    Unbreakable_Parts=파괴 불가한 부품: %value{0}%\r\n    No_Gravity=중력 없음: %value{0}%\r\n\r\n[Build]\r\n# Images at: https://drive.google.com/drive/folders/16-6I-SE_4nmVTjNxsUdAUJtUDIBe5WVz?usp=공유\r\n    Build_New_Rocket=새 로켓 구축\r\n    Resume_Build=구축 계속\r\n\r\n    Symmetry_On=대칭: 켜짐\r\n    Symmetry_Off=대칭: 꺼짐\r\n\r\n    Launch_Button=발사\r\n    Move_Rocket_Button=로켓 이동\r\n\r\n# Clear build area\r\n    Clear_Warning=제거하시겠습니까?\r\n    Clear_Confirm=제거\r\n\r\n# Launch warnings\r\n    Missing_Capsule=로켓에 캡슐 없음\r\n    Missing_Parachute=로켓에 낙하산 없음\r\n\r\n    Too_Heavy=로켓이 너무 무거워 이륙할 수 없음\r\n    Too_Heavy=\r\n    Too_Heavy=\r\n    Too_Heavy=중량을 줄이거나 더 강력한 엔진을 사용하세요.\r\n\r\n    Launch_Anyway_Button=어쨌든 발사\r\n\r\n# Example rockets\r\n    Example_Rockets_OpenMenu=로켓 예시\r\n    Basic_Rocket=기본 로켓\r\n    Stages=단계\r\n    Ideal_Stages=이상적인 단계\r\n    Lander=착륙선\r\n\r\n[Map]\r\n    Toggle_Map_Button=지도\r\n\r\n# Shown in map when you escape a gravity field of a planet\r\n# image for escape/encounter at: https://drive.google.com/file/d/17jqJF09DWoqkgW9VGXdG7SRCSo0UmW0o/view?usp=공유\r\n    Escape=이탈\r\n\r\n# Shown in map when you encounter/enter a gravity field of a planet\r\n    Encounter=탐사\r\n\r\n# Shown in map when you approach/encounter another rocket\r\n    Rendezvous=접선\r\n\r\n# Shows the transfer window to another planet\r\n# image at: https://drive.google.com/file/d/1zd8UEnVb91QmSDllEu1DyCbkCsDKbJk3/view?usp=공유\r\n    Transfer=창 이동\r\n\r\n[Game]\r\n# Image at: https://drive.google.com/file/d/1d0b-udFyO4ItlYu1vVaVdzgwdAeT1hPw/view?usp=공유\r\n    Throttle_On=켜짐\r\n    Throttle_Off=꺼짐\r\n\r\n# Game supports screen rotation, we split into 2 lines in vertical mode\r\n    Height_Terrain_Vertical=높이(지형):\r\n    Height_Terrain_Vertical=\r\n    Height_Terrain_Vertical=%height%\r\n\r\n    Height_Vertical=높이:\r\n    Height_Vertical=\r\n    Height_Vertical=%height%\r\n\r\n    Velocity_Vertical=속도:\r\n    Velocity_Vertical=\r\n    Velocity_Vertical=%speed%\r\n\r\n# Angle indicates the best angle/direction the player can rotate their rocket towards\r\n    Angle_Vertical=각도:\r\n    Angle_Vertical=\r\n    Angle_Vertical=%angle%/%targetAngle%\r\n\r\n    Height_Terrain_Horizontal=높이(지형): %height%\r\n    Height_Horizontal=높이: %height%\r\n    Velocity_Horizontal=속도: %speed%\r\n\r\n# Angle indicates the best angle/direction the player can rotate their rocket towards\r\n    Angle_Horizontal=각도: %angle%/%targetAngle%\r\n\r\n[Game menus]\r\n# Image at: https://drive.google.com/file/d/1XPUZnlFGrs9ZQ0QRjqbvKMEwXg1Pl7cF/view?usp=공유\r\n    Restart_Mission=미션 재시작\r\n\r\n# Restart menu\r\n    Restart_Mission_To_Launch=발사로 돌아가기\r\n\r\n    Restart_Mission_To_Launch_Warning=발사로 돌아가시겠습니까?\r\n    Restart_Mission_To_Launch_Warning=\r\n    Restart_Mission_To_Launch_Warning=마지막 발사 이후로 진행 상황을 되돌립니다.\r\n\r\n    Restart_Mission_To_Build=구축으로 돌아가기\r\n\r\n    Restart_Mission_To_Build_Warning=구축으로 돌아가시겠습니까?\r\n    Restart_Mission_To_Build_Warning=\r\n    Restart_Mission_To_Build_Warning=마지막 발사 이후로 진행 상황을 되돌립니다.\r\n\r\n# End mission menu; image at: https://drive.google.com/file/d/1L5FUM09JCZ6DCXFZfJPOM0CWHIEwvqMs/view?usp=공유\r\n    End_Mission_Menu_Title=미션 성과:\r\n    End_Mission=미션 종료\r\n\r\n# Clear space junk/debris\r\n    Clear_Debris_Warning=폐기물을 치우시겠습니까?\r\n    Clear_Debris_Warning=\r\n    Clear_Debris_Warning=제어 불가한 모든 로켓이 제거됩니다.\r\n\r\n    Clear_Debris_Confirm=폐기물 제거\r\n\r\n# Select menu; Image at: https://drive.google.com/file/d/1CBIAZ3o_Z7bpEAb8sVdTdDeF4KB8-Yyi/view?usp=공유\r\n    Navigate_To=이동지:\r\n    End_Navigation=탐색 종료\r\n    Focus=초점\r\n    Unfocus=초점 해제\r\n    Switch_To=전환 대상:\r\n\r\n[Rocket]\r\n    Default_Rocket_Name=로켓\r\n\r\n# Informs the player that he cannot perform an action due to rocket having no control\r\n    No_Control_Msg=제어 불가\r\n\r\n[Timewarp]\r\n# Timewarp = 시간을 빨리 감아 긴 대기 시간 스킵\r\n    Msg_Timewarp_Speed=%speed%x 시간 가속\r\n    Cannot_Timewarp_Below=%height% 미만으로 타임 워프 할 수 없음\r\n    Cannot_Timewarp_While_Moving_On_Surface=표면에서 이동하는 동안 타임 워프 할 수 없음\r\n    Cannot_Timewarp_While_Accelerating=가속 상태에서는 타임 워프 할 수 없음\r\n    Cannot_Use_Part_While_Timewarping=타임 워프 중에는 %part{1}%을(를) 사용할 수 없음\r\n    Cannot_Turn_While_Timewarping=타임 워프 중에는 회전할 수 없음\r\n\r\n[Units]\r\n# Image at: https://drive.google.com/file/d/1ljpGY55W8V1wF9esl5v569B0Z-D6xxMt/view?usp=공유\r\n    Thrust_To_Weight_Ratio=추진력/무게: %value%\r\n    Mass=질량: %value% 톤\r\n    Thrust=추진력: %value% 톤\r\n    Burn_Time=번 타임: %value%초\r\n\r\n# Image at: https://drive.google.com/file/d/17Bd9jTIYyI9nzOg3eXgy7sHdNe5O9gAt/view?usp=공유\r\n    Efficiency=효율: %value%추진력\r\n    Mass_Unit=톤\r\n    Meter_Unit=미터\r\n    Km_Unit=킬로미터\r\n    Meter_Per_Second_Unit=m/s\r\n\r\n[Timestamps]\r\n    Second_Short=%value%초\r\n    Minute_Short=%value%분\r\n    Hour_Short=%value%시간\r\n    Day_Short=%value%일\r\n\r\n[Resource Types]\r\n# Image at: https://drive.google.com/file/d/17Bd9jTIYyI9nzOg3eXgy7sHdNe5O9gAt/view?usp=공유\r\n    Solid_Fuel{0}=고체 연료\r\n    Solid_Fuel{1}=고체 연료\r\n    Liquid_Fuel{0}=액체 연료\r\n    Liquid_Fuel{1}=액체 연료\r\n\r\n[Resource Uses]\r\n    Resource_Bars_Title=%resource_name{0}%:\r\n    Info_Resource_Amount=%resource{0}%: %amount%\r\n    Msg_No_Resource_Source=%resource{1}% 소스 없음\r\n    Msg_No_Resource_Left=%resource{1}% 없음\r\n\r\n[Part Categories]\r\n# Image at: https://drive.google.com/file/d/1uyI7pvGaGyKrYOpe_2vC4MLaNPKy-wYE/view?usp=공유\r\n    Basic_Parts=기본\r\n    Six_Wide_Parts=6 와이드\r\n    Eight_Wide_Parts=8 와이드\r\n    Ten_Wide_Parts=10 와이드\r\n    Twelve_Wide_Parts=12 와이드\r\n    Engine_Parts=엔진\r\n    Aerodynamics_Parts=공기 역학\r\n    Fairings_Parts=페어링\r\n    Structural_Parts=구조\r\n    Other_Parts=기타\r\n\r\n[Part Names]\r\n    Capsule_Name{0}=캡슐\r\n    Capsule_Name{1}=캡슐\r\n    Probe_Name{0}=탐사선\r\n    Probe_Name{1}=탐사선\r\n    Parachute_Name{0}=낙하산\r\n    Parachute_Name{1}=낙하산\r\n    Kolibri_Engine_Name{0}=콜리브리 엔진\r\n    Kolibri_Engine_Name{1}=콜리브리 엔진\r\n    Hawk_Engine_Name{0}=호크 엔진\r\n    Hawk_Engine_Name{1}=호크 엔진\r\n    Valiant_Engine_Name{0}=발리언트 엔진\r\n    Valiant_Engine_Name{1}=발리언트 엔진\r\n    Titan_Engine_Name{0}=타이탄 엔진\r\n    Titan_Engine_Name{1}=타이탄 엔진\r\n    Frontier_Engine_Name{0}=프론티어 엔진\r\n    Frontier_Engine_Name{1}=프론티어 엔진\r\n    Ion_Engine_Name{0}=이온 엔진\r\n    Ion_Engine_Name{1}=이온 엔진\r\n    RCS_Thruster_Name{0}=RCS 추진기\r\n    RCS_Thruster_Name{1}=RCS 추진기\r\n    Fuel_Tank_Name{0}=연료 탱크\r\n    Fuel_Tank_Name{1}=연료 탱크\r\n    Separator_Name{0}=분리기\r\n    Separator_Name{1}=분리기\r\n    Side_Separator_Name{0}=측면 분리기\r\n    Side_Separator_Name{1}=측면 분리기\r\n    Structural_Part_Name{0}=구조 부품\r\n    Structural_Part_Name{1}=구조 부품\r\n    Landing_Leg_Name{0}=착륙 다리\r\n    Landing_Leg_Name{1}=착륙 다리\r\n    Aerodynamic_Nose_Cone_Name{0}=공기 역학적 노즈콘\r\n    Aerodynamic_Nose_Cone_Name{1}=공기 역학적 노즈콘\r\n    Aerodynamic_Fuselage_Name{0}=공기 역학적 기체\r\n    Aerodynamic_Fuselage_Name{1}=공기 역학적 기체\r\n    Fairing_Name{0}=페어링\r\n    Fairing_Name{1}=페어링\r\n    Rover_Wheel_Name{0}=로버 휠\r\n    Rover_Wheel_Name{1}=로버 휠\r\n    Docking_Port_Name{0}=도킹 포트\r\n    Docking_Port_Name{1}=도킹 포트\r\n    Solar_Panel_Name{0}=태양 전지 패널\r\n    Solar_Panel_Name{1}=태양 전지 패널\r\n    Battery_Name{0}=배터리\r\n    Battery_Name{1}=배터리\r\n    RTG_Name{0}=RTG\r\n    RTG_Name{1}=RTG\r\n\r\n[Part Descriptions]\r\n    Capsule_Description=우주 비행사 한 명을 태울 수 있는 작은 캡슐\r\n    Probe_Description=편도 미션에 사용되는 무인 탐사선\r\n    Parachute_Description=착륙에 사용되는 낙하산\r\n    Fuel_Tank_Description=액체 연료와 액체 산소를 운반하는 연료 탱크\r\n    Separator_Description=빈 스테이지를 분리하는 데 사용되는 수직 분리기\r\n    Side_Separator_Description=측면 부스터 분리에 사용되는 수평 분리기\r\n    Landing_Leg_Description=달과 행성 표면에 착륙하는 데 사용되는 확장 및 축소 가능한 다리\r\n    Structural_Part_Description=가볍고 튼튼한 구조 부품\r\n    Hawk_Engine_Description=보통 로켓 첫 단계에서 사용되는 고추진력-저효율 엔진\r\n    Titan_Engine_Description=보통 로켓 첫 단계에서 사용되는 고추진력-저효율 엔진\r\n    Valiant_Engine_Description=고효율, 저추진력 고추진력이 필요하지 않은 우주에서 사용되는 엔진\r\n    Frontier_Engine_Description=고효율, 저추진력 고추진력이 필요하지 않은 우주에서 사용되는 엔진\r\n    Kolibri_Engine_Description=착륙선에 사용되는 작은 엔진\r\n    Ion_Engine_Description=엄청난 고효율의 저추진력 엔진\r\n    RCS_Thruster_Description=도킹에 사용되는 작은 방향성 추진기 세트\r\n    Aerodynamic_Nose_Cone_Description=측면 부스터의 공기 역학을 개선하는 데 사용되는 공기 역학적 노즈콘\r\n    Aerodynamic_Fuselage_Description=엔진을 덮는 데 사용되는 공기 역학적 기체\r\n    Fairing_Description=페이 로드를 캡슐화하는 데 사용되는 공기 역학적 페어링\r\n    Battery_Description=전력을 저장하는 데 사용되는 배터리\r\n    Solar_Panel_Description=확장 시 전력을 생성하는 태양 전지 패널\r\n    RTG_Description=방사성 동위 원소 열전 발전기 또는 RTG\r\n    Rover_Wheel_Description=행성 표면에서 운전하는 데 사용되는 로버 휠\r\n    Docking_Port_Description=두 대의 차량을 연결하는 데 사용할 수 있는 도킹 포트\r\n\r\n[Modules]\r\n    Activate_Separator=분리\r\n    Activate_Fairing=페어링 작동\r\n\r\n    Torque_Module_Torque=토크: %value%kN\r\n    Separation_Force=분리력: %value%kN\r\n\r\n    State_On{0}=켜짐\r\n    State_Off{0}=꺼짐\r\n\r\n    Engine_Module_State=엔진 %state{0}%\r\n    Engine_On_Label=엔진 켜짐\r\n\r\n    Msg_RCS_Module_State=RCS %state{0}%\r\n\r\n    Wheel_Module_State=로버 휠 %state{0}%\r\n    Wheel_On_Label=휠 온\r\n\r\n    Panel_Expanded=확장됨\r\n    Landing_Leg_Expanded=작동됨\r\n\r\n    Info_Parachute_Max_Height=최대 작동 높이: %height%\r\n    Button_Activate_Parachute=낙하산 작동\r\n    Msg_Cannot_Deploy_Parachute_In_Vacuum=진공 상태에서 낙하산을 펼칠 수 없음\r\n    Msg_Cannot_Deploy_Parachute_Above=%height% 이상에서 낙하산을 펼칠 수 없음\r\n    Msg_Cannot_Fully_Deploy_Above=%height% 이상에서 낙하산을 완전히 펼칠 수 없음\r\n    Msg_Cannot_Deploy_Parachute_While_Faster=%velocity%보다 빠르게 갈 때 낙하산을 펼칠 수 없음\r\n    Msg_Cannot_Deploy_Parachute_While_Not_Moving=이동하지 않는 동안에는 낙하산을 펼칠 수 없음\r\n    Msg_Parachute_Half_Deployed=낙하산 절반 펼침\r\n    Msg_Parachute_Fully_Deployed=낙하산 완전 펼침\r\n    Msg_Parachute_Cut=낙하산 컷\r\n\r\n[Planets]\r\n    Sun{0}=태양\r\n    Sun{1}=태양\r\n    Sun{2}=태양\r\n    Mercury{0}=수성\r\n    Venus{0}=금성\r\n    Earth{0}=지구\r\n    Earth{1}=지구\r\n    Earth{2}=지구\r\n    Earth{3}=지구의\r\n    Moon{0}=달\r\n    Moon{1}=달\r\n    Moon{2}=달\r\n    Mars{0}=화성\r\n    Phobos{0}=포보스\r\n    Deimos{0}=데이모스\r\n    Jupiter{0}=목성\r\n    Jupiter{1}=목성\r\n    Jupiter{2}=목성\r\n    Jupiter{3}=목성의\r\n    Europa{0}=유로파\r\n    Ganymede{0}=가니메데\r\n    Io{0}=이오\r\n    Callisto{0}=칼리스토\r\n\r\n[Achievements]\r\n    Reached_Low_Orbit=낮은 %planet{0}% 궤도에 도달함\r\n    Reached_High_Orbit=높은 %planet{0}% 궤도에 도달함\r\n    Descend_Low_Orbit=낮은 %planet{0}% 궤도로 하강함\r\n    Capture_Low_Orbit=낮은 %planet{0}% 궤도에서 포착됨\r\n    Capture_High_Orbit=높은 %planet{0}% 궤도에서 포착됨\r\n\r\n    Entered_Lower_Atmosphere=낮은 %planet{3}% 대기에 진입함\r\n    Entered_Upper_Atmosphere=높은 %planet{3}% 대기에 진입함\r\n    Left_Lower_Atmosphere=높은 %planet{3}% 대기에 도달함\r\n    Left_Upper_Atmosphere=%planet{3}% 대기에서 이탈함\r\n\r\n    Landed=%planet{1}% 표면에 착륙함\r\n    Crashed_Into_Terrain=%planet{1}% 표면에 충돌함\r\n\r\n    Entered_SOI=%planet{1}% 영향권에 진입함\r\n    Escaped_SOI=%planet{1}% 영향권에서 탈출함\r\n\r\n    Docked_Suborbital=%planet{1}% 하위 궤도에 도킹함\r\n    Docked_Orbit_Low=낮은 %planet{0}% 궤도에 도킹함\r\n    Docked_Orbit_Transfer=%planet{1}% 이전 궤도에 도킹함\r\n    Docked_Orbit_High=높은 %planet{0}% 궤도에 도킹함\r\n    Docked_Escape=%planet{1}% 이탈 궤도에 도킹함\r\n    Docked_Surface=%planet{1}% 표면에 도킹함\r\n\r\n    Recover_Home=%planet{1}%에 안전하게 반환됨\r\n    Recover_Landed=%planet{1}% 표면에서 미션 종료됨\r\n    Recover_Space=%planet{1}% 주변 우주에서 미션 종료됨\r\n\r\n\r\n\r\n3\r\n[Ungroupped]\r\n# REAM ME:\r\n# The format used here is derived from INI.\r\n# We have added something special called variants.\r\n# \r\n# Example:\r\n# \r\n# [Planets]\r\n# Earth{0}= 地球\r\n# Earth{1}= 地球\r\n# \r\n# [Achievements]\r\n# Landed_Test0 = 已登陆%planet{0}%\r\n# Landed_Test1 = 已登陆%planet{1}%\r\n# \r\n# Variants are used for many things, such as making phrases work, caps, etc\r\n# \r\n# We recommend starting at the bottom of the file with achievements/planets, there variants are very clearly used.\r\n# \r\n# \r\n# \r\n# Available font types: normal/compatibility\r\n# In case of missing characters use compatibility font.\r\n    Font=normal\r\n\r\n[General]\r\n# Used for language select buttons\r\n    Language_Name_In_Local_Language=简体中文\r\n\r\n    Cancel=取消\r\n    Close=关闭\r\n\r\n    Open_Settings_Button=设置\r\n\r\n# Switching scenes buttons\r\n    Build_Rocket=建造火箭\r\n    Resume_Game=回到游戏\r\n    Return_To_Main_Menu=主菜单\r\n    Exit_To_Main_Menu=返回主菜单\r\n\r\n[Main Menu]\r\n# Image at: https://drive.google.com/file/d/1mEFf3W964ldXBekpbTc-Jj1XcSnBQz4k/view?usp=sharing\r\n    Play=开始游戏\r\n\r\n# Tutorial\r\n    Video_Tutorials_OpenButton=视频教程\r\n    Video_Orbit=轨道教程\r\n    Video_Moon=卫星教程\r\n    Video_Dock=对接教程\r\n\r\n# Community\r\n    Community_OpenButton=社区\r\n    Community_Youtube=Youtube\r\n    Community_Discord=Discord\r\n    Community_Reddit=Reddit\r\n\r\n# Roadmap\r\n    Roadmap_OpenButton=今后的更新\r\n\r\n    Roadmap_Text=1.51 版本\r\n    Roadmap_Text=<color=grey>分级</color>\r\n    Roadmap_Text=\r\n    Roadmap_Text=1.52 版本\r\n    Roadmap_Text=<color=grey>教程</color>\r\n    Roadmap_Text=\r\n    Roadmap_Text=1.53 版本\r\n    Roadmap_Text=<color=grey>再进入</color>\r\n    Roadmap_Text=\r\n    Roadmap_Text=1.54 版本\r\n    Roadmap_Text=<color=grey>视觉效果、粒子与声音</color>\r\n    Roadmap_Text=\r\n    Roadmap_Text=1.55 版本\r\n    Roadmap_Text=<color=grey>固态火箭推进器</color>\r\n    Roadmap_Text=\r\n    Roadmap_Text=1.6 版本\r\n    Roadmap_Text=<color=grey>宇航员</color>\r\n    Roadmap_Text=\r\n    Roadmap_Text=1.7 版本\r\n    Roadmap_Text=<color=grey>生涯</color>\r\n    Roadmap_Text=\r\n    Roadmap_Text=1.8 版本\r\n    Roadmap_Text=<color=grey>外行星</color>\r\n    Roadmap_Text=\r\n    Roadmap_Text=电力系统：\r\n    Roadmap_Text=<color=grey>整个电力系统将在今后完成彻底检修，最有可能推出的功能包括离子发动机燃烧时的时间跳跃以及其他更多电力使用</color>\r\n    Roadmap_Text=\r\n    Roadmap_Text=\r\n    Roadmap_Text=请记住，计划有可能会出现变更\r\n\r\n# Credits\r\n    Credits_OpenButton=制作组\r\n\r\n    Credits_Text=Štefo Mai Morojna\r\n    Credits_Text=<Size=55> 设计 - 程序 - 美术 </size>\r\n    Credits_Text=\r\n    Credits_Text=Jordi van der Molen\r\n    Credits_Text=<Size=55> 程序 </size>\r\n    Credits_Text=\r\n    Credits_Text=Chris Christo\r\n    Credits_Text=<Size=55> 程序 </size>\r\n    Credits_Text=\r\n    Credits_Text=Davi Vasc\r\n    Credits_Text=<Size=55> 作曲 </size>\r\n    Credits_Text=\r\n    Credits_Text=Ashton Mills\r\n    Credits_Text=<size=55> 作曲 </size>\r\n\r\n# Update menu\r\n    Update_Available=可下载新的补丁了！\r\n    Update_Available=\r\n    Update_Available=当前版本：%old%\r\n    Update_Available=最新版本：%new%\r\n\r\n    Update_Confirm=更新\r\n\r\n# Rate menu\r\n    Rate_Title=你愿意为本游戏评分或者写评论吗？\r\n    Rate_Title=\r\n    Rate_Title=我们非常注重我们的游戏质量，您的反馈将有助于我们不断改进\r\n    Rate_Title=\r\n    Rate_Title=即便是收到了成千上万条评论，我们也会耐心查看！\r\n\r\n    Rate_Confirm=评价\r\n\r\n# Close menu\r\n    Close_Game=确定关闭游戏吗？\r\n\r\n# Startup Messages\r\n    Early_Supporter_Message=作为早期支持者，您可以免费获得：\r\n    Early_Supporter_Message=\r\n    Early_Supporter_Message= - 部件扩展包\r\n    Early_Supporter_Message= - 皮肤扩展包\r\n    Early_Supporter_Message= - 星球扩展包\r\n    Early_Supporter_Message=\r\n    Early_Supporter_Message=感谢您的支持！\r\n\r\n[Worlds Menu]\r\n# Worlds are save slots; image at: https://drive.google.com/file/d/1vUYrXaem4ki1dcXRFUJLKWZEcE0PFno-/view?usp=分享\r\n    Create_New_World_Button=创建世界\r\n\r\n# Create menu\r\n    Create_World_Title=世界名\r\n    Default_World_Name=我的世界\r\n\r\n# Delete menu\r\n    World_Delete=删除世界\r\n\r\n# Select system menu\r\n    Select_Solar_System=选择世界的太阳系\r\n\r\n    Select_Solar_System__NotFound=无法找到的太阳系：\r\n    Select_Solar_System__NotFound=%system%\r\n    Select_Solar_System__NotFound=\r\n    Select_Solar_System__NotFound=选择一个新的太阳系\r\n\r\n    Default_Solar_System=太阳系（默认）\r\n    Custom_Solar_System=%name%（自定义）\r\n\r\n# World play times\r\n    Last_Played=最近游玩：%value% 前\r\n    Just_Played=最近游玩：刚刚\r\n    Time_Played=游戏时间：%value%\r\n\r\n[Saving]\r\n# Blueprint stuff; Blueprints are rocket designs; images at: https://drive.google.com/drive/folders/15m4nXgzr8fvql78TheE3Qy1WPrTaIqdJ?usp=分享\r\n    Blueprints_Menu_Title=蓝图\r\n    Unnamed_Blueprint=未命名的蓝图\r\n    Save_Blueprint=保存蓝图\r\n    Load_Blueprint=加载蓝图\r\n    Cannot_Save_Empty_Build=无法保存空蓝图\r\n\r\n# Quicksave stuff; Quicksaves let players save at any time and return to it.\r\n# It does not necessarily have to be called quicksave, player just needs to understand its use.\r\n# Image at: https://drive.google.com/drive/folders/128aXHWoUhJXZbbKVBDXXSMoCvRwFpvct?usp=分享\r\n    Quicksaves_Menu_Title=快速存档\r\n    Unnamed_Quicksave=未命名的快速存档\r\n    Create_Quicksave=创建快速存档\r\n    Load_Quicksave=加载快速存档\r\n\r\n# Save and load menus; context seen in images from blueprint/quicksave stuff\r\n    Save=保存\r\n    Load=加载\r\n    Delete=删除\r\n    Rename=重命名\r\n\r\n# In progress\r\n    Saving_In_Progress=保存中…\r\n    Loading_In_Progress=加载中…\r\n\r\n# filetype (injected)\r\n    Blueprint{0}=蓝图\r\n    Blueprint{1}=蓝图\r\n    Blueprint{2}=蓝图\r\n\r\n    Quicksave{0}=快速存档\r\n    Quicksave{1}=快速存档\r\n    Quicksave{2}=快速存档\r\n\r\n# Ask overwrite menu; image at: https://drive.google.com/file/d/1EOI9UIWAG-lNgrdk1IMmrpmf6rRBuA7Q/view?usp=分享\r\n    File_Already_Exists=已拥有相同名称的%filetype{1}%\r\n    Overwrite_File=覆盖%filetype{1}%\r\n    New_File=新的%filetype{1}%\r\n\r\n# Load failure; image at: https://drive.google.com/file/d/1c7qHCdbS1ShSq4rKIHMpHKCTuh0pXeHv/view?usp=分享\r\n    Load_Failed=无法从%filepath%加载%filetype{1}%\r\n\r\n# Legacy Messages\r\n    Conversion_Message=欢迎来到 1.5 版本。\r\n    Conversion_Message=\r\n    Conversion_Message=所有 1.4 版本的存档已自动转换为 1.5 版本的存档\r\n\r\n    Conversion_Success=发现了 1.4 版本的%filetype{1}%，并转换为了%version%格式\r\n\r\n    Conversion_Failed=发现了 1.4 版本的%filetype{1}%，并转换为了%version%格式\r\n    Conversion_Failed=\r\n    Conversion_Failed=转换失败：\r\n    Conversion_Failed=%reason%\r\n\r\n[Purchasing]\r\n# Images at: https://drive.google.com/drive/folders/1kIhFuPRp8YXkZ8SVC5Jq9UJkNZqdasQC?usp=分享\r\n    Parts_Expansion=部件扩展包\r\n    Skins_Expansion=皮肤扩展包\r\n    Planets_Expansion=星球扩展包\r\n    Expansion_Bundle=扩展组合包\r\n    Upgrade_To_Bundle=升级至组合包\r\n\r\n    More_Parts=更多部件…\r\n    More_Skins=更多皮肤…\r\n\r\n    Why_Buy=您的支持将有助于我们不断改进游戏！\r\n\r\n    Buy_Product=购买%product% %price%\r\n\r\n    Purchase_Thanks_Msg=已购买：%product%\r\n    Purchase_Thanks_Msg=\r\n    Purchase_Thanks_Msg=感谢购买\r\n    Purchase_Thanks_Msg=现在就去探索群星吧！\r\n\r\n    Owned=%product%（已拥有）\r\n\r\n    Restore_Open=恢复\r\n\r\n    Restore_Text=安卓设备上的交易会在启动时自动恢复\r\n    Restore_Text=\r\n    Restore_Text=- 检查您是否登录了已购买物品的 Google Play 账号（检查 Google Play 购买历史中是否能查到该购买记录）\r\n    Restore_Text=\r\n    Restore_Text=- 检查购买按钮，如果没有显示价格，则说明游戏没有连接至商店。请检查网络连接并重启游戏\r\n    Restore_Text=\r\n    Restore_Text=如果以上方法都没有用，请通过邮件联系我：games.morojna@gmail.com\r\n    Restore_Text=\r\n    Restore_Text=您也可以尝试等待一会，购买的物品有时候隔几小时就会自己恢复\r\n\r\n    Purchase_FAQ_Open=常见问题\r\n\r\n    Purchase_FAQ_Text=<color=grey>购买的物品是否会在更新期间留存？</color>\r\n    Purchase_FAQ_Text=是的，当然\r\n    Purchase_FAQ_Text=\r\n    Purchase_FAQ_Text=\r\n    Purchase_FAQ_Text=<color=grey>购买的物品有可能会丢失吗？</color>\r\n    Purchase_FAQ_Text=您购买的物品将会永久储存在您的商店账号中，并且即便是重装游戏或更换手机也不会丢失\r\n    Purchase_FAQ_Text=\r\n    Purchase_FAQ_Text=\r\n    Purchase_FAQ_Text=<color=grey>你们会提供退款吗？</color>\r\n    Purchase_FAQ_Text=是的，当然。只要您在合理的时间内提出申请，我们将会无条件退款\r\n\r\n# Parts Expansion; images at: https://drive.google.com/drive/folders/1JMCVDO9BN5z2ECeIq07kkQ4W0-evIMSb?usp=分享\r\n    PartsExpansion_Tanks=各种各样的燃料箱！\r\n    PartsExpansion_Engines=重型起重引擎！\r\n    PartsExpansion_Parts=各种形状及尺寸的部件！\r\n\r\n    PartsExpansion_Build=超大的建造空间\r\n    PartsExpansion_Build=让您的创意变为现实！\r\n\r\n# Skins Expansion; images at: https://drive.google.com/drive/folders/1-X2n4Y-AUDehknKdBiqCy7TG-DyqLgyf?usp=分享\r\n    SkinsExpansion_Tanks=给您的部件绘上各种各样的皮肤！\r\n    SkinsExpansion_Interstages=从衔接级间\r\n    SkinsExpansion_Nosecones=到鼻罩\r\n    SkinsExpansion_Fairings=甚至是整流罩都涂上颜色\r\n\r\n# Planets Expansion; images at: https://drive.google.com/drive/folders/15lIYDSIOPrSei1DJBrvHRDQ_WieAb0yf?usp=分享\r\n    PlanetsExpansion_Jupiter=探索木星及其四颗卫星！\r\n    PlanetsExpansion_Callisto=从木卫四满是陨石坑的地表！\r\n    PlanetsExpansion_Europa=到木卫二广阔的冰原！\r\n\r\n    PlanetsExpansion_Conclusion=遥远的天外世界正等着你\r\n    PlanetsExpansion_Conclusion=去探索！\r\n\r\n# Expansion Bundle; images at: https://drive.google.com/file/d/1aWdcqNciwf7i3ju1Hx7mHnKyGBS2_tYU/view?usp=分享\r\n    ExpansionBundle_Sandbox=奖励\r\n    ExpansionBundle_Sandbox=沙盒模式\r\n\r\n    ExpansionBundle_Infinite_Fuel=无限燃料\r\n    ExpansionBundle_No_Atmospheric_Drag=无大气阻力\r\n    ExpansionBundle_Unbreakable_Parts=部件不会破损\r\n    ExpansionBundle_No_Gravity=无重力\r\n\r\n[Settings]\r\n# Image at: https://drive.google.com/file/d/1kF_zlTUw7QQnCIfcVNRHGDsn_rH-ySkF/view?usp=分享\r\n    Music_Name=音乐：\r\n    Sound_Name=声音：\r\n    Screen_Rotation_Name=屏幕旋转：\r\n    FPS_Name=帧率：\r\n    Language_Name=语言：\r\n\r\n    Infinite_Fuel_Name=无限燃料：\r\n    No_Atmospheric_Drag_Name=无大气阻力：\r\n    Unbreakable_Parts_Name=部件不会破损：\r\n    No_Gravity_Name=无重力：\r\n\r\n# This version of is displayed on screen to let players know what cheats they are using\r\n# Image as: https://drive.google.com/file/d/1_uDOsT_yAgui19jNqAwx_CMGvLoS5LYh/view?usp=分享\r\n    Cheat_On{0}=开\r\n    Cheat_Off{0}=关\r\n\r\n    Infinite_Fuel=无限燃料：%value{0}%\r\n    No_Atmospheric_Drag=无大气阻力：%value{0}%\r\n    Unbreakable_Parts=部件不会破损：%value{0}%\r\n    No_Gravity=无重力：%value{0}%\r\n\r\n[Build]\r\n# Images at: https://drive.google.com/drive/folders/16-6I-SE_4nmVTjNxsUdAUJtUDIBe5WVz?usp=分享\r\n    Build_New_Rocket=建造新的火箭\r\n    Resume_Build=继续建造\r\n\r\n    Symmetry_On=对称：开\r\n    Symmetry_Off=对称：关\r\n\r\n    Launch_Button=发射\r\n    Move_Rocket_Button=移动火箭\r\n\r\n# Clear build area\r\n    Clear_Warning=清空吗？\r\n    Clear_Confirm=清空\r\n\r\n# Launch warnings\r\n    Missing_Capsule=你的火箭没有太空舱\r\n    Missing_Parachute=你的火箭没有降落伞\r\n\r\n    Too_Heavy=你的火箭太重了，无法发射\r\n    Too_Heavy=\r\n    Too_Heavy=\r\n    Too_Heavy=请减轻重量或使用动力更强劲的引擎\r\n\r\n    Launch_Anyway_Button=仍然发射\r\n\r\n# Example rockets\r\n    Example_Rockets_OpenMenu=示例火箭\r\n    Basic_Rocket=基础火箭\r\n    Stages=分级\r\n    Ideal_Stages=理想分级\r\n    Lander=着陆器\r\n\r\n[Map]\r\n    Toggle_Map_Button=地图\r\n\r\n# Shown in map when you escape a gravity field of a planet\r\n# image for escape/encounter at: https://drive.google.com/file/d/17jqJF09DWoqkgW9VGXdG7SRCSo0UmW0o/view?usp=分享\r\n    Escape=逃离\r\n\r\n# Shown in map when you encounter/enter a gravity field of a planet\r\n    Encounter=遭遇\r\n\r\n# Shown in map when you approach/encounter another rocket\r\n    Rendezvous=会合点\r\n\r\n# Shows the transfer window to another planet\r\n# image at: https://drive.google.com/file/d/1zd8UEnVb91QmSDllEu1DyCbkCsDKbJk3/view?usp=分享\r\n    Transfer=转移窗口\r\n\r\n[Game]\r\n# Image at: https://drive.google.com/file/d/1d0b-udFyO4ItlYu1vVaVdzgwdAeT1hPw/view?usp=分享\r\n    Throttle_On=开\r\n    Throttle_Off=关\r\n\r\n# Game supports screen rotation, we split into 2 lines in vertical mode\r\n    Height_Terrain_Vertical=高度（地形）：\r\n    Height_Terrain_Vertical=\r\n    Height_Terrain_Vertical=%height%\r\n\r\n    Height_Vertical=高度：\r\n    Height_Vertical=\r\n    Height_Vertical=%height%\r\n\r\n    Velocity_Vertical=速度：\r\n    Velocity_Vertical=\r\n    Velocity_Vertical=%speed%\r\n\r\n# Angle indicates the best angle/direction the player can rotate their rocket towards\r\n    Angle_Vertical=角度：\r\n    Angle_Vertical=\r\n    Angle_Vertical=%angle% / %targetAngle%\r\n\r\n    Height_Terrain_Horizontal=高度（地形）：%height%\r\n    Height_Horizontal=高度：%height%\r\n    Velocity_Horizontal=速度：%speed%\r\n\r\n# Angle indicates the best angle/direction the player can rotate their rocket towards\r\n    Angle_Horizontal=角度：%angle% / %targetAngle%\r\n\r\n[Game menus]\r\n# Image at: https://drive.google.com/file/d/1XPUZnlFGrs9ZQ0QRjqbvKMEwXg1Pl7cF/view?usp=分享\r\n    Restart_Mission=重新开始任务\r\n\r\n# Restart menu\r\n    Restart_Mission_To_Launch=恢复至发射阶段\r\n\r\n    Restart_Mission_To_Launch_Warning=确定恢复至发射阶段吗？\r\n    Restart_Mission_To_Launch_Warning=\r\n    Restart_Mission_To_Launch_Warning=这将会使进度恢复自上次发射以来的状态\r\n\r\n    Restart_Mission_To_Build=恢复至建造阶段\r\n\r\n    Restart_Mission_To_Build_Warning=确定恢复至建造阶段吗？\r\n    Restart_Mission_To_Build_Warning=\r\n    Restart_Mission_To_Build_Warning=这将会使进度恢复自上次发射以来的状态\r\n\r\n# End mission menu; image at: https://drive.google.com/file/d/1L5FUM09JCZ6DCXFZfJPOM0CWHIEwvqMs/view?usp=分享\r\n    End_Mission_Menu_Title=任务成就：\r\n    End_Mission=结束任务\r\n\r\n# Clear space junk/debris\r\n    Clear_Debris_Warning=确定清除残骸吗？\r\n    Clear_Debris_Warning=\r\n    Clear_Debris_Warning=这将会移除所有无法控制的火箭\r\n\r\n    Clear_Debris_Confirm=清除残骸\r\n\r\n# Select menu; Image at: https://drive.google.com/file/d/1CBIAZ3o_Z7bpEAb8sVdTdDeF4KB8-Yyi/view?usp=分享\r\n    Navigate_To=导航至\r\n    End_Navigation=结束导航\r\n    Focus=聚焦\r\n    Unfocus=取消聚焦\r\n    Switch_To=切换至\r\n\r\n[Rocket]\r\n    Default_Rocket_Name=火箭\r\n\r\n# Informs the player that he cannot perform an action due to rocket having no control\r\n    No_Control_Msg=无控制\r\n\r\n[Timewarp]\r\n# Timewarp = 快进时间可跳过长时间的等待\r\n    Msg_Timewarp_Speed=时间加速 %speed%x\r\n    Cannot_Timewarp_Below=%height% 高度以下无法进行时间跳跃\r\n    Cannot_Timewarp_While_Moving_On_Surface=在地表移动时无法进行时间跳跃\r\n    Cannot_Timewarp_While_Accelerating=加速时无法进行时间跳跃\r\n    Cannot_Use_Part_While_Timewarping=时间跳跃期间无法使用%part{1}%\r\n    Cannot_Turn_While_Timewarping=时间跳跃期间无法转向\r\n\r\n[Units]\r\n# Image at: https://drive.google.com/file/d/1ljpGY55W8V1wF9esl5v569B0Z-D6xxMt/view?usp=分享\r\n    Thrust_To_Weight_Ratio=推力 / 重量：%value%\r\n    Mass=质量：%value% 吨\r\n    Thrust=推力：%value% 吨\r\n    Burn_Time=燃烧时间：%value% 秒\r\n\r\n# Image at: https://drive.google.com/file/d/17Bd9jTIYyI9nzOg3eXgy7sHdNe5O9gAt/view?usp=分享\r\n    Efficiency=效率：%value% 比冲\r\n    Mass_Unit=吨\r\n    Meter_Unit=米\r\n    Km_Unit=千米\r\n    Meter_Per_Second_Unit=米/秒\r\n\r\n[Timestamps]\r\n    Second_Short=%value% 秒\r\n    Minute_Short=%value% 分\r\n    Hour_Short=%value% 时\r\n    Day_Short=%value% 天\r\n\r\n[Resource Types]\r\n# Image at: https://drive.google.com/file/d/17Bd9jTIYyI9nzOg3eXgy7sHdNe5O9gAt/view?usp=分享\r\n    Solid_Fuel{0}=固态燃料\r\n    Solid_Fuel{1}=固态燃料\r\n    Liquid_Fuel{0}=液态燃料\r\n    Liquid_Fuel{1}=液态燃料\r\n\r\n[Resource Uses]\r\n    Resource_Bars_Title=%resource_name{0}%：\r\n    Info_Resource_Amount=%resource{0}%：%amount%\r\n    Msg_No_Resource_Source=无%resource{1}%来源\r\n    Msg_No_Resource_Left=%resource{1}%不足\r\n\r\n[Part Categories]\r\n# Image at: https://drive.google.com/file/d/1uyI7pvGaGyKrYOpe_2vC4MLaNPKy-wYE/view?usp=分享\r\n    Basic_Parts=基础\r\n    Six_Wide_Parts=宽 6\r\n    Eight_Wide_Parts=宽 8\r\n    Ten_Wide_Parts=宽 10\r\n    Twelve_Wide_Parts=宽 12\r\n    Engine_Parts=引擎\r\n    Aerodynamics_Parts=空气动力\r\n    Fairings_Parts=整流罩\r\n    Structural_Parts=结构\r\n    Other_Parts=其他\r\n\r\n[Part Names]\r\n    Capsule_Name{0}=太空舱\r\n    Capsule_Name{1}=太空舱\r\n    Probe_Name{0}=探机\r\n    Probe_Name{1}=探机\r\n    Parachute_Name{0}=降落伞\r\n    Parachute_Name{1}=降落伞\r\n    Kolibri_Engine_Name{0}=蜂鸟引擎\r\n    Kolibri_Engine_Name{1}=蜂鸟引擎\r\n    Hawk_Engine_Name{0}=猎鹰引擎\r\n    Hawk_Engine_Name{1}=猎鹰引擎\r\n    Valiant_Engine_Name{0}=英勇引擎\r\n    Valiant_Engine_Name{1}=英勇引擎\r\n    Titan_Engine_Name{0}=泰坦引擎\r\n    Titan_Engine_Name{1}=泰坦引擎\r\n    Frontier_Engine_Name{0}=开拓者引擎\r\n    Frontier_Engine_Name{1}=开拓者引擎\r\n    Ion_Engine_Name{0}=离子引擎\r\n    Ion_Engine_Name{1}=离子引擎\r\n    RCS_Thruster_Name{0}=RCS 推进器\r\n    RCS_Thruster_Name{1}=RCS 推进器\r\n    Fuel_Tank_Name{0}=燃料箱\r\n    Fuel_Tank_Name{1}=燃料箱\r\n    Separator_Name{0}=分离器\r\n    Separator_Name{1}=分离器\r\n    Side_Separator_Name{0}=侧边分离器\r\n    Side_Separator_Name{1}=侧边分离器\r\n    Structural_Part_Name{0}=结构部件\r\n    Structural_Part_Name{1}=结构部件\r\n    Landing_Leg_Name{0}=着陆支架\r\n    Landing_Leg_Name{1}=着陆支架\r\n    Aerodynamic_Nose_Cone_Name{0}=空气动力前锥体\r\n    Aerodynamic_Nose_Cone_Name{1}=空气动力前锥体\r\n    Aerodynamic_Fuselage_Name{0}=空气动力机身\r\n    Aerodynamic_Fuselage_Name{1}=空气动力机身\r\n    Fairing_Name{0}=整流罩\r\n    Fairing_Name{1}=整流罩\r\n    Rover_Wheel_Name{0}=探测车\r\n    Rover_Wheel_Name{1}=探测车\r\n    Docking_Port_Name{0}=对接口\r\n    Docking_Port_Name{1}=对接口\r\n    Solar_Panel_Name{0}=太阳能电池板\r\n    Solar_Panel_Name{1}=太阳能电池板\r\n    Battery_Name{0}=电池\r\n    Battery_Name{1}=电池\r\n    RTG_Name{0}=RTG\r\n    RTG_Name{1}=RTG\r\n\r\n[Part Descriptions]\r\n    Capsule_Description=能够搭载一名宇航员的小型太空舱\r\n    Probe_Description=适用于单程任务的无人驾驶探机\r\n    Parachute_Description=用于着陆的降落伞\r\n    Fuel_Tank_Description=装有液态燃料和液态氧的燃料箱\r\n    Separator_Description=用于分离空分级的立式分离器\r\n    Side_Separator_Description=用于分离侧置助推器的卧式分离器\r\n    Landing_Leg_Description=用于在卫星或行星表面着陆的可伸缩支架\r\n    Structural_Part_Description=轻盈而坚固的结构部件\r\n    Hawk_Engine_Description=高推力、低效率的引擎，通常用于火箭的第一分级\r\n    Titan_Engine_Description=高推力、低效率的引擎，通常用于火箭的第一分级\r\n    Valiant_Engine_Description=高效率、低推力。适用于高推力并非优先考虑因素的太空环境中。\r\n    Frontier_Engine_Description=高效率、低推力。适用于高推力并非优先考虑因素的太空环境中。\r\n    Kolibri_Engine_Description=适用于着陆器的小型引擎\r\n    Ion_Engine_Description=有着超高效率的低推力引擎\r\n    RCS_Thruster_Description=一套用于对接的小型定向推进器\r\n    Aerodynamic_Nose_Cone_Description=空气动力前锥体，主要用于改善侧置助推器的空气动力\r\n    Aerodynamic_Fuselage_Description=用于覆盖引擎的空气动力机身\r\n    Fairing_Description=用于封装有效载荷的空气动力整流罩\r\n    Battery_Description=用于储存电力的电池\r\n    Solar_Panel_Description=延伸后可用来发电的太阳能电池板\r\n    RTG_Description=放射性同位素热电机或 RTG\r\n    Rover_Wheel_Description=用来在行星表面行驶的探测车\r\n    Docking_Port_Description=用来连接两辆载具的对接口\r\n\r\n[Modules]\r\n    Activate_Separator=分离\r\n    Activate_Fairing=展开整流罩\r\n\r\n    Torque_Module_Torque=扭矩：%value% kN\r\n    Separation_Force=分离力：%value% kN\r\n\r\n    State_On{0}=开\r\n    State_Off{0}=关\r\n\r\n    Engine_Module_State=引擎 %state{0}%\r\n    Engine_On_Label=引擎已启用\r\n\r\n    Msg_RCS_Module_State=RCS %state{0}%\r\n\r\n    Wheel_Module_State=探测车 %state{0}%\r\n    Wheel_On_Label=车轮已启用\r\n\r\n    Panel_Expanded=已扩展\r\n    Landing_Leg_Expanded=已展开\r\n\r\n    Info_Parachute_Max_Height=最大展开高度：%height%\r\n    Button_Activate_Parachute=展开降落伞\r\n    Msg_Cannot_Deploy_Parachute_In_Vacuum=无法在真空中展开降落伞\r\n    Msg_Cannot_Deploy_Parachute_Above=无法在 %height% 以上的高度展开降落伞\r\n    Msg_Cannot_Fully_Deploy_Above=无法在 %height% 以上的高度完全展开降落伞\r\n    Msg_Cannot_Deploy_Parachute_While_Faster=无法在速度高于 %velocity% 时展开降落伞\r\n    Msg_Cannot_Deploy_Parachute_While_Not_Moving=无法在停止移动时展开降落伞\r\n    Msg_Parachute_Half_Deployed=降落伞已半展开\r\n    Msg_Parachute_Fully_Deployed=降落伞已完全展开\r\n    Msg_Parachute_Cut=降落伞已切断\r\n\r\n[Planets]\r\n    Sun{0}=太阳\r\n    Sun{1}=太阳\r\n    Sun{2}=太阳\r\n    Mercury{0}=水星\r\n    Venus{0}=金星\r\n    Earth{0}=地球\r\n    Earth{1}=地球\r\n    Earth{2}=地球\r\n    Earth{3}=地球\r\n    Moon{0}=月球\r\n    Moon{1}=月球\r\n    Moon{2}=月球\r\n    Mars{0}=火星\r\n    Phobos{0}=火卫一\r\n    Deimos{0}=火卫二\r\n    Jupiter{0}=木星\r\n    Jupiter{1}=木星\r\n    Jupiter{2}=木星\r\n    Jupiter{3}=木星\r\n    Europa{0}=木卫二\r\n    Ganymede{0}=木卫三\r\n    Io{0}=木卫一\r\n    Callisto{0}=木卫四\r\n\r\n[Achievements]\r\n    Reached_Low_Orbit=已到达近%planet{0}%轨道\r\n    Reached_High_Orbit=已到达远%planet{0}%轨道\r\n    Descend_Low_Orbit=已下降到近%planet{0}%轨道\r\n    Capture_Low_Orbit=已被捕捉至近%planet{0}%轨道\r\n    Capture_High_Orbit=已被捕捉至远%planet{0}%轨道\r\n\r\n    Entered_Lower_Atmosphere=已进入%planet{3}%下层大气\r\n    Entered_Upper_Atmosphere=已进入%planet{3}%上层大气\r\n    Left_Lower_Atmosphere=已到达%planet{3}%上层大气\r\n    Left_Upper_Atmosphere=已脱离%planet{3}%大气\r\n\r\n    Landed=已在%planet{1}%地表登陆\r\n    Crashed_Into_Terrain=已坠落至%planet{1}%地表\r\n\r\n    Entered_SOI=已进入%planet{1}%的影响范围\r\n    Escaped_SOI=已脱离%planet{1}%的影响范围\r\n\r\n    Docked_Suborbital=已在%planet{1}%的亚轨道对接\r\n    Docked_Orbit_Low=已在近%planet{0}%轨道对接\r\n    Docked_Orbit_Transfer=已在%planet{1}%的转移轨道对接\r\n    Docked_Orbit_High=已在远%planet{0}%轨道对接\r\n    Docked_Escape=已在%planet{1}%的脱离轨道对接\r\n    Docked_Surface=已在%planet{1}%地表对接\r\n\r\n    Recover_Home=已安全返回至%planet{1}%\r\n    Recover_Landed=已结束在%planet{1}%地表的任务\r\n    Recover_Space=已结束绕%planet{1}%的太空任务\r\n\r\n5\r\n[Ungroupped]\r\n# REAM ME:\r\n# The format used here is derived from INI.\r\n# We have added something special called variants.\r\n# \r\n# Example:\r\n# \r\n# [Planets]\r\n# Earth{0}= पृथ्वी\r\n# Earth{1}= पृथ्वी के\r\n# \r\n# [Achievements]\r\n# Landed_Test0 = %planet{0}% पर लैंड हुआ  ‏पृथ्वी पर लैंड हुआ)\r\n# Landed_Test1 = %planet{1}% पर लैंड हुआ  पृथ्वी पर लैंड हुआ)\r\n# \r\n# Variants are used for many things, such as making phrases work, caps, etc\r\n# \r\n# We recommend starting at the bottom of the file with achievements/planets, there variants are very clearly used.\r\n# \r\n# \r\n# \r\n# Available font types: normal/compatibility\r\n# In case of missing characters use compatibility font.\r\n    Font=सामान्य\r\n\r\n[General]\r\n# Used for language select buttons\r\n    Language_Name_In_Local_Language=अंग्रेज़ी\r\n\r\n    Cancel=कैंसिल करें\r\n    Close=बंद करें\r\n\r\n    Open_Settings_Button=सेटिंग्स\r\n\r\n# Switching scenes buttons\r\n    Build_Rocket=रॉकेट बनाएं\r\n    Resume_Game=फिर से गेम शुरू करें\r\n    Return_To_Main_Menu=मुख्य मेनू\r\n    Exit_To_Main_Menu=मुख्य मेनू से बाहर निकलें\r\n\r\n[Main Menu]\r\n# Image at: https://drive.google.com/file/d/1mEFf3W964ldXBekpbTc-Jj1XcSnBQz4k/view?usp=sharing\r\n    Play=खेलें\r\n\r\n# Tutorial\r\n    Video_Tutorials_OpenButton=वीडियो ट्यूटोरियल\r\n    Video_Orbit=ऑर्बिट ट्यूटोरियल\r\n    Video_Moon=मून ट्यूटोरियल\r\n    Video_Dock=डॉकिंग ट्यूटोरियल\r\n\r\n# Community\r\n    Community_OpenButton=समुदाय\r\n    Community_Youtube=Youtube\r\n    Community_Discord=Discord\r\n    Community_Reddit=Reddit\r\n\r\n# Roadmap\r\n    Roadmap_OpenButton=आने वाले अपडेट्स\r\n\r\n    Roadmap_Text=संस्करण 1.51\r\n    Roadmap_Text=<color=grey>स्टेजिंग</color>\r\n    Roadmap_Text=\r\n    Roadmap_Text=संस्करण 1.52\r\n    Roadmap_Text=<color=grey>ट्यूटोरियल</color>\r\n    Roadmap_Text=\r\n    Roadmap_Text=संस्करण 1.53\r\n    Roadmap_Text=<color=grey>फिर से आएं</color>\r\n    Roadmap_Text=\r\n    Roadmap_Text=संस्करण 1.54\r\n    Roadmap_Text=<color=grey>विज़ुअल इफ़ेक्ट, पार्टिकल्स और साउंड्स</color>\r\n    Roadmap_Text=\r\n    Roadmap_Text=संस्करण 1.55\r\n    Roadmap_Text=<color=grey>ठोस रॉकेट बूस्टर</color>\r\n    Roadmap_Text=\r\n    Roadmap_Text=संस्करण 1.6\r\n    Roadmap_Text=<color=grey>एस्ट्रोनॉट्स</color>\r\n    Roadmap_Text=\r\n    Roadmap_Text=संस्करण 1.7\r\n    Roadmap_Text=<color=grey>कैरियर</color>\r\n    Roadmap_Text=\r\n    Roadmap_Text=संस्करण 1.8\r\n    Roadmap_Text=<color=grey>बाहरी ग्रह</color>\r\n    Roadmap_Text=\r\n    Roadmap_Text=इलेक्ट्रिक सिस्टम:\r\n    Roadmap_Text=<color=grey>भविष्य में पूरे इलेक्ट्रिक सिस्टम को पूरी तरह से बदल दिया जाएगा, ज़्यादातर आयन इंजन बर्न्स के दौरान टाइमवार्प और बिजली के लिए अधिक उपयोग जैसी सुविधाओं की संभावना के साथ</color>\r\n    Roadmap_Text=\r\n    Roadmap_Text=\r\n    Roadmap_Text=कृपया ध्यान रखें कि योजनाएँ बदल सकती हैं\r\n\r\n# Credits\r\n    Credits_OpenButton=आभार\r\n\r\n    Credits_Text=स्टेफ़ो माई मोरोजना\r\n    Credits_Text=<Size=55> डिज़ाइनर - प्रोग्रामर - आर्टिस्ट </size>\r\n    Credits_Text=\r\n    Credits_Text=जोर्डी वैन डेर मोलेन\r\n    Credits_Text=<Size=55> प्रोग्रामर </size>\r\n    Credits_Text=\r\n    Credits_Text=क्रिस क्रिस्टो\r\n    Credits_Text=<Size=55> प्रोग्रामर </size>\r\n    Credits_Text=\r\n    Credits_Text=डेवी वास्क\r\n    Credits_Text=<Size=55> रचयिता </size>\r\n    Credits_Text=\r\n    Credits_Text=एश्टन मिल्स\r\n    Credits_Text=<size=55> रचयिता </size>\r\n\r\n# Update menu\r\n    Update_Available=नया अपडेट उपलब्ध है!\r\n    Update_Available=\r\n    Update_Available=वर्तमान संस्करण: %old%\r\n    Update_Available=नवीनतम संस्करण: %new%\r\n\r\n    Update_Confirm=अपडेट\r\n\r\n# Rate menu\r\n    Rate_Title=क्या आप गेम को रेट या रिव्यु करना चाहेंगे?\r\n    Rate_Title=\r\n    Rate_Title=हम अपने गेम की क्वॉलिटी के बारे में ख़ास ध्यान रखते हैं, आपका फ़ीडबैक हमें इसे बेहतर बनाने में मदद करता है\r\n    Rate_Title=\r\n    Rate_Title=चाहे रिव्यु हज़ारों क्यों न हो, हम ज़्यादा से ज़्यादा मात्रा में उन्हें पढ़ते हैं!\r\n\r\n    Rate_Confirm=रेट\r\n\r\n# Close menu\r\n    Close_Game=गेम बंद करें?\r\n\r\n# Startup Messages\r\n    Early_Supporter_Message=एक शुरुआती समर्थक के रूप में, आपके पास इन चीज़ों का मुफ़्त एक्सेस है:\r\n    Early_Supporter_Message=\r\n    Early_Supporter_Message= - पार्ट्स बढ़ाना\r\n    Early_Supporter_Message= - स्किन्स बढ़ाना\r\n    Early_Supporter_Message= - ग्रहों को बढ़ाना\r\n    Early_Supporter_Message=\r\n    Early_Supporter_Message=आपके सहयोग के लिए धन्यवाद!\r\n\r\n[Worlds Menu]\r\n# Worlds are save slots; image at: https://drive.google.com/file/d/1vUYrXaem4ki1dcXRFUJLKWZEcE0PFno-/view?usp=शेयर हो रहा है\r\n    Create_New_World_Button=वर्ल्ड बनाएं\r\n\r\n# Create menu\r\n    Create_World_Title=वर्ल्ड का नाम\r\n    Default_World_Name=मेरा वर्ल्ड\r\n\r\n# Delete menu\r\n    World_Delete=वर्ल्ड डिलीट करें\r\n\r\n# Select system menu\r\n    Select_Solar_System=वर्ल्ड का सोलर सिस्टम चुनें\r\n\r\n    Select_Solar_System__NotFound=सोलर सिस्टम मिल नहीं रहा है:\r\n    Select_Solar_System__NotFound=%system%\r\n    Select_Solar_System__NotFound=\r\n    Select_Solar_System__NotFound=नया सोलर सिस्टम सिस्टम चुनें\r\n\r\n    Default_Solar_System=सोलर सिस्टम (डिफ़ॉल्ट)\r\n    Custom_Solar_System=%name% (कस्टम)\r\n\r\n# World play times\r\n    Last_Played=आख़िरी बार खेला: %value% पहले\r\n    Just_Played=आख़िरी बार खेला: एक सेकंड पहले\r\n    Time_Played=खेलने का समय: %value%\r\n\r\n[Saving]\r\n# Blueprint stuff; Blueprints are rocket designs; images at: https://drive.google.com/drive/folders/15m4nXgzr8fvql78TheE3Qy1WPrTaIqdJ?usp=शेयर हो रहा है\r\n    Blueprints_Menu_Title=ब्लूप्रिंट\r\n    Unnamed_Blueprint=बेनाम ब्लूप्रिंट\r\n    Save_Blueprint=ब्लूप्रिंट सेव करें\r\n    Load_Blueprint=ब्लूप्रिंट लोड करें\r\n    Cannot_Save_Empty_Build=खाली ब्लूप्रिंट सेव नहीं किया जा सकता\r\n\r\n# Quicksave stuff; Quicksaves let players save at any time and return to it.\r\n# It does not necessarily have to be called quicksave, player just needs to understand its use.\r\n# Image at: https://drive.google.com/drive/folders/128aXHWoUhJXZbbKVBDXXSMoCvRwFpvct?usp=शेयर हो रहा है\r\n    Quicksaves_Menu_Title=क्विकसेव्स\r\n    Unnamed_Quicksave=बेनाम क्विकसेव\r\n    Create_Quicksave=क्विकसेव बनाएं\r\n    Load_Quicksave=क्विकसेव लोड करें\r\n\r\n# Save and load menus; context seen in images from blueprint/quicksave stuff\r\n    Save=सेव करें\r\n    Load=लोड करें\r\n    Delete=डिलीट करें\r\n    Rename=नया नाम रखें\r\n\r\n# In progress\r\n    Saving_In_Progress=सेव किया जा रहा है...\r\n    Loading_In_Progress=लोड किया जा रहा है...\r\n\r\n# filetype (injected)\r\n    Blueprint{0}=ब्लूप्रिंट\r\n    Blueprint{1}=ब्लूप्रिंट\r\n    Blueprint{2}=ब्लूप्रिंट\r\n\r\n    Quicksave{0}=क्विकसेव\r\n    Quicksave{1}=क्विकसेव\r\n    Quicksave{2}=क्विकसेव्स\r\n\r\n# Ask overwrite menu; image at: https://drive.google.com/file/d/1EOI9UIWAG-lNgrdk1IMmrpmf6rRBuA7Q/view?usp=शेयर हो रहा है\r\n    File_Already_Exists=इस नाम वाला %filetype{1}% पहले से मौजूद है\r\n    Overwrite_File=%filetype{1}% के ऊपर लिखें\r\n    New_File=नया %filetype{1}%\r\n\r\n# Load failure; image at: https://drive.google.com/file/d/1c7qHCdbS1ShSq4rKIHMpHKCTuh0pXeHv/view?usp=शेयर हो रहा है\r\n    Load_Failed=%filepath% से %filetype{1}% लोड नहीं किया जा सकता है\r\n\r\n# Legacy Messages\r\n    Conversion_Message=1.5 में आपका स्वागत है।\r\n    Conversion_Message=\r\n    Conversion_Message=आपके सभी 1.4 सेव अपने आप ही 1.5 सेव में बदल गए हैं\r\n\r\n    Conversion_Success=एक 1.4 %filetype{1}% देखा गया है और इसे %version% फॉर्मैट में बदल दिया गया है \r\n\r\n    Conversion_Failed=एक 1.4 %filetype{1}% देखा गया है और इसे %version% फॉर्मैट में बदल दिया गया है \r\n    Conversion_Failed=\r\n    Conversion_Failed=बदलाव असफ़ल रहा:\r\n    Conversion_Failed=%reason%\r\n\r\n[Purchasing]\r\n# Images at: https://drive.google.com/drive/folders/1kIhFuPRp8YXkZ8SVC5Jq9UJkNZqdasQC?usp=शेयर हो रहा है\r\n    Parts_Expansion=पार्ट्स बढ़ाएं\r\n    Skins_Expansion=स्किन्स बढ़ाएं\r\n    Planets_Expansion=ग्रहों को बढ़ाएं\r\n    Expansion_Bundle=विस्तार बंडल\r\n    Upgrade_To_Bundle=बंडल में अपग्रेड करें\r\n\r\n    More_Parts=और पार्ट्स...\r\n    More_Skins=और स्किन्स...\r\n\r\n    Why_Buy=आपका सहयोग हमें गेम को बेहतर बनाने में मदद करता है!\r\n\r\n    Buy_Product=%product% %price% खरीदें\r\n\r\n    Purchase_Thanks_Msg=खरीदे गए: %product%\r\n    Purchase_Thanks_Msg=\r\n    Purchase_Thanks_Msg=आपकी ख़रीद के लिए धन्यवाद\r\n    Purchase_Thanks_Msg=अब जाइये और सितारों की खोज करिये!\r\n\r\n    Owned=%product% (खरीदा गया)\r\n\r\n    Restore_Open=पहले जैसा करना\r\n\r\n    Restore_Text=एंड्रॉइड पर खरीद को स्टार्टअप पर अपने आप ही पहले जैसा कर दिया जाता है\r\n    Restore_Text=\r\n    Restore_Text=- देखें कि आपने उसी Google Play अकाउंट में लॉग इन किया है जहां से आपने इसे खरीदा है (देखें कि आपकी खरीद Google Play खरीद इतिहास में दिखाई दे रही है)\r\n    Restore_Text=\r\n    Restore_Text=- ख़रीदें बटन को देखें, अगर कीमत नहीं दिख रही है, तो इसका मतलब है कि गेम स्टोर से कनेक्ट नहीं कर सका अपने इंटरनेट कनेक्शन की जांच करें और गेम को रीस्टार्ट करें\r\n    Restore_Text=\r\n    Restore_Text=अगर ऊपर में से कोई भी काम नहीं कर रहा है, तो मुझसे संपर्क करें: games.morojna@gmail.com\r\n    Restore_Text=\r\n    Restore_Text=आप इंतज़ार भी कर सकते हैं, खरीद कभी-कभी कुछ घंटों के बाद खुद को पुनर्स्थापित करती है\r\n\r\n    Purchase_FAQ_Open=FAQ\r\n\r\n    Purchase_FAQ_Text=<color=grey>क्या अपडेट के बीच खरीदारी बनाई रखी गई है?</color>\r\n    Purchase_FAQ_Text=हां, बिल्कुल\r\n    Purchase_FAQ_Text=\r\n    Purchase_FAQ_Text=\r\n    Purchase_FAQ_Text=<color=grey>क्या खरीद खोना संभव है?</color>\r\n    Purchase_FAQ_Text=आपकी खरीद स्थायी रूप से आपके स्टोर खाते पर स्टोर की जाती है, और आपके फ़ोन के रीइंस्टॉल करने या बदलने पर ये खोती नहीं हैं\r\n    Purchase_FAQ_Text=\r\n    Purchase_FAQ_Text=\r\n    Purchase_FAQ_Text=<color=grey>क्या आप रिफंड की देते हैं?</color>\r\n    Purchase_FAQ_Text=हां, बिल्कुल, जब तक यह एक उचित समय सीमा में अनुरोध किया जाता है, हम बिना किसी सवाल के रिफंड करेंगे\r\n\r\n# Parts Expansion; images at: https://drive.google.com/drive/folders/1JMCVDO9BN5z2ECeIq07kkQ4W0-evIMSb?usp=शेयर हो रहा है\r\n    PartsExpansion_Tanks=फ्यूल टैंक्स की बड़ी वैराइटी\r\n    PartsExpansion_Engines=भारी लिफ्ट इंजन!\r\n    PartsExpansion_Parts=सभी रूप और आकार के पार्ट्स\r\n\r\n    PartsExpansion_Build=लाने के लिए बड़ी बिल्ड स्पेस\r\n    PartsExpansion_Build=आपकी रचनाओं में जान!\r\n\r\n# Skins Expansion; images at: https://drive.google.com/drive/folders/1-X2n4Y-AUDehknKdBiqCy7TG-DyqLgyf?usp=शेयर हो रहा है\r\n    SkinsExpansion_Tanks=कई तरह की स्किन्स में अपने पार्ट्स को पेंट करें!\r\n    SkinsExpansion_Interstages=इंटरस्टेज से लेकर सब कुछ कलर करें\r\n    SkinsExpansion_Nosecones=नोसकॉन तक\r\n    SkinsExpansion_Fairings=और फेरिंग्स भी\r\n\r\n# Planets Expansion; images at: https://drive.google.com/drive/folders/15lIYDSIOPrSei1DJBrvHRDQ_WieAb0yf?usp=शेयर हो रहा है\r\n    PlanetsExpansion_Jupiter=ज्यूपिटर और उसके चार चंद्रमाओं की ख़ोज करें!\r\n    PlanetsExpansion_Callisto=कैलिस्टो की भारी गड्ढे वाली सतह से!\r\n    PlanetsExpansion_Europa=यूरोपा के विशाल बर्फ की सतह तक!\r\n\r\n    PlanetsExpansion_Conclusion=अलग दुनिया आपका इंतज़ार कर रही है\r\n    PlanetsExpansion_Conclusion=उनकी ख़ोज करने के लिए\r\n\r\n# Expansion Bundle; images at: https://drive.google.com/file/d/1aWdcqNciwf7i3ju1Hx7mHnKyGBS2_tYU/view?usp=शेयर हो रहा है\r\n    ExpansionBundle_Sandbox=बोनस\r\n    ExpansionBundle_Sandbox=सैंडबॉक्स मोड\r\n\r\n    ExpansionBundle_Infinite_Fuel=अनगिनत फ्यूल\r\n    ExpansionBundle_No_Atmospheric_Drag=कोई एटमोस्फियरिक ड्रैग नहीं\r\n    ExpansionBundle_Unbreakable_Parts=नहीं टूट सकने वाले पार्ट्स\r\n    ExpansionBundle_No_Gravity=कोई ग्रैविटी नहीं\r\n\r\n[Settings]\r\n# Image at: https://drive.google.com/file/d/1kF_zlTUw7QQnCIfcVNRHGDsn_rH-ySkF/view?usp=शेयर हो रहा है\r\n    Music_Name=म्यूज़िक:\r\n    Sound_Name=साउंड:\r\n    Screen_Rotation_Name=स्क्रीन को घुमाना:\r\n    FPS_Name=Fps:\r\n    Language_Name=भाषा:\r\n\r\n    Infinite_Fuel_Name=अनगिनत फ्यूल:\r\n    No_Atmospheric_Drag_Name=कोई एटमोस्फियरिक ड्रैग नहीं:\r\n    Unbreakable_Parts_Name=अटूट पार्ट्स:\r\n    No_Gravity_Name=कोई ग्रैविटी नहीं:\r\n\r\n# This version of is displayed on screen to let players know what cheats they are using\r\n# Image as: https://drive.google.com/file/d/1_uDOsT_yAgui19jNqAwx_CMGvLoS5LYh/view?usp=शेयर हो रहा है\r\n    Cheat_On{0}=ऑन\r\n    Cheat_Off{0}=ऑफ़\r\n\r\n    Infinite_Fuel=अनगिनत फ्यूल: %value{0}%\r\n    No_Atmospheric_Drag=कोई एटमोस्फियरिक ड्रैग नहीं: %value{0}%\r\n    Unbreakable_Parts=अटूट पार्ट्स: %value{0}%\r\n    No_Gravity=कोई ग्रैविटी नहीं: %value{0}%\r\n\r\n[Build]\r\n# Images at: https://drive.google.com/drive/folders/16-6I-SE_4nmVTjNxsUdAUJtUDIBe5WVz?usp=शेयर हो रहा है\r\n    Build_New_Rocket=नया रॉकेट बनाएं\r\n    Resume_Build=फिर से बनाना शुरू करें\r\n\r\n    Symmetry_On=सिमिट्री: ऑन\r\n    Symmetry_Off=सिमिट्री: ऑफ़\r\n\r\n    Launch_Button=लॉन्च\r\n    Move_Rocket_Button=रॉकेट ले जाएं\r\n\r\n# Clear build area\r\n    Clear_Warning=समझ गए?\r\n    Clear_Confirm=समझ गए\r\n\r\n# Launch warnings\r\n    Missing_Capsule=आपके रॉकेट में कैप्सूल नहीं है\r\n    Missing_Parachute=आपके रॉकेट में पैराशूट नहीं है\r\n\r\n    Too_Heavy=आपका रॉकेट उठाने के लिए काफी भारी है\r\n    Too_Heavy=\r\n    Too_Heavy=\r\n    Too_Heavy=वज़न कम करें या अधिक शक्तिशाली इंजन का उपयोग करें\r\n\r\n    Launch_Anyway_Button=फिर भी लॉन्च करें\r\n\r\n# Example rockets\r\n    Example_Rockets_OpenMenu=उदाहरण रॉकेट\r\n    Basic_Rocket=बेसिक रॉकेट\r\n    Stages=स्टेज\r\n    Ideal_Stages=आइडियल स्टेज\r\n    Lander=लैंडर\r\n\r\n[Map]\r\n    Toggle_Map_Button=मैप\r\n\r\n# Shown in map when you escape a gravity field of a planet\r\n# image for escape/encounter at: https://drive.google.com/file/d/17jqJF09DWoqkgW9VGXdG7SRCSo0UmW0o/view?usp=शेयर हो रहा है\r\n    Escape=निकलें\r\n\r\n# Shown in map when you encounter/enter a gravity field of a planet\r\n    Encounter=सामना\r\n\r\n# Shown in map when you approach/encounter another rocket\r\n    Rendezvous=अड्डा\r\n\r\n# Shows the transfer window to another planet\r\n# image at: https://drive.google.com/file/d/1zd8UEnVb91QmSDllEu1DyCbkCsDKbJk3/view?usp=शेयर हो रहा है\r\n    Transfer=ट्रांसफर विंडो\r\n\r\n[Game]\r\n# Image at: https://drive.google.com/file/d/1d0b-udFyO4ItlYu1vVaVdzgwdAeT1hPw/view?usp=शेयर हो रहा है\r\n    Throttle_On=ऑन\r\n    Throttle_Off=ऑफ़\r\n\r\n# Game supports screen rotation, we split into 2 lines in vertical mode\r\n    Height_Terrain_Vertical=ऊंचाई (इलाके):\r\n    Height_Terrain_Vertical=\r\n    Height_Terrain_Vertical=%height%\r\n\r\n    Height_Vertical=ऊंचाई:\r\n    Height_Vertical=\r\n    Height_Vertical=%height%\r\n\r\n    Velocity_Vertical=तेज़ी:\r\n    Velocity_Vertical=\r\n    Velocity_Vertical=%speed%\r\n\r\n# Angle indicates the best angle/direction the player can rotate their rocket towards\r\n    Angle_Vertical=एंगल:\r\n    Angle_Vertical=\r\n    Angle_Vertical=%angle% / %targetAngle%\r\n\r\n    Height_Terrain_Horizontal=ऊंचाई (इलाके): %height%\r\n    Height_Horizontal=ऊंचाई: %height%\r\n    Velocity_Horizontal=तेज़ी: %speed%\r\n\r\n# Angle indicates the best angle/direction the player can rotate their rocket towards\r\n    Angle_Horizontal=एंगल: %angle% / %targetAngle%\r\n\r\n[Game menus]\r\n# Image at: https://drive.google.com/file/d/1XPUZnlFGrs9ZQ0QRjqbvKMEwXg1Pl7cF/view?usp=शेयर हो रहा है\r\n    Restart_Mission=मिशन फिर से शुरू करें\r\n\r\n# Restart menu\r\n    Restart_Mission_To_Launch=वापस लॉन्च करें\r\n\r\n    Restart_Mission_To_Launch_Warning=वापस लॉन्च करें?\r\n    Restart_Mission_To_Launch_Warning=\r\n    Restart_Mission_To_Launch_Warning=यह पिछले लॉन्च के बाद की प्रोग्रेस को वापस ले आएगा\r\n\r\n    Restart_Mission_To_Build=वापस बनाएं\r\n\r\n    Restart_Mission_To_Build_Warning=वापस बनाएं?\r\n    Restart_Mission_To_Build_Warning=\r\n    Restart_Mission_To_Build_Warning=यह पिछले लॉन्च के बाद की प्रोग्रेस को वापस ले आएगा\r\n\r\n# End mission menu; image at: https://drive.google.com/file/d/1L5FUM09JCZ6DCXFZfJPOM0CWHIEwvqMs/view?usp=शेयर हो रहा है\r\n    End_Mission_Menu_Title=मिशन की सफ़लता:\r\n    End_Mission=मिशन ख़त्म करें\r\n\r\n# Clear space junk/debris\r\n    Clear_Debris_Warning=मलबे को साफ़ करें?\r\n    Clear_Debris_Warning=\r\n    Clear_Debris_Warning=यह सभी बेकाबू रॉकेट को हटा देगा\r\n\r\n    Clear_Debris_Confirm=मलबे को साफ़ करें\r\n\r\n# Select menu; Image at: https://drive.google.com/file/d/1CBIAZ3o_Z7bpEAb8sVdTdDeF4KB8-Yyi/view?usp=शेयर हो रहा है\r\n    Navigate_To=पर नेविगेट करें\r\n    End_Navigation=नेविगेशन ख़त्म करें\r\n    Focus=फ़ोकस\r\n    Unfocus=अनफ़ोकस\r\n    Switch_To=पर स्विच करें\r\n\r\n[Rocket]\r\n    Default_Rocket_Name=रॉकेट\r\n\r\n# Informs the player that he cannot perform an action due to rocket having no control\r\n    No_Control_Msg=कोई कंट्रोल नहीं\r\n\r\n[Timewarp]\r\n# Timewarp = लंबे समय तक इंतज़ार करने से बचने के लिए समय को फ़ास्ट फ़ॉरवर्ड करें\r\n    Msg_Timewarp_Speed=समय की तेज़ी %speed%x\r\n    Cannot_Timewarp_Below=नीचे टाइम वार्प नहीं हो सकता %height%\r\n    Cannot_Timewarp_While_Moving_On_Surface=सतह पर चलते समय टाइम वार्प नहीं हो सकता\r\n    Cannot_Timewarp_While_Accelerating=तेज़ी के समय टाइम वार्प नहीं हो सकता\r\n    Cannot_Use_Part_While_Timewarping=टाइमवार्पिंग के समय %part{1}% इस्तेमाल नहीं किया जा सकता\r\n    Cannot_Turn_While_Timewarping=टाइमवार्पिंग करते समय मुड़ नहीं सकते\r\n\r\n[Units]\r\n# Image at: https://drive.google.com/file/d/1ljpGY55W8V1wF9esl5v569B0Z-D6xxMt/view?usp=शेयर हो रहा है\r\n    Thrust_To_Weight_Ratio=ज़ोर / वज़न: %value%\r\n    Mass=मात्रा: %value%t\r\n    Thrust=ज़ोर: %value%t\r\n    Burn_Time=बर्न टाइम: %value%s\r\n\r\n# Image at: https://drive.google.com/file/d/17Bd9jTIYyI9nzOg3eXgy7sHdNe5O9gAt/view?usp=शेयर हो रहा है\r\n    Efficiency=योग्यता: %value% Isp\r\n    Mass_Unit=t\r\n    Meter_Unit=m\r\n    Km_Unit=km\r\n    Meter_Per_Second_Unit=m/s\r\n\r\n[Timestamps]\r\n    Second_Short=%value%s\r\n    Minute_Short=%value%m\r\n    Hour_Short=%value%h \r\n    Day_Short=%value%d\r\n\r\n[Resource Types]\r\n# Image at: https://drive.google.com/file/d/17Bd9jTIYyI9nzOg3eXgy7sHdNe5O9gAt/view?usp=शेयर हो रहा है\r\n    Solid_Fuel{0}=सॉलिड फ्यूल\r\n    Solid_Fuel{1}=सॉलिड फ्यूल\r\n    Liquid_Fuel{0}=लिक्विड फ्यूल\r\n    Liquid_Fuel{1}=लिक्विड फ्यूल\r\n\r\n[Resource Uses]\r\n    Resource_Bars_Title=%resource_name{0}%:\r\n    Info_Resource_Amount=%resource{0}%: %amount%\r\n    Msg_No_Resource_Source=कोई %resource{1}% साधन नहीं\r\n    Msg_No_Resource_Left=%resource{1}% में से\r\n\r\n[Part Categories]\r\n# Image at: https://drive.google.com/file/d/1uyI7pvGaGyKrYOpe_2vC4MLaNPKy-wYE/view?usp=शेयर हो रहा है\r\n    Basic_Parts=बेसिक\r\n    Six_Wide_Parts=6 की चौड़ाई\r\n    Eight_Wide_Parts=8 की चौड़ाई\r\n    Ten_Wide_Parts=10 की चौड़ाई\r\n    Twelve_Wide_Parts=12 की चौड़ाई\r\n    Engine_Parts=इंजन\r\n    Aerodynamics_Parts=एरोडाइनैमिक्स\r\n    Fairings_Parts=फेरिंग\r\n    Structural_Parts=बनावट\r\n    Other_Parts=अन्य\r\n\r\n[Part Names]\r\n    Capsule_Name{0}=कैप्सूल\r\n    Capsule_Name{1}=कैप्सूल\r\n    Probe_Name{0}=छानबीन\r\n    Probe_Name{1}=छानबीन\r\n    Parachute_Name{0}=पैराशूट\r\n    Parachute_Name{1}=पैराशूट\r\n    Kolibri_Engine_Name{0}=कोलिब्री इंजन\r\n    Kolibri_Engine_Name{1}=कोलिब्री इंजन\r\n    Hawk_Engine_Name{0}=हॉक इंजन\r\n    Hawk_Engine_Name{1}=हॉक इंजन\r\n    Valiant_Engine_Name{0}=वैलिएंट इंजन\r\n    Valiant_Engine_Name{1}=वैलिएंट इंजन\r\n    Titan_Engine_Name{0}=टाइटन इंजन\r\n    Titan_Engine_Name{1}=टाइटन इंजन\r\n    Frontier_Engine_Name{0}=फ्रंटियर इंजन\r\n    Frontier_Engine_Name{1}=फ्रंटियर इंजन\r\n    Ion_Engine_Name{0}=आयन इंजन\r\n    Ion_Engine_Name{1}=आयन इंजन\r\n    RCS_Thruster_Name{0}=RCS थ्रस्टर\r\n    RCS_Thruster_Name{1}=rcs थ्रस्टर\r\n    Fuel_Tank_Name{0}=फ्यूल टैंक\r\n    Fuel_Tank_Name{1}=फ्यूल टैंक\r\n    Separator_Name{0}=सेपरेटर\r\n    Separator_Name{1}=सेपरेटर\r\n    Side_Separator_Name{0}=साइड सेपरेटर\r\n    Side_Separator_Name{1}=साइड सेपरेटर\r\n    Structural_Part_Name{0}=बनावट का भाग\r\n    Structural_Part_Name{1}=बनावट का भाग\r\n    Landing_Leg_Name{0}=लैंडिंग लेग\r\n    Landing_Leg_Name{1}=लैंडिंग लेग\r\n    Aerodynamic_Nose_Cone_Name{0}=एरोडाइनैमिक नोज़ कोन\r\n    Aerodynamic_Nose_Cone_Name{1}=एरोडाइनैमिक नोज़ कोन\r\n    Aerodynamic_Fuselage_Name{0}=एरोडाइनैमिक फ्यूज़लेज\r\n    Aerodynamic_Fuselage_Name{1}=एरोडाइनैमिक फ्यूज़लेज\r\n    Fairing_Name{0}=फेरिंग\r\n    Fairing_Name{1}=फेरिंग\r\n    Rover_Wheel_Name{0}=रोवर व्हील\r\n    Rover_Wheel_Name{1}=रोवर व्हील\r\n    Docking_Port_Name{0}=डॉकिंग पोर्ट\r\n    Docking_Port_Name{1}=डॉकिंग पोर्ट\r\n    Solar_Panel_Name{0}=सोलर पैनल\r\n    Solar_Panel_Name{1}=सोलर पैनल\r\n    Battery_Name{0}=बैटरी\r\n    Battery_Name{1}=बैटरी\r\n    RTG_Name{0}=RTG\r\n    RTG_Name{1}=rtg\r\n\r\n[Part Descriptions]\r\n    Capsule_Description=एक अस्ट्रॉनॉट को ले जाने वाला छोटा सा कैप्सूल\r\n    Probe_Description=एक तरफ़ा मिशन के लिए इस्तेमाल किए जाने वाला, एक मानव रहित प्रोब\r\n    Parachute_Description=लैंडिंग के लिए इस्तेमाल किये जाने वाला पैराशूट\r\n    Fuel_Tank_Description=लिक्विड फ्यूल और लिक्विड ऑक्सीजन ले जाने वाला फ्यूल टैंक\r\n    Separator_Description=खाली स्टेजेस को अलग करने के इस्तेमाल के लिए वर्टीकल सेपरेटर\r\n    Side_Separator_Description=साइड बूस्टर्स को अलग करने के इस्तेमाल के लिए हॉरिज़ॉन्टल सेपरेटर\r\n    Landing_Leg_Description=मून और ग्रहों की सतह पर लैंडिंग के लिए इस्तेमाल बढ़ाने घटाने वाला लेग\r\n    Structural_Part_Description=एक हल्का और मज़बूत बनाने का सामान (पार्ट)\r\n    Hawk_Engine_Description=एक ऊँचा ज़ोर - आमतौर पर एक रॉकेट की पहली स्टेज में इस्तेमाल किए जाने वाला, कम योग्यता वाला इंजन\r\n    Titan_Engine_Description=एक ज़्यादा ज़ोर - आमतौर पर एक रॉकेट की पहली स्टेज में इस्तेमाल किए जाने वाला, कम योग्यता वाला इंजन\r\n    Valiant_Engine_Description=बेहतरीन काम, कम ज़ोर. जब ज़ोर को प्राथमिकता नहीं दी जाती तब अंतरिक्ष में इस्तेमाल किया जाता है\r\n    Frontier_Engine_Description=बेहतरीन काम, कम ज़ोर. जब ज़ोर की उतनी ज़रुरत नहीं पड़ती तब अंतरिक्ष में इस्तेमाल किया जाता है\r\n    Kolibri_Engine_Description=लैंडर्स के लिए इस्तेमाल किए जाने वाला एक छोटा इंजन\r\n    Ion_Engine_Description=ज़बरदस्त काम करने वाला एक कम ज़ोर लगाने वाला इंजन\r\n    RCS_Thruster_Description=डॉकिंग के लिए इस्तेमाल किए जाने वाले छोटे डायरेक्शनल थ्रस्टर्स का एक सेट\r\n    Aerodynamic_Nose_Cone_Description=साइड बूस्टर्स के एरोडाइनैमिक्स को बेहतर बनाने के लिए इस्तेमाल किए जाने वाला एरोडाइनैमिक नोज़ कोन\r\n    Aerodynamic_Fuselage_Description=इंजन को कवर करने के लिए इस्तेमाल किए जाने वाला एक एरोडाइनैमिक फ्यूज़लेज\r\n    Fairing_Description=पेलोड को एनकैप्सुलेट करने के इस्तेमाल के लिए एक एरोडाइनैमिक फेरिंग\r\n    Battery_Description=इलेक्ट्रिक पॉवर को स्टोर करने के इस्तेमाल के लिए एक बैटरी\r\n    Solar_Panel_Description=एक सोलर पैनल जो बढ़ाने पर पॉवर जेनरेट करता है\r\n    RTG_Description=रेडियोआइसोटोप थर्मोइलेक्ट्रिक जनरेटर या RTG\r\n    Rover_Wheel_Description=ग्रहों की सतह पर ड्राइव करने के इस्तेमाल के लिए रोवर व्हील\r\n    Docking_Port_Description=एक डॉकिंग पोर्ट जिसका इस्तेमाल दो वाहनों को एक साथ जोड़ने के लिए किया जा सकता है\r\n\r\n[Modules]\r\n    Activate_Separator=अलग करें\r\n    Activate_Fairing=फेरिंग लगाएं\r\n\r\n    Torque_Module_Torque=टॉर्क: %value%kN\r\n    Separation_Force=अलग करने की शक्ति: %value%kN\r\n\r\n    State_On{0}=ऑन\r\n    State_Off{0}=ऑफ़\r\n\r\n    Engine_Module_State=इंजन %state{0}%\r\n    Engine_On_Label=इंजन ऑन\r\n\r\n    Msg_RCS_Module_State=RCS %state{0}%\r\n\r\n    Wheel_Module_State=रोवर व्हील %state{0}%\r\n    Wheel_On_Label=व्हील ऑन\r\n\r\n    Panel_Expanded=फैला हुआ\r\n    Landing_Leg_Expanded=लगाया गया\r\n\r\n    Info_Parachute_Max_Height=लगाने की अधिकतम ऊँचाई: %height%\r\n    Button_Activate_Parachute=पैराशूट लगाएं\r\n    Msg_Cannot_Deploy_Parachute_In_Vacuum=खाली जगह पर पैराशूट नहीं लगाया जा सकता है\r\n    Msg_Cannot_Deploy_Parachute_Above=%height% के ऊपर पैराशूट नहीं लगाया जा सकता है\r\n    Msg_Cannot_Fully_Deploy_Above=%height% के ऊपर पैराशूट पूरी तरह से नहीं लगाया जा सकता है\r\n    Msg_Cannot_Deploy_Parachute_While_Faster=%velocity% से तेज़ जाते हुए पैराशूट नहीं लगाया जा सकता है\r\n    Msg_Cannot_Deploy_Parachute_While_Not_Moving=बिना हिले पैराशूट लगाया नहीं किया जा सकता है\r\n    Msg_Parachute_Half_Deployed=पैराशूट आधा लगाया गया है\r\n    Msg_Parachute_Fully_Deployed=पैराशूट पूरी तरह से लगाया गया\r\n    Msg_Parachute_Cut=पैराशूट कट किया गया\r\n\r\n[Planets]\r\n    Sun{0}=सन\r\n    Sun{1}=सन\r\n    Sun{2}=सन\r\n    Mercury{0}=मर्करी\r\n    Venus{0}=वीनस\r\n    Earth{0}=पृथ्वी\r\n    Earth{1}=पृथ्वी\r\n    Earth{2}=पृथ्वी\r\n    Earth{3}=पृथ्वी के\r\n    Moon{0}=मून\r\n    Moon{1}=मून\r\n    Moon{2}=मून\r\n    Mars{0}=मार्स\r\n    Phobos{0}=फ़ोबोस\r\n    Deimos{0}=डिमोस\r\n    Jupiter{0}=ज्यूपिटर\r\n    Jupiter{1}=ज्यूपिटर\r\n    Jupiter{2}=ज्यूपिटर\r\n    Jupiter{3}=ज्यूपिटर\r\n    Europa{0}=यूरोपा\r\n    Ganymede{0}=गेनीमेड\r\n    Io{0}=Io\r\n    Callisto{0}=कैलिस्टो\r\n\r\n[Achievements]\r\n    Reached_Low_Orbit=%planet{0}% की निचली ऑर्बिट पर पहुँच गया\r\n    Reached_High_Orbit=%planet{0}% की ऊपरी ऑर्बिट पर पहुँच गया\r\n    Descend_Low_Orbit=%planet{0}% की निचली ऑर्बिट पर उतर गया\r\n    Capture_Low_Orbit=%planet{0}% की निचली ऑर्बिट पर कैद हो गया\r\n    Capture_High_Orbit=%planet{0}% की ऊपरी ऑर्बिट पर कैद हो गया\r\n\r\n    Entered_Lower_Atmosphere=%planet{3}% के निचले वायुमंडल में प्रवेश किया\r\n    Entered_Upper_Atmosphere=%planet{3}% के ऊपरी वायुमंडल में प्रवेश किया\r\n    Left_Lower_Atmosphere=%planet{3}% के ऊपरी वायुमंडल पर पहुँच गया\r\n    Left_Upper_Atmosphere=%planet{3}% के वायुमंडल से सुरक्षित निकल गया\r\n\r\n    Landed=%planet{1}% की सतह पर लैंड हो गया\r\n    Crashed_Into_Terrain=%planet{1}% की सतह पर क्रैश हो गया\r\n\r\n    Entered_SOI=%planet{1}% के प्रभाव क्षेत्र में प्रवेश किया\r\n    Escaped_SOI=%planet{1}% के प्रभाव क्षेत्र से सुरक्षित निकल गया\r\n\r\n    Docked_Suborbital=%planet{1}% की सबऑर्बिटल ट्रजेक्टरी में डॉक किया गया\r\n    Docked_Orbit_Low=%planet{0}% की निचली ऑर्बिट पर डॉक किया गया\r\n    Docked_Orbit_Transfer=%planet{1}% की ट्रांसफर ऑर्बिट पर डॉक किया गया\r\n    Docked_Orbit_High=%planet{0}% की ऊँची ऑर्बिट पर डॉक किया गया\r\n    Docked_Escape=%planet{1}% की सुरक्षित बच निकलने वाली ट्रजेक्टरी में डॉक किया गया\r\n    Docked_Surface=%planet{1}% की सतह पर डॉक किया गया\r\n\r\n    Recover_Home=सुरक्षित रूप से %planet{1}% पर लौट आया\r\n    Recover_Landed=%planet{1}% की सतह पर मिशन ख़त्म हुआ\r\n    Recover_Space=अंतरिक्ष में %planet{1}% के करीब मिशन ख़त्म हुआ\r\n\r\n\r\n\r\n\r\n5\r\n[Ungroupped]\r\n# REAM ME:\r\n# The format used here is derived from INI.\r\n# We have added something special called variants.\r\n# \r\n# Example:\r\n# \r\n# [Planets]\r\n# Earth{0}= 地球\r\n# Earth{1}= 地球\r\n# \r\n# [Achievements]\r\n# Landed_Test0 = %planet{0}%\r\n# Landed_Test1 = %planet{1}%\r\n# \r\n# Variants are used for many things, such as making phrases work, caps, etc\r\n# \r\n# We recommend starting at the bottom of the file with achievements/planets, there variants are very clearly used.\r\n# \r\n# \r\n# \r\n# Available font types: normal/compatibility\r\n# In case of missing characters use compatibility font.\r\n    Font=ノーマル\r\n\r\n[General]\r\n# Used for language select buttons\r\n    Language_Name_In_Local_Language=日本語\r\n\r\n    Cancel=キャンセル\r\n    Close=閉じる\r\n\r\n    Open_Settings_Button=設定\r\n\r\n# Switching scenes buttons\r\n    Build_Rocket=ロケットを作る\r\n    Resume_Game=ゲームを再開する\r\n    Return_To_Main_Menu=メインメニュー\r\n    Exit_To_Main_Menu=メインメニューに戻る\r\n\r\n[Main Menu]\r\n# Image at: https://drive.google.com/file/d/1mEFf3W964ldXBekpbTc-Jj1XcSnBQz4k/view?usp=sharing\r\n    Play=プレイ\r\n\r\n# Tutorial\r\n    Video_Tutorials_OpenButton=動画チュートリアル\r\n    Video_Orbit=軌道チュートリアル\r\n    Video_Moon=月チュートリアル\r\n    Video_Dock=ドッキングチュートリアル\r\n\r\n# Community\r\n    Community_OpenButton=コミュニティ\r\n    Community_Youtube=YouTube\r\n    Community_Discord=Discord\r\n    Community_Reddit=Reddit\r\n\r\n# Roadmap\r\n    Roadmap_OpenButton=今後のアップデート\r\n\r\n    Roadmap_Text=バージョン1.51\r\n    Roadmap_Text=<color=grey>ステージング</color>\r\n    Roadmap_Text=\r\n    Roadmap_Text=バージョン1.52\r\n    Roadmap_Text=<color=grey>チュートリアル</color>\r\n    Roadmap_Text=\r\n    Roadmap_Text=バージョン1.53\r\n    Roadmap_Text=<color=grey>再突入</color>\r\n    Roadmap_Text=\r\n    Roadmap_Text=バージョン1.54\r\n    Roadmap_Text=<color=grey>視覚効果、パーティクル、サウンド</color>\r\n    Roadmap_Text=\r\n    Roadmap_Text=バージョン1.55\r\n    Roadmap_Text=<color=grey>固体ロケットブースター</color>\r\n    Roadmap_Text=\r\n    Roadmap_Text=バージョン1.6\r\n    Roadmap_Text=<color=grey>宇宙飛行士</color>\r\n    Roadmap_Text=\r\n    Roadmap_Text=バージョン1.7\r\n    Roadmap_Text=<color=grey>キャリア</color>\r\n    Roadmap_Text=\r\n    Roadmap_Text=バージョン1.8\r\n    Roadmap_Text=<color=grey>外惑星</color>\r\n    Roadmap_Text=\r\n    Roadmap_Text=電気系統：\r\n    Roadmap_Text=<color=grey>将来的に、電気系統は全面的に作り変えます。例えば、イオンエンジン燃焼中に時間を飛ばせるようにしたり、電気の用途を増やしたりする予定です。</color>\r\n    Roadmap_Text=\r\n    Roadmap_Text=\r\n    Roadmap_Text=これらの予定は変更になる可能性があります\r\n\r\n# Credits\r\n    Credits_OpenButton=クレジット\r\n\r\n    Credits_Text=Štefo Mai Morojna\r\n    Credits_Text=<Size=55> デザイナー - プログラマー - アーティスト </size>\r\n    Credits_Text=\r\n    Credits_Text=Jordi van der Molen\r\n    Credits_Text=<Size=55> プログラマー </size>\r\n    Credits_Text=\r\n    Credits_Text=Chris Christo\r\n    Credits_Text=<Size=55> プログラマー </size>\r\n    Credits_Text=\r\n    Credits_Text=Davi Vasc\r\n    Credits_Text=<Size=55> コンポーザー </size>\r\n    Credits_Text=\r\n    Credits_Text=Ashton Mills\r\n    Credits_Text=<size=55> コンポーザー </size>\r\n\r\n# Update menu\r\n    Update_Available=新しいアップデートがあります！\r\n    Update_Available=\r\n    Update_Available=現在のバージョン：%old%\r\n    Update_Available=最新のバージョン：%new%\r\n\r\n    Update_Confirm=アップデート\r\n\r\n# Rate menu\r\n    Rate_Title=ゲームの評価やレビューを行っていただけませんか？\r\n    Rate_Title=\r\n    Rate_Title=私たちはゲームのクオリティについて真剣に考えており、皆様のフィードバックを参考にゲームを改善します\r\n    Rate_Title=\r\n    Rate_Title=レビューがどれだけたくさんあっても、読ませていただきます！\r\n\r\n    Rate_Confirm=評価する\r\n\r\n# Close menu\r\n    Close_Game=ゲームを終了しますか？\r\n\r\n# Startup Messages\r\n    Early_Supporter_Message=初期のサポーターであるあなたは、以下を無料でご利用いただけます。\r\n    Early_Supporter_Message=\r\n    Early_Supporter_Message= - 部品の拡張\r\n    Early_Supporter_Message= - スキンの拡張\r\n    Early_Supporter_Message= - 惑星の拡張\r\n    Early_Supporter_Message=\r\n    Early_Supporter_Message=サポートしていただき、ありがとうございます！\r\n\r\n[Worlds Menu]\r\n# Worlds are save slots; image at: https://drive.google.com/file/d/1vUYrXaem4ki1dcXRFUJLKWZEcE0PFno-/view?usp=共有\r\n    Create_New_World_Button=ワールドを作成する\r\n\r\n# Create menu\r\n    Create_World_Title=ワールド名\r\n    Default_World_Name=マイワールド\r\n\r\n# Delete menu\r\n    World_Delete=ワールドを削除しますか？\r\n\r\n# Select system menu\r\n    Select_Solar_System=ワールドの太陽系を選択\r\n\r\n    Select_Solar_System__NotFound=太陽系が見つかりませんでした：\r\n    Select_Solar_System__NotFound=%system%\r\n    Select_Solar_System__NotFound=\r\n    Select_Solar_System__NotFound=新しい太陽系を選択\r\n\r\n    Default_Solar_System=太陽系（デフォルト）\r\n    Custom_Solar_System=%name%（カスタム）\r\n\r\n# World play times\r\n    Last_Played=前回のプレイ：%value%前\r\n    Just_Played=前回のプレイ：少し前\r\n    Time_Played=プレイ時間：%value%\r\n\r\n[Saving]\r\n# Blueprint stuff; Blueprints are rocket designs; images at: https://drive.google.com/drive/folders/15m4nXgzr8fvql78TheE3Qy1WPrTaIqdJ?usp=共有\r\n    Blueprints_Menu_Title=設計図\r\n    Unnamed_Blueprint=名前がない設計図\r\n    Save_Blueprint=設計図をセーブする\r\n    Load_Blueprint=設計図をロードする\r\n    Cannot_Save_Empty_Build=空白の設計図をセーブすることはできません\r\n\r\n# Quicksave stuff; Quicksaves let players save at any time and return to it.\r\n# It does not necessarily have to be called quicksave, player just needs to understand its use.\r\n# Image at: https://drive.google.com/drive/folders/128aXHWoUhJXZbbKVBDXXSMoCvRwFpvct?usp=共有\r\n    Quicksaves_Menu_Title=クイックセーブ\r\n    Unnamed_Quicksave=名前がないクイックセーブ\r\n    Create_Quicksave=クイックセーブを作成する\r\n    Load_Quicksave=クイックセーブをロードする\r\n\r\n# Save and load menus; context seen in images from blueprint/quicksave stuff\r\n    Save=セーブ\r\n    Load=ロード\r\n    Delete=削除\r\n    Rename=名前を変える\r\n\r\n# In progress\r\n    Saving_In_Progress=セーブ中…\r\n    Loading_In_Progress=ロード中…\r\n\r\n# filetype (injected)\r\n    Blueprint{0}=設計図\r\n    Blueprint{1}=設計図\r\n    Blueprint{2}=設計図\r\n\r\n    Quicksave{0}=クイックセーブ\r\n    Quicksave{1}=クイックセーブ\r\n    Quicksave{2}=クイックセーブ\r\n\r\n# Ask overwrite menu; image at: https://drive.google.com/file/d/1EOI9UIWAG-lNgrdk1IMmrpmf6rRBuA7Q/view?usp=共有\r\n    File_Already_Exists=この名前の%filetype{1}%は既に存在しています\r\n    Overwrite_File=%filetype{1}%を上書きする\r\n    New_File=新しい%filetype{1}%\r\n\r\n# Load failure; image at: https://drive.google.com/file/d/1c7qHCdbS1ShSq4rKIHMpHKCTuh0pXeHv/view?usp=共有\r\n    Load_Failed=%filetype{1}%を%filepath%からロードすることができませんでした\r\n\r\n# Legacy Messages\r\n    Conversion_Message=1.5へようこそ。\r\n    Conversion_Message=\r\n    Conversion_Message=1.4のセーブは1.5のセーブに自動で変換されました\r\n\r\n    Conversion_Success=1.4の%filetype{1}%を検出し、%version%の形式に変換しました\r\n\r\n    Conversion_Failed=1.4の%filetype{1}%を検出し、%version%の形式に変換しました\r\n    Conversion_Failed=\r\n    Conversion_Failed=変換に失敗しました：\r\n    Conversion_Failed=%reason%\r\n\r\n[Purchasing]\r\n# Images at: https://drive.google.com/drive/folders/1kIhFuPRp8YXkZ8SVC5Jq9UJkNZqdasQC?usp=共有\r\n    Parts_Expansion=部品の拡張\r\n    Skins_Expansion=スキンの拡張\r\n    Planets_Expansion=惑星の拡張\r\n    Expansion_Bundle=拡張バンドル\r\n    Upgrade_To_Bundle=バンドルにアップグレード\r\n\r\n    More_Parts=さらなる部品…\r\n    More_Skins=さらなるスキン…\r\n\r\n    Why_Buy=このゲームを改善できるのは、皆様のサポートのおかげです！\r\n\r\n    Buy_Product=%product% %price%を購入する\r\n\r\n    Purchase_Thanks_Msg=%product%を購入しました\r\n    Purchase_Thanks_Msg=\r\n    Purchase_Thanks_Msg=ご購入いただき、ありがとうございます\r\n    Purchase_Thanks_Msg=さあ、星々を探検しましょう！\r\n\r\n    Owned=%product%（所有）\r\n\r\n    Restore_Open=復元する\r\n\r\n    Restore_Text=Androidでの購入はプレイ開始時に自動で復元されます\r\n    Restore_Text=\r\n    Restore_Text=- 購入時に使用したGoogle Playアカウントにログインしていることを確認してください（Google Playの購入履歴に購入内容が表示されていることを確認してください）\r\n    Restore_Text=\r\n    Restore_Text=- 購入ボタンを確認してください。価格が表示されていない場合、ゲームがストアに接続できなかったことを意味します。インターネット接続を確認して、ゲームを再起動してください\r\n    Restore_Text=\r\n    Restore_Text=それでも上手く行かない場合は、games.morojna@gmail.comにお問い合わせください\r\n    Restore_Text=\r\n    Restore_Text=しばらく待つと、時間経過により購入が復元される場合もあります\r\n\r\n    Purchase_FAQ_Open=FAQ\r\n\r\n    Purchase_FAQ_Text=<color=grey>購入した物はアップデート後も使用できますか？</color>\r\n    Purchase_FAQ_Text=もちろん、使用できます\r\n    Purchase_FAQ_Text=\r\n    Purchase_FAQ_Text=\r\n    Purchase_FAQ_Text=<color=grey>購入した物が失われる可能性はありますか？</color>\r\n    Purchase_FAQ_Text=あなたの購入内容はストアのアカウントに永久保存されるため、再インストールしたり、スマホを買い替えたりしても失われることはありません\r\n    Purchase_FAQ_Text=\r\n    Purchase_FAQ_Text=\r\n    Purchase_FAQ_Text=<color=grey>返金は可能ですか？</color>\r\n    Purchase_FAQ_Text=もちろん、可能です。常識的な期間内に申請される限り、いかなる質問も行うことなく返金いたします\r\n\r\n# Parts Expansion; images at: https://drive.google.com/drive/folders/1JMCVDO9BN5z2ECeIq07kkQ4W0-evIMSb?usp=共有\r\n    PartsExpansion_Tanks=多種多様な燃料タンク！\r\n    PartsExpansion_Engines=重厚なリフトエンジン！\r\n    PartsExpansion_Parts=あらゆる形状・サイズの部品！\r\n\r\n    PartsExpansion_Build=ゆったりとした製造スペース\r\n    PartsExpansion_Build=あなたの独創性を現実に！\r\n\r\n# Skins Expansion; images at: https://drive.google.com/drive/folders/1-X2n4Y-AUDehknKdBiqCy7TG-DyqLgyf?usp=共有\r\n    SkinsExpansion_Tanks=様々なスキンで部品をペイント！\r\n    SkinsExpansion_Interstages=中間機体からノーズコーンまでの\r\n    SkinsExpansion_Nosecones=すべてをカラーリング\r\n    SkinsExpansion_Fairings=そしてフェアリングも\r\n\r\n# Planets Expansion; images at: https://drive.google.com/drive/folders/15lIYDSIOPrSei1DJBrvHRDQ_WieAb0yf?usp=共有\r\n    PlanetsExpansion_Jupiter=木星とその4つの衛星を探検しよう！\r\n    PlanetsExpansion_Callisto=クレーターに覆われたカリストの地表！\r\n    PlanetsExpansion_Europa=氷の層が広がるエウロパ！\r\n\r\n    PlanetsExpansion_Conclusion=遥か彼方の星々は\r\n    PlanetsExpansion_Conclusion=あなたが探検に来るのを待っている！\r\n\r\n# Expansion Bundle; images at: https://drive.google.com/file/d/1aWdcqNciwf7i3ju1Hx7mHnKyGBS2_tYU/view?usp=共有\r\n    ExpansionBundle_Sandbox=ボーナス\r\n    ExpansionBundle_Sandbox=サンドボックスモード\r\n\r\n    ExpansionBundle_Infinite_Fuel=燃料無限\r\n    ExpansionBundle_No_Atmospheric_Drag=大気抵抗なし\r\n    ExpansionBundle_Unbreakable_Parts=部品の破損なし\r\n    ExpansionBundle_No_Gravity=重力なし\r\n\r\n[Settings]\r\n# Image at: https://drive.google.com/file/d/1kF_zlTUw7QQnCIfcVNRHGDsn_rH-ySkF/view?usp=共有\r\n    Music_Name=音楽：\r\n    Sound_Name=効果音：\r\n    Screen_Rotation_Name=画像の回転：\r\n    FPS_Name=FPS：\r\n    Language_Name=言語：\r\n\r\n    Infinite_Fuel_Name=燃料無限：\r\n    No_Atmospheric_Drag_Name=大気抵抗なし：\r\n    Unbreakable_Parts_Name=部品の破損なし：\r\n    No_Gravity_Name=重力なし：\r\n\r\n# This version of is displayed on screen to let players know what cheats they are using\r\n# Image as: https://drive.google.com/file/d/1_uDOsT_yAgui19jNqAwx_CMGvLoS5LYh/view?usp=共有\r\n    Cheat_On{0}=オン\r\n    Cheat_Off{0}=オフ\r\n\r\n    Infinite_Fuel=燃料無限：%value{0}%\r\n    No_Atmospheric_Drag=大気抵抗なし：%value{0}%\r\n    Unbreakable_Parts=部品の破損なし：%value{0}%\r\n    No_Gravity=重力なし：%value{0}%\r\n\r\n[Build]\r\n# Images at: https://drive.google.com/drive/folders/16-6I-SE_4nmVTjNxsUdAUJtUDIBe5WVz?usp=共有\r\n    Build_New_Rocket=新しいロケットを作る\r\n    Resume_Build=製造を再開する\r\n\r\n    Symmetry_On=左右対称：オン\r\n    Symmetry_Off=左右対称：オフ\r\n\r\n    Launch_Button=発射\r\n    Move_Rocket_Button=ロケットを動かす\r\n\r\n# Clear build area\r\n    Clear_Warning=クリアしますか？\r\n    Clear_Confirm=クリア\r\n\r\n# Launch warnings\r\n    Missing_Capsule=ロケットにカプセルがありません\r\n    Missing_Parachute=ロケットにパラシュートがありません\r\n\r\n    Too_Heavy=離陸するにはロケットが重すぎます\r\n    Too_Heavy=\r\n    Too_Heavy=\r\n    Too_Heavy=重量を減らすか、より強力なエンジンを使用してください\r\n\r\n    Launch_Anyway_Button=それでも発射する\r\n\r\n# Example rockets\r\n    Example_Rockets_OpenMenu=ロケットの例\r\n    Basic_Rocket=普通のロケット\r\n    Stages=ステージ\r\n    Ideal_Stages=理想的なステージ\r\n    Lander=ランダー\r\n\r\n[Map]\r\n    Toggle_Map_Button=地図\r\n\r\n# Shown in map when you escape a gravity field of a planet\r\n# image for escape/encounter at: https://drive.google.com/file/d/17jqJF09DWoqkgW9VGXdG7SRCSo0UmW0o/view?usp=共有\r\n    Escape=脱出\r\n\r\n# Shown in map when you encounter/enter a gravity field of a planet\r\n    Encounter=遭遇\r\n\r\n# Shown in map when you approach/encounter another rocket\r\n    Rendezvous=合流\r\n\r\n# Shows the transfer window to another planet\r\n# image at: https://drive.google.com/file/d/1zd8UEnVb91QmSDllEu1DyCbkCsDKbJk3/view?usp=共有\r\n    Transfer=転送時間\r\n\r\n[Game]\r\n# Image at: https://drive.google.com/file/d/1d0b-udFyO4ItlYu1vVaVdzgwdAeT1hPw/view?usp=共有\r\n    Throttle_On=オン\r\n    Throttle_Off=オフ\r\n\r\n# Game supports screen rotation, we split into 2 lines in vertical mode\r\n    Height_Terrain_Vertical=高さ（地形）：\r\n    Height_Terrain_Vertical=\r\n    Height_Terrain_Vertical=%height%\r\n\r\n    Height_Vertical=高さ：\r\n    Height_Vertical=\r\n    Height_Vertical=%height%\r\n\r\n    Velocity_Vertical=速度：\r\n    Velocity_Vertical=\r\n    Velocity_Vertical=%speed%\r\n\r\n# Angle indicates the best angle/direction the player can rotate their rocket towards\r\n    Angle_Vertical=角度：\r\n    Angle_Vertical=\r\n    Angle_Vertical=%angle% / %targetAngle%\r\n\r\n    Height_Terrain_Horizontal=高さ（地形）：%height%\r\n    Height_Horizontal=高さ：%height%\r\n    Velocity_Horizontal=速度：%speed%\r\n\r\n# Angle indicates the best angle/direction the player can rotate their rocket towards\r\n    Angle_Horizontal=角度：%angle% / %targetAngle%\r\n\r\n[Game menus]\r\n# Image at: https://drive.google.com/file/d/1XPUZnlFGrs9ZQ0QRjqbvKMEwXg1Pl7cF/view?usp=共有\r\n    Restart_Mission=ミッションをリスタートする\r\n\r\n# Restart menu\r\n    Restart_Mission_To_Launch=発射に戻る\r\n\r\n    Restart_Mission_To_Launch_Warning=発射に戻りますか？\r\n    Restart_Mission_To_Launch_Warning=\r\n    Restart_Mission_To_Launch_Warning=前回の発射以降の進行状況が元に戻ります\r\n\r\n    Restart_Mission_To_Build=製造に戻る\r\n\r\n    Restart_Mission_To_Build_Warning=製造に戻りますか？\r\n    Restart_Mission_To_Build_Warning=\r\n    Restart_Mission_To_Build_Warning=前回の発射以降の進行状況が元に戻ります\r\n\r\n# End mission menu; image at: https://drive.google.com/file/d/1L5FUM09JCZ6DCXFZfJPOM0CWHIEwvqMs/view?usp=共有\r\n    End_Mission_Menu_Title=ミッション実績：\r\n    End_Mission=ミッションを終える\r\n\r\n# Clear space junk/debris\r\n    Clear_Debris_Warning=デブリをクリアしますか？\r\n    Clear_Debris_Warning=\r\n    Clear_Debris_Warning=制御不能なすべてのロケットを消去します\r\n\r\n    Clear_Debris_Confirm=デブリをクリアする\r\n\r\n# Select menu; Image at: https://drive.google.com/file/d/1CBIAZ3o_Z7bpEAb8sVdTdDeF4KB8-Yyi/view?usp=共有\r\n    Navigate_To=移動先：\r\n    End_Navigation=移動終了\r\n    Focus=フォーカスを当てる\r\n    Unfocus=フォーカスを外す\r\n    Switch_To=切り替え先：\r\n\r\n[Rocket]\r\n    Default_Rocket_Name=ロケット\r\n\r\n# Informs the player that he cannot perform an action due to rocket having no control\r\n    No_Control_Msg=制御なし\r\n\r\n[Timewarp]\r\n# Timewarp = 時間を早送りして長い待機時間をスキップします\r\n    Msg_Timewarp_Speed=%speed%倍加速\r\n    Cannot_Timewarp_Below=%height%以下ではタイムワープできません\r\n    Cannot_Timewarp_While_Moving_On_Surface=地表移動中はタイムワープできません\r\n    Cannot_Timewarp_While_Accelerating=加速中はタイムワープできません\r\n    Cannot_Use_Part_While_Timewarping=タイムワープ中は%part{1}%を使用できません\r\n    Cannot_Turn_While_Timewarping=タイムワープ中は旋回できません\r\n\r\n[Units]\r\n# Image at: https://drive.google.com/file/d/1ljpGY55W8V1wF9esl5v569B0Z-D6xxMt/view?usp=共有\r\n    Thrust_To_Weight_Ratio=推力 / 重量：%value%\r\n    Mass=質量：%value%トン\r\n    Thrust=推力：%value%トン\r\n    Burn_Time=燃焼時間：%value%秒\r\n\r\n# Image at: https://drive.google.com/file/d/17Bd9jTIYyI9nzOg3eXgy7sHdNe5O9gAt/view?usp=共有\r\n    Efficiency=効率：%value% Isp\r\n    Mass_Unit=t\r\n    Meter_Unit=m\r\n    Km_Unit=km\r\n    Meter_Per_Second_Unit=m/s\r\n\r\n[Timestamps]\r\n    Second_Short=%value%秒\r\n    Minute_Short=%value%分\r\n    Hour_Short=%value%時間\r\n    Day_Short=%value%日\r\n\r\n[Resource Types]\r\n# Image at: https://drive.google.com/file/d/17Bd9jTIYyI9nzOg3eXgy7sHdNe5O9gAt/view?usp=共有\r\n    Solid_Fuel{0}=固体燃料\r\n    Solid_Fuel{1}=固体燃料\r\n    Liquid_Fuel{0}=液体燃料\r\n    Liquid_Fuel{1}=液体燃料\r\n\r\n[Resource Uses]\r\n    Resource_Bars_Title=%resource_name{0}%:\r\n    Info_Resource_Amount=%resource{0}%： %amount%\r\n    Msg_No_Resource_Source=%resource{1}%ソースなし\r\n    Msg_No_Resource_Left=%resource{1}%不足\r\n\r\n[Part Categories]\r\n# Image at: https://drive.google.com/file/d/1uyI7pvGaGyKrYOpe_2vC4MLaNPKy-wYE/view?usp=共有\r\n    Basic_Parts=通常\r\n    Six_Wide_Parts=6ワイド\r\n    Eight_Wide_Parts=8ワイド\r\n    Ten_Wide_Parts=10ワイド\r\n    Twelve_Wide_Parts=12ワイド\r\n    Engine_Parts=エンジン\r\n    Aerodynamics_Parts=空気力学\r\n    Fairings_Parts=フェアリング\r\n    Structural_Parts=構造\r\n    Other_Parts=その他\r\n\r\n[Part Names]\r\n    Capsule_Name{0}=カプセル\r\n    Capsule_Name{1}=カプセル\r\n    Probe_Name{0}=プローブ\r\n    Probe_Name{1}=プローブ\r\n    Parachute_Name{0}=パラシュート\r\n    Parachute_Name{1}=パラシュート\r\n    Kolibri_Engine_Name{0}=コリブリエンジン\r\n    Kolibri_Engine_Name{1}=コリブリエンジン\r\n    Hawk_Engine_Name{0}=ホークエンジン\r\n    Hawk_Engine_Name{1}=ホークエンジン\r\n    Valiant_Engine_Name{0}=バリアントエンジン\r\n    Valiant_Engine_Name{1}=バリアントエンジン\r\n    Titan_Engine_Name{0}=タイタンエンジン\r\n    Titan_Engine_Name{1}=タイタンエンジン\r\n    Frontier_Engine_Name{0}=フロンティアエンジン\r\n    Frontier_Engine_Name{1}=フロンティアエンジン\r\n    Ion_Engine_Name{0}=イオンエンジン\r\n    Ion_Engine_Name{1}=イオンエンジン\r\n    RCS_Thruster_Name{0}=RCSスラスター\r\n    RCS_Thruster_Name{1}=RCSスラスター\r\n    Fuel_Tank_Name{0}=燃料タンク\r\n    Fuel_Tank_Name{1}=燃料タンク\r\n    Separator_Name{0}=セパレーター\r\n    Separator_Name{1}=セパレーター\r\n    Side_Separator_Name{0}=サイドセパレーター\r\n    Side_Separator_Name{1}=サイドセパレーター\r\n    Structural_Part_Name{0}=構造部品\r\n    Structural_Part_Name{1}=構造部品\r\n    Landing_Leg_Name{0}=降着装置\r\n    Landing_Leg_Name{1}=降着装置\r\n    Aerodynamic_Nose_Cone_Name{0}=空力ノーズコーン\r\n    Aerodynamic_Nose_Cone_Name{1}=空力ノーズコーン\r\n    Aerodynamic_Fuselage_Name{0}=空力胴体\r\n    Aerodynamic_Fuselage_Name{1}=空力胴体\r\n    Fairing_Name{0}=フェアリング\r\n    Fairing_Name{1}=フェアリング\r\n    Rover_Wheel_Name{0}=ローバーホイール\r\n    Rover_Wheel_Name{1}=ローバーホイール\r\n    Docking_Port_Name{0}=ドッキングポート\r\n    Docking_Port_Name{1}=ドッキングポート\r\n    Solar_Panel_Name{0}=ソーラーパネル\r\n    Solar_Panel_Name{1}=ソーラーパネル\r\n    Battery_Name{0}=バッテリー\r\n    Battery_Name{1}=バッテリー\r\n    RTG_Name{0}=RTG\r\n    RTG_Name{1}=RTG\r\n\r\n[Part Descriptions]\r\n    Capsule_Description=宇宙飛行士を1人乗せられる小型のカプセル\r\n    Probe_Description=片道ミッション用の無人プローブ\r\n    Parachute_Description=着陸用のパラシュート\r\n    Fuel_Tank_Description=液体燃料と液体酸素を搭載できる燃料タンク\r\n    Separator_Description=何もないステージを切り離すための縦型セパレーター\r\n    Side_Separator_Description=サイドブースターを切り離すための横型セパレーター\r\n    Landing_Leg_Description=衛星や惑星に降り立つための格納・展開可能な降着装置\r\n    Structural_Part_Description=軽量かつ頑丈な構造部品\r\n    Hawk_Engine_Description=主にロケットの第1ステージで用いられる高推力の低効率エンジン\r\n    Titan_Engine_Description=主にロケットの第1ステージで用いられる高推力の低効率エンジン\r\n    Valiant_Engine_Description=高効率、低推力。高推力が優先されない宇宙空間で用いられる\r\n    Frontier_Engine_Description=高効率、低推力。高推力が優先されない宇宙空間で用いられる\r\n    Kolibri_Engine_Description=ランダー用の小型エンジン\r\n    Ion_Engine_Description=非常に高効率な低推力エンジン\r\n    RCS_Thruster_Description=ドッキング用の指向性小型スラスター\r\n    Aerodynamic_Nose_Cone_Description=サイドブースターの空気力学を改善するための空力ノーズコーン\r\n    Aerodynamic_Fuselage_Description=エンジンを覆うための空力胴体\r\n    Fairing_Description=ペイロードを包み込むための空力フェアリング\r\n    Battery_Description=蓄電用のバッテリー\r\n    Solar_Panel_Description=展開時に電力を生成するソーラーパネル\r\n    RTG_Description=放射性同位体熱電気転換器（RTG）\r\n    Rover_Wheel_Description=惑星の表面を移動するためのローバーホイール\r\n    Docking_Port_Description=2つの乗物を連結するためのドッキングポート\r\n\r\n[Modules]\r\n    Activate_Separator=切り離す\r\n    Activate_Fairing=フェアリングを展開する\r\n\r\n    Torque_Module_Torque=トルク：%value%kN\r\n    Separation_Force=離脱力：%value%kN\r\n\r\n    State_On{0}=オン\r\n    State_Off{0}=オフ\r\n\r\n    Engine_Module_State=エンジン%state{0}%\r\n    Engine_On_Label=エンジンオン\r\n\r\n    Msg_RCS_Module_State=RCS %state{0}%\r\n\r\n    Wheel_Module_State=ローバーホイール %state{0}%\r\n    Wheel_On_Label=ホイールオン\r\n\r\n    Panel_Expanded=拡張中\r\n    Landing_Leg_Expanded=展開中\r\n\r\n    Info_Parachute_Max_Height=最大展開高：%height%\r\n    Button_Activate_Parachute=パラシュートを展開する\r\n    Msg_Cannot_Deploy_Parachute_In_Vacuum=真空中ではパラシュートを展開できません\r\n    Msg_Cannot_Deploy_Parachute_Above=%height%以上ではパラシュートを展開できません\r\n    Msg_Cannot_Fully_Deploy_Above=%height%以上ではパラシュートを完全に展開できません\r\n    Msg_Cannot_Deploy_Parachute_While_Faster=%velocity%以上で移動中はパラシュートを展開できません\r\n    Msg_Cannot_Deploy_Parachute_While_Not_Moving=移動していないときはパラシュートを展開できません\r\n    Msg_Parachute_Half_Deployed=パラシュート半展開中\r\n    Msg_Parachute_Fully_Deployed=パラシュート全展開中\r\n    Msg_Parachute_Cut=パラシュート切断\r\n\r\n[Planets]\r\n    Sun{0}=太陽\r\n    Sun{1}=太陽\r\n    Sun{2}=太陽\r\n    Mercury{0}=水星\r\n    Venus{0}=金星\r\n    Earth{0}=地球\r\n    Earth{1}=地球\r\n    Earth{2}=地球\r\n    Earth{3}=地球\r\n    Moon{0}=月\r\n    Moon{1}=月\r\n    Moon{2}=月\r\n    Mars{0}=火星\r\n    Phobos{0}=フォボス\r\n    Deimos{0}=ダイモス\r\n    Jupiter{0}=木星\r\n    Jupiter{1}=木星\r\n    Jupiter{2}=木星\r\n    Jupiter{3}=木星\r\n    Europa{0}=エウロパ\r\n    Ganymede{0}=ガニメデ\r\n    Io{0}=イオ\r\n    Callisto{0}=カリスト\r\n\r\n[Achievements]\r\n    Reached_Low_Orbit=%planet{0}%の低軌道に達しました\r\n    Reached_High_Orbit=%planet{0}%の高軌道に達しました\r\n    Descend_Low_Orbit=%planet{0}%の低軌道に降下しました\r\n    Capture_Low_Orbit=%planet{0}%の低軌道に捕らわれました\r\n    Capture_High_Orbit=%planet{0}%の高軌道に捕らわれました\r\n\r\n    Entered_Lower_Atmosphere=%planet{3}%の下層大気に入りました\r\n    Entered_Upper_Atmosphere=%planet{3}%の上層大気に入りました\r\n    Left_Lower_Atmosphere=%planet{3}%の上層大気に達しました\r\n    Left_Upper_Atmosphere=%planet{3}%の大気圏から離脱しました\r\n\r\n    Landed=%planet{1}%の地表に着陸しました\r\n    Crashed_Into_Terrain=%planet{1}%の地表に衝突しました\r\n\r\n    Entered_SOI=%planet{1}%の勢力範囲に入りました\r\n    Escaped_SOI=%planet{1}%の勢力範囲から離脱しました\r\n\r\n    Docked_Suborbital=%planet{1}%のサブオービタル経路に乗りました\r\n    Docked_Orbit_Low=%planet{0}%の低軌道に乗りました\r\n    Docked_Orbit_Transfer=%planet{1}%の遷移軌道に乗りました\r\n    Docked_Orbit_High=%planet{0}%の高軌道に乗りました\r\n    Docked_Escape=%planet{1}%の離脱経路に乗りました\r\n    Docked_Surface=%planet{1}%の地表に乗りました\r\n\r\n    Recover_Home=%planet{1}%に無事帰還しました\r\n    Recover_Landed=%planet{1}%の地表でミッションを終了しました\r\n    Recover_Space=%planet{1}%周辺の宇宙空間でミッションを終了しました\r\n"
+    referencedFontAssetGUID:
+    referencedTextAssetGUID: 44ed5c48030b27a4a9a125243c7440f3
+    fontStyle: 0
+    fontStyleModifier: 0
+    renderMode: 4165
+    includeFontFeatures: 0
+  m_FontWeightTable:
+  - regularTypeface: {fileID: 0}
+    italicTypeface: {fileID: 0}
+  - regularTypeface: {fileID: 0}
+    italicTypeface: {fileID: 0}
+  - regularTypeface: {fileID: 0}
+    italicTypeface: {fileID: 0}
+  - regularTypeface: {fileID: 0}
+    italicTypeface: {fileID: 0}
+  - regularTypeface: {fileID: 0}
+    italicTypeface: {fileID: 0}
+  - regularTypeface: {fileID: 0}
+    italicTypeface: {fileID: 0}
+  - regularTypeface: {fileID: 0}
+    italicTypeface: {fileID: 0}
+  - regularTypeface: {fileID: 0}
+    italicTypeface: {fileID: 0}
+  - regularTypeface: {fileID: 0}
+    italicTypeface: {fileID: 0}
+  - regularTypeface: {fileID: 0}
+    italicTypeface: {fileID: 0}
+  fontWeights: []
+  normalStyle: 0
+  normalSpacingOffset: 0
+  boldStyle: 0.75
+  boldSpacing: 7
+  italicStyle: 35
+  tabSize: 10

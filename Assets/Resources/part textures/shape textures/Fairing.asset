@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 860b7de57997b99969ef9f70b6398088, type: 3}
+  m_Name: Fairing
+  m_EditorClassIdentifier:
+  multiple: 0
+  segments: []
+  shapeTex:
+    textures:
+    - texture: {fileID: 2800000, guid: 8553c48c5e9d35742a7b6b7396d5d148, type: 3}
+      ideal: 0
+    border_Bottom:
+      uvSize: 0
+      sizeMode: 1
+      size: 0
+    border_Top:
+      uvSize: 0
+      sizeMode: 1
+      size: 0
+    center:
+      mode: 0
+      sizeMode: 0
+      size: 0.5
+      logoHeightPercent: 0.5
+      scaleLogoToFit: 0
+    fixedWidth: 1
+    fixedWidthValue: 0.3
+    flipToLight_X: 1
+    flipToLight_Y: 1
+    metalTexture: 0
+    icon: {fileID: 21300000, guid: 9a27b72c0ca0a17439723c9d7035580b, type: 2}
+  shadowTex: {fileID: 11400000, guid: 8e70ab8a5894d8f4eb0381d144b35017, type: 2}
+  tags:
+  - fairing
+  pack_Redstone_Atlas: 0

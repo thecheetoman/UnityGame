@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1402348611283423
+GameObject:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Component:
+  - component: {fileID: 4607604707359422}
+  - component: {fileID: 114676051187357146}
+  m_Layer: 0
+  m_Name: Liquids 1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4607604707359422
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1402348611283423}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: -0, z: -0}
+--- !u!114 &114676051187357146
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1402348611283423}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f2aaf51f1e865056d05179d6cd00b383, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  displayName: Liquid Fuel Rocketry
+  parts:
+  - part: {fileID: 114767852439621563, guid: 682254a2404b0ec44871c83575bd2a15, type: 2}
+    variantIndex_A: 0
+    variantIndex_B: 0
+  - part: {fileID: 114212587131766050, guid: 28f0f1a7441455e4bbbb56b6a3c55d7e, type: 2}
+    variantIndex_A: 0
+    variantIndex_B: 0
+  - part: {fileID: 114212587131766050, guid: 28f0f1a7441455e4bbbb56b6a3c55d7e, type: 2}
+    variantIndex_A: 0
+    variantIndex_B: 1
+  - part: {fileID: 114212587131766050, guid: 28f0f1a7441455e4bbbb56b6a3c55d7e, type: 2}
+    variantIndex_A: 0
+    variantIndex_B: 2
+  center: 0
+  cost: 45

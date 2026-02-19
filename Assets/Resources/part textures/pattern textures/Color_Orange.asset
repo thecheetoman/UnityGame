@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d8216f80317f6a43d6049efaae1d2ffa, type: 3}
+  m_Name: Color_Orange
+  m_EditorClassIdentifier:
+  multiple: 0
+  segments: []
+  colorTex:
+    textures:
+    - texture: {fileID: 2800000, guid: f03bf16c1c4823c4f9a3101f47490b52, type: 3}
+      ideal: 1
+    - texture: {fileID: 2800000, guid: d9d8d89705281064ba6ac8d33c2be897, type: 3}
+      ideal: 2
+    - texture: {fileID: 2800000, guid: 282d83fe43b703e4dacf80d86501c066, type: 3}
+      ideal: 4
+    - texture: {fileID: 2800000, guid: 116a21ce55c35c84389128d8b63330a9, type: 3}
+      ideal: 6
+    border_Bottom:
+      uvSize: 0
+      sizeMode: 0
+      size: 0.5
+    border_Top:
+      uvSize: 0
+      sizeMode: 0
+      size: 0.5
+    center:
+      mode: 2
+      sizeMode: 0
+      size: 1
+      logoHeightPercent: 0.5
+      scaleLogoToFit: 0
+    fixedWidth: 0
+    fixedWidthValue: 1
+    flipToLight_X: 0
+    flipToLight_Y: 0
+    metalTexture: 0
+    icon: {fileID: 21300000, guid: ee203210a3baaf34d983c5145fe50026, type: 2}
+  tags:
+  - tank
+  - cone
+  - fairing
+  pack_Redstone_Atlas: 0
