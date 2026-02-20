@@ -193,7 +193,7 @@ namespace SFS.UI
 
 		public override void Close()
 		{
-			MenuGenerator.OpenConfirmation(CloseMode.Current, () => Loc.main.Close_Game, () => Loc.main.Close, Application.Quit);
+			Application.Quit();
 		}
 	}
 }
