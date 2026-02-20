@@ -243,7 +243,7 @@ namespace TranslucentImage
 			target.filterMode = FilterMode.Bilinear;
 			sourceRt.filterMode = FilterMode.Bilinear;
 			material.SetVector(_cropRegionPropId, new Vector4(BlurRegion.xMin, BlurRegion.yMin, BlurRegion.xMax, BlurRegion.yMax));
-			Graphics.Blit(sourceRt, target, material, 1);
+			Graphics.Blit(sourceRt, target, material, 0);
 			for (int i = 2; i <= iteration; i++)
 			{
 				ProgressiveResampling(i, ref target);
