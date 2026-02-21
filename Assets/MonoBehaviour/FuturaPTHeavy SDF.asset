@@ -11,7 +11,7 @@ MonoBehaviour:
   m_EditorHideFlags: 0
   m_Script: {fileID: -667331979, guid: 67dfb1fdfb2b407222eda8e23ac8b724, type: 3}
   m_Name: FuturaPTHeavy SDF
-  m_EditorClassIdentifier:
+  m_EditorClassIdentifier: 
   hashCode: 256158743
   material: {fileID: 2100000, guid: 3e7cd611572091c479f2a1ab1f28e495, type: 2}
   materialHashCode: 385322583
@@ -12416,7 +12416,7 @@ MonoBehaviour:
     m_Width: 18
     m_Height: 153
   m_fontInfo:
-    Name:
+    Name: 
     PointSize: 0
     Scale: 0
     CharacterCount: 0
@@ -12453,7 +12453,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 170f9a08a6e545d42b08a7052ed71517, type: 2}
   - {fileID: 11400000, guid: 36f22daaaafa49245bf708d8353f439f, type: 2}
   m_CreationSettings:
-    sourceFontFileName:
+    sourceFontFileName: 
     sourceFontFileGUID: 0d772859f9f0dce4da0527f8ea1079fb
     pointSizeSamplingMode: 0
     pointSize: 44
@@ -12463,8 +12463,8 @@ MonoBehaviour:
     atlasHeight: 1024
     characterSetSelectionMode: 6
     characterSequence: 0020-007F,00A0-00FF,0100-017F,0400-04FF,2000-206F,236,0400-04FF
-    referencedFontAssetGUID:
-    referencedTextAssetGUID:
+    referencedFontAssetGUID: 
+    referencedTextAssetGUID: 
     fontStyle: 0
     fontStyleModifier: 0
     renderMode: 4165
