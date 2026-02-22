@@ -16,10 +16,10 @@ namespace SFS.World
 
 		private void Update()
 		{
-			if (planet.HasAtmosphereVisuals && WorldTime.main != null)
+			/*if (planet.HasAtmosphereVisuals && WorldTime.main != null)
 			{
 				planet.atmosphereMaterial.SetFloat("_PosX", (float)(WorldTime.main.worldTime * 5.0 / planet.Radius * (double)planet.data.atmosphereVisuals.CLOUDS.velocity % 1.0));
-			}
+			}*/
 		}
 
 		public static Atmosphere Create(Planet planet, Transform parent, Transform atmospherePrefab)
@@ -29,7 +29,7 @@ namespace SFS.World
 			obj.parent = parent;
 			obj.localPosition = Vector3.forward * planet.data.atmosphereVisuals.GRADIENT.positionZ;
 			obj.transform.localScale = Vector3.one * (float)(planet.data.atmosphereVisuals.GRADIENT.height + planet.Radius);
-			obj.GetComponent<MeshRenderer>().material = planet.atmosphereMaterial;
+			//obj.GetComponent<MeshRenderer>().material = planet.atmosphereMaterial;
 			Mesh mesh = obj.GetComponent<MeshFilter>().mesh;
 			mesh.uv = GetUV(mesh.uv.Length);
 			Atmosphere atmosphere = obj.gameObject.AddComponent<Atmosphere>();

@@ -6,8 +6,8 @@
     "difficulty": 2
   },
   "playtime": {
-    "lastPlayedTime_Ticks": 639072619419563941,
-    "totalPlayTime_Seconds": 90.0
+    "lastPlayedTime_Ticks": 639073513495659261,
+    "totalPlayTime_Seconds": 780.0
   },
   "cheats": {
     "infiniteFuel": false,
