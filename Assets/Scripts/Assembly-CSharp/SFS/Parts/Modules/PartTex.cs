@@ -7,7 +7,7 @@ namespace SFS.Parts.Modules
 		public Texture2D color;
 
 		public Texture2D shape;
-
+	
 		public Texture2D shadow;
 
 		public static readonly int ColorTexture = Shader.PropertyToID("_ColorTexture");

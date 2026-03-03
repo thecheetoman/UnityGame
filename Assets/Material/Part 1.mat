@@ -24,23 +24,37 @@ Material:
         m_Texture: {fileID: 2800000, guid: 3d3a56489aba6e2439e144c92d94594b, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _ColorTexture:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _GradientTex:
         m_Texture: {fileID: 2800000, guid: 89e07cde10e1fd241857377750673090, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ShadowTexture:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ShapeTexture:
+        m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
     - PixelSnap: 0
+    - _BaseDepth: 0.5
     - _BumpScale: 1
     - _ColorMask: 15
     - _Cutoff: 0.5
+    - _DepthMultiplier: 0.02
     - _DetailNormalMapScale: 1
     - _DstBlend: 0
     - _EnableExternalAlpha: 0
     - _GlossMapScale: 1
     - _Glossiness: 0.5
     - _GlossyReflections: 1
-    - _Intensity: 1.4966253
+    - _Intensity: 1.54
     - _Metallic: 0
     - _Mode: 0
     - _OcclusionStrength: 1

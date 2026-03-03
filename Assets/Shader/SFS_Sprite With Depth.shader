@@ -1,64 +1,98 @@
 Shader "SFS/Sprite With Depth" {
-	Properties {
-		[PerRendererData] _MainTex ("Sprite Texture", 2D) = "white" {}
-		_Color ("Tint", Vector) = (1,1,1,1)
-		_Depth ("Depth", Float) = 0
-		[MaterialToggle] PixelSnap ("Pixel snap", Float) = 0
-		[HideInInspector] _RendererColor ("RendererColor", Vector) = (1,1,1,1)
-		[HideInInspector] _Flip ("Flip", Vector) = (1,1,1,1)
-		[PerRendererData] _AlphaTex ("External Alpha", 2D) = "white" {}
-		[PerRendererData] _EnableExternalAlpha ("Enable External Alpha", Float) = 0
-	}
-	//DummyShaderTextExporter
-	SubShader{
-		Tags { "RenderType"="Opaque" }
-		LOD 200
+    Properties {
+        [PerRendererData] _MainTex ("Sprite Texture", 2D) = "white" {}
+        _Color ("Tint", Color) = (1,1,1,1)
+        _Depth ("Depth", Float) = 0
+        [MaterialToggle] PixelSnap ("Pixel snap", Float) = 0
+        [HideInInspector] _RendererColor ("RendererColor", Vector) = (1,1,1,1)
+        [HideInInspector] _Flip ("Flip", Vector) = (1,1,1,1)
+        [PerRendererData] _AlphaTex ("External Alpha", 2D) = "white" {}
+        [PerRendererData] _EnableExternalAlpha ("Enable External Alpha", Float) = 0
+    }
 
-		Pass
-		{
-			HLSLPROGRAM
-			#pragma vertex vert
-			#pragma fragment frag
+    SubShader {
+        Tags {
+            "Queue" = "Transparent"
+            "IgnoreProjector" = "True"
+            "RenderType" = "Transparent"
+            "PreviewType" = "Plane"
+            "CanUseSpriteAtlas" = "True"
+        }
 
-			float4x4 unity_ObjectToWorld;
-			float4x4 unity_MatrixVP;
-			float4 _MainTex_ST;
+        Cull Off
+        Lighting Off
+        ZWrite On          // Key feature — writes to depth buffer unlike default sprites
+        Blend SrcAlpha OneMinusSrcAlpha
 
-			struct Vertex_Stage_Input
-			{
-				float4 pos : POSITION;
-				float2 uv : TEXCOORD0;
-			};
+        Pass {
+            CGPROGRAM
+            #pragma vertex vert
+            #pragma fragment frag
+            #pragma multi_compile_instancing
+            #pragma multi_compile _ PIXELSNAP_ON
+            #pragma multi_compile _ ETC1_EXTERNAL_ALPHA
+            #include "UnityCG.cginc"
 
-			struct Vertex_Stage_Output
-			{
-				float2 uv : TEXCOORD0;
-				float4 pos : SV_POSITION;
-			};
+            sampler2D _MainTex;
+            sampler2D _AlphaTex;
+            fixed4 _Color;
+            fixed4 _RendererColor;
+            float4 _Flip;
+            float _EnableExternalAlpha;
+            float _Depth;
 
-			Vertex_Stage_Output vert(Vertex_Stage_Input input)
-			{
-				Vertex_Stage_Output output;
-				output.uv = (input.uv.xy * _MainTex_ST.xy) + _MainTex_ST.zw;
-				output.pos = mul(unity_MatrixVP, mul(unity_ObjectToWorld, input.pos));
-				return output;
-			}
+            struct appdata {
+                float4 vertex   : POSITION;
+                float2 uv       : TEXCOORD0;
+                fixed4 color    : COLOR;
+                UNITY_VERTEX_INPUT_INSTANCE_ID
+            };
 
-			Texture2D<float4> _MainTex;
-			SamplerState sampler_MainTex;
-			float4 _Color;
+            struct v2f {
+                float4 pos  : SV_POSITION;
+                float2 uv   : TEXCOORD0;
+                fixed4 color : COLOR;
+                UNITY_VERTEX_OUTPUT_STEREO
+            };
 
-			struct Fragment_Stage_Input
-			{
-				float2 uv : TEXCOORD0;
-			};
+            v2f vert(appdata v) {
+                v2f o;
+                UNITY_SETUP_INSTANCE_ID(v);
+                UNITY_INITIALIZE_VERTEX_OUTPUT_STEREO(o);
 
-			float4 frag(Fragment_Stage_Input input) : SV_TARGET
-			{
-				return _MainTex.Sample(sampler_MainTex, input.uv.xy) * _Color;
-			}
+                // Apply flip
+                v.vertex.xy *= _Flip.xy;
 
-			ENDHLSL
-		}
-	}
+                // Apply depth offset along Z
+                v.vertex.z += _Depth;
+
+                o.pos = UnityObjectToClipPos(v.vertex);
+                o.uv  = v.uv;
+
+                // Combine vertex color with tint and renderer color
+                o.color = v.color * _Color * _RendererColor;
+
+                #ifdef PIXELSNAP_ON
+                o.pos = UnityPixelSnap(o.pos);
+                #endif
+
+                return o;
+            }
+
+            fixed4 frag(v2f i) : SV_Target {
+                fixed4 col = tex2D(_MainTex, i.uv) * i.color;
+
+                #if ETC1_EXTERNAL_ALPHA
+                fixed4 alpha = tex2D(_AlphaTex, i.uv);
+                col.a = lerp(col.a, alpha.r, _EnableExternalAlpha);
+                #endif
+
+                // Discard fully transparent pixels so they don't write to depth
+                clip(col.a - 0.01);
+
+                return col;
+            }
+            ENDCG
+        }
+    }
 }
